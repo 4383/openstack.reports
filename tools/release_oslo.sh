@@ -2,8 +2,9 @@
 
 # Run it every thursday morning at 6am
 # 0 6 * * 4 hberaud cd /home/hberaud/dev/perso/openstack.reports; tools/release_oslo.sh
+current=$(pwd)
 base=/home/hberaud
-output=./reports/releases/oslo/$(date '+%Y-%m-%d-%H-%m-%s')
+output=${current}/reports/releases/oslo/$(date '+%Y-%m-%d-%H-%m-%s')
 
 if [ -d ${output} ]; then
     rm -rf ${output}
@@ -38,6 +39,7 @@ sed -i -e 's/^/#-# /' ${output}/stein.tmp2
 cat ${output}/stein.tmp2 >> ${output}/stein
 rm ${output}/*.tmp*
 
+cd ${current}
 git add ${output}
 git commit -m "Oslo releases report $(date)"
 git push
