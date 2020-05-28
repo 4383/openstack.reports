@@ -1,7 +1,8 @@
 #!/bin/bash
 
-# Run it every thursday morning at 6am
-# 0 6 * * 4 hberaud cd /home/hberaud/dev/perso/openstack.reports; tools/release_oslo.sh
+# Run it at every minute past hour 6 on Monday, Wednesday, and Friday
+# 0 6 * * 1,3,5 hberaud cd /home/hberaud/dev/perso/openstack.reports; tools/release_oslo.sh
+
 current=$(pwd)
 base=/home/hberaud
 output=${current}/reports/releases/oslo/$(date '+%Y-%m-%d-%H-%m-%s')
