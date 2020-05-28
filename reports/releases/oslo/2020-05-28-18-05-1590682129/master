@@ -1,0 +1,382 @@
+#-# [ Unreleased changes in openstack/automaton (master) ]
+#-# Changes between 2.0.1 and b4ab301
+#-# * b4ab301 2020-05-26 09:00:31 +0200 Small cleanup
+#-# * 76a8bdc 2020-04-24 08:22:33 -0500 Add py38 package metadata
+#-# | * 5333050 2020-04-24 10:25:22 -0500 Bump default tox env from py37 to py38
+#-# |/  
+#-# * a0e8aba 2020-04-14 10:11:28 +0000 Add Python3 victoria unit tests
+#-# * 3c793fa 2020-04-14 10:11:26 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/castellan (master) ]
+#-# Changes between 3.0.1 and df5653c
+#-# * 48f899a 2020-05-22 11:45:34 +0800 Fix hacking min version to 3.0.1
+#-# * a4028c2 2020-05-14 18:41:37 +0800 Remove translation sections from setup.cfg
+#-# * 27cf110 2020-04-18 11:52:10 -0500 Use unittest.mock instead of third party mock
+#-# * 89f311d 2020-05-06 21:31:27 +0800 add "verify_ssl_path" config for barbican key manager
+#-# * 68b8f53 2020-05-21 20:20:06 +0200 Switch to newer openstackdocstheme and reno versions
+#-# * e9dc8e5 2020-04-24 10:25:34 -0500 Bump default tox env from py37 to py38
+#-# * 687d7e7 2020-04-24 08:22:33 -0500 Add py38 package metadata
+#-# * 200fe87 2020-04-14 10:11:47 +0000 Add Python3 victoria unit tests
+#-# | * a1718bb 2020-03-31 13:08:37 +0000 Update hacking for Python3
+#-# * 57f5982 2020-04-14 10:11:44 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/debtcollector (master) ]
+#-# Changes between 2.0.1 and d5bc18e
+#-# * d5bc18e 2020-05-26 08:56:49 +0200 Switch to newer openstackdocstheme and reno versions
+#-# * 266192b 2020-05-09 14:39:58 +0200 Switch to Victoria tests
+#-# * 056d78b 2020-04-14 10:12:02 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/devstack-plugin-amqp1 (master) ]
+#-# openstack/devstack-plugin-amqp1 has not yet been released
+#-# [ Unreleased changes in openstack/devstack-plugin-kafka (master) ]
+#-# openstack/devstack-plugin-kafka has not yet been released
+#-# [ Unreleased changes in openstack/futurist (master) ]
+#-# Changes between 2.1.1 and 604b63d
+#-# * 604b63d 2020-05-26 08:59:13 +0200 Switch to newer openstackdocstheme and reno versions
+#-# * 8482360 2020-05-14 18:47:57 +0800 Remove translation sections from setup.cfg
+#-# * b29f99d 2020-05-04 17:17:01 -0500 Remove monotonic usage
+#-# * 34257a5 2020-04-24 10:25:38 -0500 Bump default tox env from py37 to py38
+#-# | * 8d542e4 2020-04-24 08:22:34 -0500 Add py38 package metadata
+#-# |/  
+#-# * cd07ab5 2020-04-18 11:52:37 -0500 Use unittest.mock instead of third party mock
+#-# * e2fd748 2020-04-14 10:12:21 +0000 Add Python3 victoria unit tests
+#-# * b283c27 2020-04-14 10:12:19 +0000 Update master for stable/ussuri
+#-# * 08f3dc2 2020-03-28 10:22:16 -0700 Remove unnecessary blockquote in release notes
+#-# [ Unreleased changes in openstack/mox3 (master) ]
+#-# Changes between 1.0.0 and 99a302f
+#-# * d27eb2c 2020-04-24 08:22:36 -0500 Add py38 package metadata
+#-# | * 02daff6 2020-04-24 10:25:44 -0500 Bump default tox env from py37 to py38
+#-# |/  
+#-# * 7cdcc4e 2020-04-14 10:12:35 +0000 Add Python3 victoria unit tests
+#-# [ Unreleased changes in openstack/oslo.cache (master) ]
+#-# Changes between 2.3.0 and 285e28c
+#-# * 9227352 2020-05-14 14:45:12 +0200 Adding functional tests
+#-# * 7baf1d3 2020-05-16 01:20:22 +0800 Remove the unused coding style modules
+#-# * 49b4d42 2020-05-18 21:08:45 +0200 Switch to newer openstackdocstheme and reno versions
+#-# | * 725b4b5 2020-05-09 14:09:03 +0200 Switch to Victoria tests
+#-# * fc215cc 2020-05-14 17:41:08 +0200 Fix pep8 failure
+#-# * ddd9807 2020-05-09 14:42:28 +0200 Small cleanups in tox.ini
+#-# * 231d682 2020-05-09 14:26:35 +0200 Remove six
+#-# * 955de57 2020-05-09 12:32:55 +0000 Remove unneeded babel.cfg etc
+#-# * 0e1c6f5 2020-04-22 11:41:16 +0200 [doc] tell to prefix ipv6 hosts with inet6
+#-# | * e4ba09e 2020-04-16 06:11:27 +0000 Imported Translations from Zanata
+#-# |/  
+#-# | * 0c741b7 2020-04-16 15:52:05 +0200 Add release notes links to doc index
+#-# |/  
+#-# * 70be98f 2020-04-14 10:12:51 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/oslo.concurrency (master) ]
+#-# Changes between 4.0.2 and 69418be
+#-# * 0ed7089 2020-05-15 17:17:02 +0000 Remove the unused coding style modules
+#-# | * 5fd22ea 2020-05-22 11:12:35 +0800 Fix hacking min version to 3.0.1
+#-# | * bfe7125 2020-05-18 21:08:01 +0200 Switch to newer openstackdocstheme and reno versions
+#-# | * dd5a141 2020-05-09 16:42:30 +0200 Remove six usage
+#-# |/  
+#-# | * 19fee9b 2020-05-09 16:43:35 +0200 Remove babel.cfg etc
+#-# |/  
+#-# * c5e0dfe 2020-04-29 09:48:50 +0000 Add py38 package metadata
+#-# * 463b32d 2020-04-29 09:03:41 +0000 Imported Translations from Zanata
+#-# * 1cb1746 2020-04-24 10:25:48 -0500 Bump default tox env from py37 to py38
+#-# * b1c4f34 2020-04-16 15:58:59 +0200 Add release notes links to doc index
+#-# * 1ac7001 2020-04-14 10:13:11 +0000 Add Python3 victoria unit tests
+#-# * 80a89c6 2020-04-14 10:13:09 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/oslo.config (master) ]
+#-# Changes between 8.0.2 and 2b698fa
+#-# * c6961e1 2020-05-16 04:26:38 +0000 Remove the unused coding style modules
+#-# * 8242416 2020-05-19 15:15:53 -0500 Raise hacking minimum to 3.0.1
+#-# | * 3019eed 2020-05-22 15:06:57 +0800 Add py38 package metadata
+#-# | * 6fc84b0 2020-05-04 13:42:31 +0800 Remove six from lower-constraints.txt
+#-# | | * 2c11e9d 2020-05-01 16:45:04 +0100 Resolve UnboundLocalError
+#-# * | b1836ad 2020-05-12 11:22:03 -0500 Cap flake8 to be < 3.8.0
+#-#  /  
+#-# | * e5618ff 2020-04-14 10:13:32 +0000 Add Python3 victoria unit tests
+#-# | * 881b2e6 2020-04-14 10:13:29 +0000 Update master for stable/ussuri
+#-# * df5e5db 2020-05-01 16:04:34 +0000 docs: Mention other ways of escaping '$'
+#-# * c89ddcd 2020-04-16 15:25:56 +0200 Add release notes links to doc index
+#-# * 66b3da9 2020-03-31 14:40:09 -0500 Use unittest.mock instead of third party mock
+#-# * 76075a6 2020-04-14 11:04:14 +0000 Mark sphinx extensions thread safe
+#-# * 1b248b4 2020-04-13 10:21:20 -0500 Remove redundant class docstring info
+#-# [ Unreleased changes in openstack/oslo.context (master) ]
+#-# Changes between 3.0.2 and 9abd745
+#-# * e43df8b 2020-05-22 11:10:19 +0800 Fix hacking min version to 3.0.1
+#-# | * d5e7126 2020-04-16 17:15:28 +0200 Add release notes links to doc index
+#-# | | * 1e52164 2020-05-15 17:17:56 +0000 Remove the unused coding style modules
+#-# | | * 2891d3b 2020-05-22 21:02:57 +0000 Remove translation sections from setup.cfg
+#-# | |/  
+#-# |/|   
+#-# * | 872d02b 2020-05-18 21:06:45 +0200 Switch to newer openstackdocstheme and reno versions
+#-#  /  
+#-# | * 94247f7 2020-04-24 08:23:12 -0500 Add py38 package metadata
+#-# |/  
+#-# | * 0fa8cb9 2020-04-24 10:25:48 -0500 Bump default tox env from py37 to py38
+#-# |/  
+#-# * f117ddd 2020-04-14 10:13:48 +0000 Add Python3 victoria unit tests
+#-# * 439ed09 2020-04-14 10:13:46 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/oslo.db (master) ]
+#-# Changes between 8.1.0 and e836420
+#-# * ec81810 2020-05-22 10:29:38 +0800 Fix hacking min version to 3.0.1
+#-# | * ad13a5c 2020-04-16 17:19:36 +0200 Add release notes links to doc index
+#-# | | * 43e263e 2020-05-15 17:16:23 +0000 Remove the unused coding style modules
+#-# | | * 05c90f5 2020-05-15 11:42:02 +0800 Remove translation sections from setup.cfg
+#-# * | db6a84a 2020-05-18 21:07:24 +0200 Switch to newer openstackdocstheme and reno versions
+#-#  /  
+#-# | * 3db4248 2020-04-24 10:25:49 -0500 Bump default tox env from py37 to py38
+#-# | * 706f299 2020-04-24 08:23:12 -0500 Add py38 package metadata
+#-# | * 85573e0 2020-04-06 10:38:29 -0400 Modernize use of table.count() with func.count()
+#-# | * 1568124 2020-04-14 15:08:40 -0500 Remove use of deprecated LOG.warn
+#-# |/  
+#-# | * 6d81455 2020-04-19 07:09:33 +0000 Imported Translations from Zanata
+#-# |/  
+#-# * a07dcd0 2020-04-14 10:14:09 +0000 Add Python3 victoria unit tests
+#-# * bd20ef8 2020-04-14 10:14:06 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/oslo.i18n (master) ]
+#-# Changes between 4.0.1 and 9975652
+#-# * 9975652 2020-05-27 19:30:22 +0000 Remove a couple more shim tests
+#-# * 93b1405 2020-05-26 16:47:13 +0000 Remove Message.translate
+#-# * 0901283 2020-05-22 21:01:11 +0000 Add Babel aliases to get_available_languages
+#-# * 863e097 2020-05-27 08:46:19 +0000 Imported Translations from Zanata
+#-# * 9db7c9a 2020-05-15 17:19:35 +0000 Remove the unused coding style modules
+#-# * 22df2f6 2020-05-15 11:16:23 +0800 Remove translation sections from setup.cfg
+#-# * 8c60d42 2020-05-21 13:43:40 +0000 Switch to newer openstackdocstheme and reno versions
+#-# * e6d23dc 2020-04-24 08:23:12 -0500 Add py38 package metadata
+#-# | * eca3b07 2020-04-24 10:25:49 -0500 Bump default tox env from py37 to py38
+#-# |/  
+#-# * 4e907ed 2020-04-16 17:31:19 +0100 Drop use of babel
+#-# * 434773e 2020-04-14 10:14:26 +0000 Add Python3 victoria unit tests
+#-# * 20fa798 2020-04-14 10:14:24 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/oslo.limit (master) ]
+#-# Changes between 1.0.2 and 1a64aa8
+#-# * 4fb7dd3 2020-05-15 18:09:36 +0800 Remove translation sections from setup.cfg
+#-# | * ee778fa 2020-05-15 17:19:14 +0000 Remove the unused coding style modules
+#-# |/  
+#-# | * 16f9098 2020-05-21 13:42:35 +0000 Switch to newer openstackdocstheme and reno versions
+#-# |/  
+#-# * 3b5a820 2020-04-14 10:14:43 +0000 Add Python3 victoria unit tests
+#-# * b268509 2020-04-14 10:14:41 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/oslo.log (master) ]
+#-# Changes between 4.1.1 and d0be4dc
+#-# * 5b12e66 2020-05-07 14:46:08 +0200 Add missing SYSLOG_FACILITY to JournalHandler
+#-# | * 33b3269 2020-04-16 17:24:22 +0200 Add release notes links to doc index
+#-# | | * 9d28909 2020-05-15 17:17:36 +0000 Remove the unused coding style modules
+#-# | |/  
+#-# |/|   
+#-# | | * 305b06c 2020-05-15 11:16:23 +0800 Remove translation sections from setup.cfg
+#-# | |/  
+#-# |/|   
+#-# | | * 229b05b 2020-05-21 13:44:07 +0000 Switch to newer openstackdocstheme and reno versions
+#-# | |/  
+#-# |/|   
+#-# * | 105eadb 2020-05-04 17:26:30 -0500 Remove monotonic usage
+#-#  /  
+#-# | * 733aadb 2020-04-24 08:23:12 -0500 Add py38 package metadata
+#-# | | * 3bb0513 2020-04-24 10:25:49 -0500 Bump default tox env from py37 to py38
+#-# | |/  
+#-# | * 50e5983 2020-04-16 06:14:33 +0000 Imported Translations from Zanata
+#-# |/  
+#-# * a3c14c2 2020-04-14 10:15:02 +0000 Add Python3 victoria unit tests
+#-# * 14f0294 2020-04-14 10:15:00 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/oslo.messaging (master) ]
+#-# Changes between 12.1.0 and 03f0d63b
+#-# * 28d0f432 2020-05-22 10:20:59 +0800 Fix hacking min version to 3.0.1
+#-# | * 67defab9 2020-05-15 17:16:12 +0000 Remove the unused coding style modules
+#-# * | 9cc3f52a 2020-05-18 20:55:51 +0200 Switch to newer openstackdocstheme and reno versions
+#-# * | e44c9883 2020-05-11 10:21:58 +0200 Remove six usage
+#-# |/  
+#-# * c1768401 2020-05-04 17:02:44 -0500 Remove monotonic usage
+#-# * a7b9c70f 2020-04-24 10:25:49 -0500 Bump default tox env from py37 to py38
+#-# * 243c6a7e 2020-04-24 08:23:12 -0500 Add py38 package metadata
+#-# * 7f4dafc3 2020-04-16 15:30:22 +0200 Add release notes links to doc index
+#-# * d011c7f2 2020-04-16 08:13:17 +0000 Imported Translations from Zanata
+#-# * 2c2779a9 2020-04-05 20:55:04 +0800 Fix some typos
+#-# * 9a66fe2a 2020-04-14 10:15:32 +0000 Add Python3 victoria unit tests
+#-# * 434ec937 2020-04-14 10:15:30 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/oslo.middleware (master) ]
+#-# Changes between 4.0.2 and 0c91e60
+#-# * 2c035c5 2020-05-15 11:16:23 +0800 Remove translation sections from setup.cfg
+#-# * aab7306 2020-04-16 17:49:50 +0200 Add release notes links to doc index
+#-# * dd88e32 2020-05-22 10:57:14 +0800 Fix hacking min version to 3.0.1
+#-# * d198330 2020-05-15 17:18:18 +0000 Remove the unused coding style modules
+#-# * 620c668 2020-05-18 21:09:23 +0200 Switch to newer openstackdocstheme and reno versions
+#-# * 37ceca6 2020-05-06 07:12:09 -0500 Drop use of six
+#-# * e62d949 2020-04-24 08:23:12 -0500 Add py38 package metadata
+#-# * e17e036 2020-04-24 10:25:50 -0500 Bump default tox env from py37 to py38
+#-# * c283966 2020-04-14 10:15:50 +0000 Add Python3 victoria unit tests
+#-# * 3866b36 2020-04-14 10:15:48 +0000 Update master for stable/ussuri
+#-# * d971880 2020-04-13 11:16:21 +0200 Cleanup py27 support
+#-# [ Unreleased changes in openstack/oslo.policy (master) ]
+#-# Changes between 3.1.0 and 3502f73
+#-# * c535a7a 2020-05-15 17:18:43 +0000 Remove the unused coding style modules
+#-# | * 9614f0d 2020-04-13 08:58:54 -0500 Mark sphinx extensions thread safe
+#-# | * 9f025d0 2020-05-15 11:08:42 +0800 Remove translation sections from setup.cfg
+#-# |/  
+#-# | * b3b1bd0 2020-05-18 20:56:38 +0200 Switch to newer openstackdocstheme and reno versions
+#-# |/  
+#-# * 0625035 2020-04-28 10:47:18 +0100 docs: Add description of 'oslopolicy-policy-generator'
+#-# * dec4672 2020-04-24 08:23:13 -0500 Add py38 package metadata
+#-# * c0a56a7 2020-04-24 10:25:50 -0500 Bump default tox env from py37 to py38
+#-# * a846278 2020-04-07 08:24:19 +0000 Remove the conversion according to the comment of jdennis
+#-# * 4692841 2020-04-14 10:16:09 +0000 Add Python3 victoria unit tests
+#-# * 6aea736 2020-04-14 10:16:07 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/oslo.privsep (master) ]
+#-# Changes between 2.1.1 and 18d42bd
+#-# * 8ba1ed6 2020-05-22 11:51:49 +0800 Fix hacking min version to 3.0.1
+#-# | * d707542 2020-05-15 11:28:52 +0800 Remove translation sections from setup.cfg
+#-# | * d854828 2020-04-16 15:57:50 +0200 Add release notes links to doc index
+#-# | | * 95d8f6d 2020-05-15 17:19:25 +0000 Remove the unused coding style modules
+#-# * | c9cc428 2020-05-18 20:53:43 +0200 Switch to newer openstackdocstheme and reno versions
+#-#  /  
+#-# | * e9da643 2020-04-24 08:23:13 -0500 Add py38 package metadata
+#-# |/  
+#-# | * 186ed27 2020-04-24 10:25:50 -0500 Bump default tox env from py37 to py38
+#-# |/  
+#-# * 10013b3 2020-04-14 10:16:27 +0000 Add Python3 victoria unit tests
+#-# * e79579c 2020-04-14 10:16:25 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/oslo.reports (master) ]
+#-# Changes between 2.0.1 and 138925c
+#-# * f15936b 2020-05-15 17:19:46 +0000 Remove the unused coding style modules
+#-# * 119b241 2020-05-15 11:16:23 +0800 Remove translation sections from setup.cfg
+#-# * 8e91407 2020-05-18 20:57:21 +0200 Switch to newer openstackdocstheme and reno versions
+#-# * fff0402 2020-04-24 08:23:13 -0500 Add py38 package metadata
+#-# | * 3a818cd 2020-04-24 10:25:50 -0500 Bump default tox env from py37 to py38
+#-# |/  
+#-# * b8188bc 2020-04-14 10:16:44 +0000 Add Python3 victoria unit tests
+#-# * b6c74f9 2020-04-14 10:16:42 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/oslo.rootwrap (master) ]
+#-# Changes between 6.0.2 and 45df949
+#-# * b403e0d 2020-05-22 10:49:30 +0800 Fix hacking min version to 3.0.1
+#-# | * 0332ffc 2020-05-16 01:10:09 +0800 Remove the unused coding style modules
+#-# | * ee39ce3 2020-05-13 15:21:33 +0000 Avoid raising a RuntimeError during the shutdown
+#-# * 4c04806 2020-05-18 20:58:01 +0200 Switch to newer openstackdocstheme and reno versions
+#-# * 9fd61c8 2020-04-24 08:23:13 -0500 Add py38 package metadata
+#-# | * 6caa7f0 2020-04-24 10:25:51 -0500 Bump default tox env from py37 to py38
+#-# |/  
+#-# * d689527 2020-04-14 10:17:02 +0000 Add Python3 victoria unit tests
+#-# * d318c80 2020-04-14 10:17:00 +0000 Update master for stable/ussuri
+#-# * 4445f32 2020-04-02 15:05:26 +0200 Update hacking for Python3
+#-# [ Unreleased changes in openstack/oslo.serialization (master) ]
+#-# Changes between 3.1.1 and 9561b8d
+#-# * 24608da 2020-05-16 01:10:09 +0800 Remove the unused coding style modules
+#-# * 16e266c 2020-05-15 11:28:52 +0800 Remove translation sections from setup.cfg
+#-# * f716c67 2020-05-18 21:03:54 +0200 Switch to newer openstackdocstheme and reno versions
+#-# * e3a1e94 2020-04-24 08:23:13 -0500 Add py38 package metadata
+#-# | * e5e55b3 2020-04-24 10:25:51 -0500 Bump default tox env from py37 to py38
+#-# |/  
+#-# * f1e1ae4 2020-04-14 10:17:20 +0000 Add Python3 victoria unit tests
+#-# * 8bcc081 2020-04-14 10:17:18 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/oslo.service (master) ]
+#-# Changes between 2.1.1 and a61c15d
+#-# * d08727e 2020-05-26 15:20:01 +0200 Drop six usages
+#-# * 2e0ef27 2020-05-22 10:53:52 +0800 Fix hacking min version to 3.0.1
+#-# | * f4f9e80 2020-04-16 15:56:45 +0200 Add release notes links to doc index
+#-# | * d804287 2020-05-15 17:17:26 +0000 Remove the unused coding style modules
+#-# | * 4da02c3 2020-05-15 11:16:23 +0800 Remove translation sections from setup.cfg
+#-# * 3803ff2 2020-05-18 20:54:17 +0200 Switch to newer openstackdocstheme and reno versions
+#-# * 6793fe1 2020-05-05 09:37:02 -0500 Remove monotonic usage
+#-# * b83ce33 2020-05-04 14:07:31 -0400 Monkey patch original current_thread _active
+#-# * 50306b5 2020-04-24 08:23:13 -0500 Add py38 package metadata
+#-# | * bdb2de8 2020-04-24 10:25:51 -0500 Bump default tox env from py37 to py38
+#-# |/  
+#-# * 7d35788 2020-04-20 09:29:01 -0500 Use unittest.mock instead of third party mock
+#-# * ad041f4 2020-04-14 10:17:38 +0000 Add Python3 victoria unit tests
+#-# * 3c812fc 2020-04-14 10:17:36 +0000 Update master for stable/ussuri
+#-# * 5f184f1 2020-04-13 11:18:16 +0200 Cleanup py27 support
+#-# [ Unreleased changes in openstack/oslo.upgradecheck (master) ]
+#-# Changes between 1.0.1 and 9a1b0ce
+#-# * 9a1b0ce 2020-05-18 21:01:34 +0200 Switch to newer openstackdocstheme and reno versions
+#-# * 6d20f41 2020-04-24 08:23:14 -0500 Add py38 package metadata
+#-# | * 87d2e49 2020-04-24 10:25:52 -0500 Bump default tox env from py37 to py38
+#-# |/  
+#-# * 4129bae 2020-04-17 11:43:52 +0200 Remove Babel from requirements
+#-# * 4918c49 2020-04-14 10:17:54 +0000 Add Python3 victoria unit tests
+#-# * 364b571 2020-04-14 10:17:52 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/oslo.utils (master) ]
+#-# Changes between 4.1.1 and c3e084c
+#-# * 64cbef8 2020-05-22 10:42:58 +0800 Fix hacking min version to 3.0.1
+#-# | * 7fd3563 2020-04-16 17:47:51 +0200 Add release notes links to doc index
+#-# | | * fadc077 2020-05-15 17:17:46 +0000 Remove the unused coding style modules
+#-# | | | * 6836944 2020-05-15 11:28:52 +0800 Remove translation sections from setup.cfg
+#-# | | |/  
+#-# * | | fa0f2d5 2020-05-18 21:00:59 +0200 Switch to newer openstackdocstheme and reno versions
+#-# | |/  
+#-# |/|   
+#-# * | f511ca0 2020-05-04 17:30:01 -0500 Remove monotonic usage
+#-# * | a91e6b9 2020-04-29 09:16:22 +0000 Imported Translations from Zanata
+#-# |/  
+#-# * 63eb2c5 2020-04-14 10:18:11 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/oslo.versionedobjects (master) ]
+#-# Changes between 2.0.2 and b1eeb2c
+#-# * dd091c8 2020-05-25 12:02:01 +0000 Switch to newer openstackdocstheme and reno versions
+#-# | * d512ecc 2020-04-16 17:51:22 +0200 Add release notes links to doc index
+#-# | | * f1cc6d3 2020-05-22 09:23:21 +0000 Imported Translations from Zanata
+#-# | |/  
+#-# |/|   
+#-# * | d459c3f 2020-05-16 19:29:41 +0200 Update hacking for Python3
+#-#  /  
+#-# | * b59f459 2020-04-23 15:24:32 +0100 trivial: Mock warnings
+#-# |/  
+#-# | * 6b9f284 2020-04-24 08:23:14 -0500 Add py38 package metadata
+#-# |/  
+#-# | * dd3860a 2020-04-24 10:25:52 -0500 Bump default tox env from py37 to py38
+#-# |/  
+#-# * 5655e7f 2020-04-14 10:18:34 +0000 Add Python3 victoria unit tests
+#-# * 0e037db 2020-04-14 10:18:32 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/oslo.vmware (master) ]
+#-# Changes between 3.3.1 and 90c3e68
+#-# * 20bc961 2020-05-27 07:20:35 -0700 Validation of VMDK upload completion
+#-# * 5d68c5e 2020-05-15 11:57:56 +0800 Remove translation sections from setup.cfg
+#-# * 2827bd1 2020-05-22 11:04:01 +0800 Fix hacking min version to 3.0.1
+#-# | * 8af78e7 2020-04-16 17:52:23 +0200 Add release notes links to doc index
+#-# | | * c65c2a6 2020-05-20 08:40:41 +0000 Imported Translations from Zanata
+#-# | |/  
+#-# |/|   
+#-# | | * 6b92578 2020-05-15 17:16:51 +0000 Remove the unused coding style modules
+#-# * | 39c29f6 2020-05-18 20:54:49 +0200 Switch to newer openstackdocstheme and reno versions
+#-#  /  
+#-# | * 8cb8830 2020-04-24 08:23:14 -0500 Add py38 package metadata
+#-# |/  
+#-# | * e37be9d 2020-04-24 10:25:52 -0500 Bump default tox env from py37 to py38
+#-# |/  
+#-# * c307a0e 2020-04-14 10:18:53 +0000 Add Python3 victoria unit tests
+#-# * 5c96ff6 2020-04-14 10:18:51 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/oslotest (master) ]
+#-# Changes between 4.2.0 and a789adb
+#-# * 92fce72 2020-04-16 17:42:01 +0200 Add release notes links to doc index
+#-# | * 58b40e7 2020-05-18 20:59:21 +0200 Switch to newer openstackdocstheme and reno versions
+#-# | * bc625c7 2020-04-24 08:23:14 -0500 Add py38 package metadata
+#-# |/  
+#-# | * aed3f5e 2020-04-24 10:25:52 -0500 Bump default tox env from py37 to py38
+#-# |/  
+#-# * 091ca22 2020-04-14 10:19:11 +0000 Add Python3 victoria unit tests
+#-# * 98f29f8 2020-04-14 10:19:09 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/osprofiler (master) ]
+#-# Changes between 3.1.0 and c4c57a1
+#-# * 99332da 2020-04-24 10:25:53 -0500 Bump default tox env from py37 to py38
+#-# | * 2b2d4fe 2020-04-24 08:23:14 -0500 Add py38 package metadata
+#-# |/  
+#-# * 3fc760a 2020-04-20 12:43:51 +0200 Enforce order of import statements
+#-# * 6a4d27f 2020-04-18 11:57:01 -0500 Use unittest.mock instead of third party mock
+#-# * 3c95bd5 2020-04-14 10:19:30 +0000 Add Python3 victoria unit tests
+#-# * 6d07dab 2020-04-14 10:19:28 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/stevedore (master) ]
+#-# Changes between 1.32.0 and 4534874
+#-# * 4534874 2020-05-04 18:22:39 +0200 Add Python3 victoria unit tests
+#-# * edc7f06 2020-04-21 15:14:20 +0100 Mark sphinx extensions thread safe
+#-# * ee784d5 2020-04-21 15:14:20 +0100 Remove dead files
+#-# * 1aca4bc 2020-04-21 15:14:10 +0100 Drop Python 2.7 support
+#-# * 08cf225 2020-04-14 10:19:45 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/taskflow (master) ]
+#-# Changes between 4.1.0 and c734b8ed
+#-# * 7497435e 2020-04-16 17:55:13 +0200 Add release notes links to doc index
+#-# | * ba93ce24 2020-05-01 11:25:29 -0500 Import modules, not classes
+#-# | * 4a1ca810 2020-04-24 08:23:22 -0500 Add py38 package metadata
+#-# | | * 504e3852 2020-04-24 10:26:04 -0500 Bump default tox env from py37 to py38
+#-# | |/  
+#-# | * e9aab348 2020-04-14 13:31:44 -0500 Drop use of deprecated collections classes
+#-# |/  
+#-# * 7d144b75 2020-04-14 10:20:11 +0000 Add Python3 victoria unit tests
+#-# * a0e3d21f 2020-04-14 10:20:09 +0000 Update master for stable/ussuri
+#-# [ Unreleased changes in openstack/tooz (master) ]
+#-# Changes between 2.3.0 and 94bf257
+#-# * b11456a 2020-04-14 10:20:27 +0000 Update master for stable/ussuri
+#-# * b60eee6 2020-05-14 13:13:57 +0200 Switch to Victoria tests
+#-# | * 08b2d93 2020-05-14 21:48:49 -0400 Add support for Consul ACL token parameter.
+#-# |/  
+#-# * 977c7b9 2020-05-14 13:11:37 +0200 Add nose as test-requirement
+#-# * 4be7780 2020-03-25 13:17:59 +0100 ignore reno generated artifacts
+#-# * 2546cfc 2020-04-28 16:49:12 -0400 Fix mysql driver comparison operator
