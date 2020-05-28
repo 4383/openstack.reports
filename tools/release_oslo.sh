@@ -2,6 +2,7 @@
 
 # Run it every thursday morning at 6am
 # 0 6 * * 4 hberaud cd /home/hberaud/dev/perso/openstack.reports; tools/release_oslo.sh
+base=/home/hberaud
 output=./reports/releases/oslo/$(date '+%Y-%m-%d-%H-%m-%s')
 
 if [ -d ${output} ]; then
