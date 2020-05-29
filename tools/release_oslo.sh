@@ -91,5 +91,5 @@ rm ${output}/*.tmp*
 #########################################
 cd ${current}
 git add ${output}
-git commit -m "Oslo releases report $(date)"
+git commit -m "[report] Oslo releases report $(date)"
 git push
