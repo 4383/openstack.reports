@@ -1,0 +1,28 @@
+#-# [ Unreleased changes in openstack/microversion-parse (master) ]
+#-# Changes between 1.0.1 and 2c36df6
+#-# [ Unreleased changes in openstack/openstack-doc-tools (master) ]
+#-# Changes between 3.0.0 and 7ee7713
+#-# * 7ee7713 2020-05-29 12:45:49 +0200 Switch to newer openstackdocstheme and reno versions
+#-# * f13c797 2020-04-05 10:14:14 +0200 Cleanup py27 support
+#-# * ae0833a 2020-03-30 12:03:26 +0000 Update hacking for Python3
+#-# * b9d280a 2020-03-24 12:04:33 +0100 Update sitemap for Python3
+#-# [ Unreleased changes in openstack/openstackdocstheme (master) ]
+#-# Changes between 2.2.2 and d50612c
+#-# * d50612c 2020-06-01 16:06:38 +0800 Add py38 package metadata
+#-# [ Unreleased changes in openstack/os-api-ref (master) ]
+#-# Changes between 2.0.1 and ca0db9d
+#-# * ca0db9d 2020-06-02 13:35:48 +0200 Switch to newer openstackdocstheme version
+#-# * 6b7db75 2020-05-19 15:47:09 +0900 Remove .testr.conf
+#-# * 63e1344 2020-04-26 14:13:10 +0200 Remove unused translation content
+#-# * b5ffcc3 2020-03-29 12:54:17 +0900 Update sphinx-testing requirements to >=1.0.1
+#-# [ Unreleased changes in openstack/pbr (master) ]
+#-# Changes between 5.4.5 and 9257b68
+#-# [ Unreleased changes in openstack/pylockfile (master) ]
+#-# Changes between 0.12.2 and f3453b8
+#-# * f3453b8 2017-09-30 11:34:10 +0800 Farewell pylockfile
+#-# * 99870bf 2016-03-17 09:52:27 -0700 Remove oslo.concurrency from replacement recommendation
+#-# * 4977769 2015-12-26 14:22:53 +0530 py32/py33 are no longer supported by Infra's CI
+#-# * 4cc347c 2015-11-26 13:02:32 +0100 Rewrite README file
+#-# [ Unreleased changes in openstack/sphinx-feature-classification (master) ]
+#-# Changes between 1.0.1 and 623f5bb
+#-# * 623f5bb 2020-06-02 13:49:12 +0200 Switch to newer openstackdocstheme and reno versions

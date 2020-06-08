@@ -1,0 +1,112 @@
+#-# [ Unreleased changes in openstack/automaton (master) ]
+#-# Changes between 2.1.0 and db875ea
+#-# [ Unreleased changes in openstack/castellan (master) ]
+#-# Changes between 3.1.0 and df5653c
+#-# [ Unreleased changes in openstack/debtcollector (master) ]
+#-# Changes between 2.1.0 and 17ab8c0
+#-# [ Unreleased changes in openstack/devstack-plugin-amqp1 (master) ]
+#-# openstack/devstack-plugin-amqp1 has not yet been released
+#-# [ Unreleased changes in openstack/devstack-plugin-kafka (master) ]
+#-# openstack/devstack-plugin-kafka has not yet been released
+#-# [ Unreleased changes in openstack/futurist (master) ]
+#-# Changes between 2.2.0 and 604b63d
+#-# [ Unreleased changes in openstack/mox3 (master) ]
+#-# Changes between 1.1.0 and 99a302f
+#-# [ Unreleased changes in openstack/oslo.cache (master) ]
+#-# Changes between 2.4.1 and 6aa2892
+#-# [ Unreleased changes in openstack/oslo.concurrency (master) ]
+#-# Changes between 4.1.0 and 174b291
+#-# * 8244a8a 2020-06-02 20:38:50 +0200 Stop to use the __future__ module.
+#-# [ Unreleased changes in openstack/oslo.config (master) ]
+#-# ++ dirname /home/hberaud/dev/redhat/upstream/openstack/releases/tools/clone_repo.sh
+#-# + BINDIR=/home/hberaud/dev/redhat/upstream/openstack/releases/tools
+#-# + WORKSPACE=.
+#-# + CACHE_DIR=/opt/git
+#-# + BRANCH=master
+#-# + REF=
+#-# + UPSTREAM=https://opendev.org
+#-# ++ uname
+#-# + [[ Linux != \D\a\r\w\i\n ]]
+#-# ++ getopt -o hv --long branch:,cache-dir:,ref:,upstream:,workspace: -n /home/hberaud/dev/redhat/upstream/openstack/releases/tools/clone_repo.sh -- --branch master openstack/oslo.config
+#-# + OPTS=' --branch '\''master'\'' -- '\''openstack/oslo.config'\'''
+#-# + '[' 0 '!=' 0 ']'
+#-# + eval set -- ' --branch '\''master'\'' -- '\''openstack/oslo.config'\'''
+#-# ++ set -- --branch master -- openstack/oslo.config
+#-# + true
+#-# + case "$1" in
+#-# + BRANCH=master
+#-# + shift
+#-# + shift
+#-# + true
+#-# + case "$1" in
+#-# + shift
+#-# + break
+#-# + REPO=openstack/oslo.config
+#-# + shift
+#-# + '[' -z openstack/oslo.config ']'
+#-# + '[' '!' -d . ']'
+#-# + set -e
+#-# + cache_remote=/opt/git/opendev.org/openstack/oslo.config
+#-# + '[' '!' -d /opt/git/opendev.org/openstack/oslo.config ']'
+#-# + echo 'WARNING: Cache directory /opt/git/opendev.org/openstack/oslo.config does not exist, ignoring.'
+#-# WARNING: Cache directory /opt/git/opendev.org/openstack/oslo.config does not exist, ignoring.
+#-# + cache_remote=
+#-# + upstream_remote=https://opendev.org/openstack/oslo.config
+#-# + local_dir=./openstack/oslo.config
+#-# + '[' -d ./openstack/oslo.config ']'
+#-# + '[' '!' -z '' ']'
+#-# + cd .
+#-# + git clone https://opendev.org/openstack/oslo.config openstack/oslo.config
+#-# Clonage dans 'openstack/oslo.config'...
+#-# error: RPC failed; curl 56 OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 104
+#-# fatal: L'hôte distant a fermé la connexion de manière inattendue
+#-# fatal: fin de fichier prématurée
+#-# fatal: échec de index-pack
+#-# [ Unreleased changes in openstack/oslo.context (master) ]
+#-# Changes between 3.1.0 and 9abd745
+#-# [ Unreleased changes in openstack/oslo.db (master) ]
+#-# Changes between 8.2.0 and e836420
+#-# [ Unreleased changes in openstack/oslo.i18n (master) ]
+#-# Changes between 5.0.0 and 761ce99
+#-# [ Unreleased changes in openstack/oslo.limit (master) ]
+#-# Changes between 1.1.0 and 0b35c16
+#-# * bce0b7d 2020-06-01 14:40:20 -0700 Add debug tox environment
+#-# [ Unreleased changes in openstack/oslo.log (master) ]
+#-# Changes between 4.2.1 and 65d5ec3
+#-# [ Unreleased changes in openstack/oslo.messaging (master) ]
+#-# Changes between 12.2.0 and 4fc9e70a
+#-# [ Unreleased changes in openstack/oslo.middleware (master) ]
+#-# Changes between 4.1.0 and bfb4ba8
+#-# [ Unreleased changes in openstack/oslo.policy (master) ]
+#-# Changes between 3.2.0 and 90009d3
+#-# [ Unreleased changes in openstack/oslo.privsep (master) ]
+#-# Changes between 2.2.0 and 18d42bd
+#-# [ Unreleased changes in openstack/oslo.reports (master) ]
+#-# Changes between 2.1.0 and a79a13b
+#-# [ Unreleased changes in openstack/oslo.rootwrap (master) ]
+#-# Changes between 6.1.0 and f0ef3bb
+#-# * 10d5abd 2020-04-16 17:36:15 +0200 Add release notes links to doc index
+#-# * 9caec06 2020-06-02 20:40:20 +0200 Stop to use the __future__ module.
+#-# [ Unreleased changes in openstack/oslo.serialization (master) ]
+#-# Changes between 3.2.0 and 9b81f6f
+#-# [ Unreleased changes in openstack/oslo.service (master) ]
+#-# Changes between 2.2.0 and d6f72ec
+#-# * d6f72ec 2020-06-02 20:40:55 +0200 Stop to use the __future__ module.
+#-# [ Unreleased changes in openstack/oslo.upgradecheck (master) ]
+#-# Changes between 1.1.0 and 2380e79
+#-# [ Unreleased changes in openstack/oslo.utils (master) ]
+#-# Changes between 4.2.0 and e764cd9
+#-# [ Unreleased changes in openstack/oslo.versionedobjects (master) ]
+#-# Changes between 2.1.0 and b7cf243
+#-# [ Unreleased changes in openstack/oslo.vmware (master) ]
+#-# Changes between 3.4.0 and 90c3e68
+#-# [ Unreleased changes in openstack/oslotest (master) ]
+#-# Changes between 4.3.0 and 5a0d3c2
+#-# [ Unreleased changes in openstack/osprofiler (master) ]
+#-# Changes between 3.2.0 and 38d51b2
+#-# [ Unreleased changes in openstack/stevedore (master) ]
+#-# Changes between 2.0.0 and 0c10f5c
+#-# [ Unreleased changes in openstack/taskflow (master) ]
+#-# Changes between 4.2.0 and 13c11657
+#-# [ Unreleased changes in openstack/tooz (master) ]
+#-# Changes between 2.5.0 and ed86c75

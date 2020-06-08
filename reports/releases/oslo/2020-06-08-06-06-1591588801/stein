@@ -1,0 +1,2 @@
+#-# Usage: list_unreleased_changes.sh <branch> <repo> [<repo>...]
+#-# repo should be e.g. openstack/glance
