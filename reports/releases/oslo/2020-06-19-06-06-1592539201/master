@@ -1,0 +1,87 @@
+#-# [ Unreleased changes in openstack/automaton (master) ]
+#-# Changes between 2.1.0 and db875ea
+#-# [ Unreleased changes in openstack/castellan (master) ]
+#-# Changes between 3.1.1 and 69dfce4
+#-# [ Unreleased changes in openstack/debtcollector (master) ]
+#-# Changes between 2.1.0 and 649189d
+#-# * 649189d 2020-06-10 10:05:45 -0500 Update lower-constraints versions
+#-# [ Unreleased changes in openstack/devstack-plugin-amqp1 (master) ]
+#-# openstack/devstack-plugin-amqp1 has not yet been released
+#-# [ Unreleased changes in openstack/devstack-plugin-kafka (master) ]
+#-# openstack/devstack-plugin-kafka has not yet been released
+#-# [ Unreleased changes in openstack/futurist (master) ]
+#-# Changes between 2.2.0 and 604b63d
+#-# [ Unreleased changes in openstack/mox3 (master) ]
+#-# Changes between 1.1.0 and caa8058
+#-# * caa8058 2020-06-03 17:02:13 +0800 Switch to newer openstackdocstheme versions
+#-# [ Unreleased changes in openstack/oslo.cache (master) ]
+#-# Changes between 2.4.1 and 9b2da3c
+#-# * 9b2da3c 2020-06-09 16:34:21 -0500 Update lower-constraints versions
+#-# * 18e7673 2020-06-04 14:26:08 +0800 Fix pygments style
+#-# [ Unreleased changes in openstack/oslo.concurrency (master) ]
+#-# Changes between 4.1.1 and b7fc1e1
+#-# [ Unreleased changes in openstack/oslo.config (master) ]
+#-# Changes between 8.2.0 and 04d5280
+#-# [ Unreleased changes in openstack/oslo.context (master) ]
+#-# Changes between 3.1.0 and ffb62b9
+#-# * ffb62b9 2020-06-04 14:34:20 +0800 Fix pygments style
+#-# [ Unreleased changes in openstack/oslo.db (master) ]
+#-# Changes between 8.2.0 and c18a019
+#-# * c18a019 2020-06-04 15:17:23 +0800 Fix pygments style
+#-# [ Unreleased changes in openstack/oslo.i18n (master) ]
+#-# Changes between 5.0.0 and 761ce99
+#-# [ Unreleased changes in openstack/oslo.limit (master) ]
+#-# Changes between 1.1.0 and 0b35c16
+#-# * bce0b7d 2020-06-01 14:40:20 -0700 Add debug tox environment
+#-# [ Unreleased changes in openstack/oslo.log (master) ]
+#-# Changes between 4.2.1 and 65d5ec3
+#-# [ Unreleased changes in openstack/oslo.messaging (master) ]
+#-# Changes between 12.2.0 and c2074e47
+#-# * c2074e47 2020-06-04 15:27:58 +0800 Fix pygments style
+#-# [ Unreleased changes in openstack/oslo.middleware (master) ]
+#-# Changes between 4.1.0 and 69dd162
+#-# * 69dd162 2020-06-04 15:25:17 +0800 Fix pygments style
+#-# [ Unreleased changes in openstack/oslo.policy (master) ]
+#-# Changes between 3.2.1 and 719435f
+#-# [ Unreleased changes in openstack/oslo.privsep (master) ]
+#-# Changes between 2.2.0 and a602d03
+#-# * a602d03 2020-06-11 11:51:40 +0200 Replace assertItemsEqual with assertCountEqual
+#-# * 485f396 2020-06-04 14:46:02 +0800 Fix pygments style
+#-# [ Unreleased changes in openstack/oslo.reports (master) ]
+#-# Changes between 2.1.0 and a79a13b
+#-# [ Unreleased changes in openstack/oslo.rootwrap (master) ]
+#-# Changes between 6.1.0 and f0ef3bb
+#-# * 10d5abd 2020-04-16 17:36:15 +0200 Add release notes links to doc index
+#-# * 9caec06 2020-06-02 20:40:20 +0200 Stop to use the __future__ module.
+#-# [ Unreleased changes in openstack/oslo.serialization (master) ]
+#-# Changes between 4.0.0 and be10175
+#-# [ Unreleased changes in openstack/oslo.service (master) ]
+#-# Changes between 2.2.0 and 6df6e4c
+#-# * ebc2d8a 2020-06-16 13:35:48 +0200 Fix wsgi/SSL/ipv6 tests for wsgi module under python 3
+#-# * bfc8172 2020-06-16 12:58:13 +0200 Fix some SSL tests for wsgi module under python 3
+#-# * 7ec1873 2020-06-15 17:54:38 +0200 Raise minimum version of eventlet to 0.25.2
+#-# | * a6d7025 2020-06-04 15:01:32 +0800 Fix pygments style
+#-# |/  
+#-# * d6f72ec 2020-06-02 20:40:55 +0200 Stop to use the __future__ module.
+#-# [ Unreleased changes in openstack/oslo.upgradecheck (master) ]
+#-# Changes between 1.1.0 and 2380e79
+#-# [ Unreleased changes in openstack/oslo.utils (master) ]
+#-# Changes between 4.2.1 and b993823
+#-# [ Unreleased changes in openstack/oslo.versionedobjects (master) ]
+#-# Changes between 2.2.0 and 6f6c781
+#-# [ Unreleased changes in openstack/oslo.vmware (master) ]
+#-# Changes between 3.4.0 and 90c3e68
+#-# [ Unreleased changes in openstack/oslotest (master) ]
+#-# Changes between 4.4.0 and bc223f9
+#-# [ Unreleased changes in openstack/osprofiler (master) ]
+#-# Changes between 3.2.0 and 8569b6d
+#-# * 8569b6d 2020-06-09 11:50:39 +0200 drop mock from lower-constraints
+#-# [ Unreleased changes in openstack/stevedore (master) ]
+#-# Changes between 2.0.0 and 01c12ec
+#-# * 01c12ec 2020-06-08 08:16:34 -0500 Remove Travis CI config
+#-# * 34b9a13 2020-06-05 15:46:27 +0200 Replace external mock with built-in unittest.mock
+#-# [ Unreleased changes in openstack/taskflow (master) ]
+#-# Changes between 4.3.0 and c22a11ea
+#-# [ Unreleased changes in openstack/tooz (master) ]
+#-# Changes between 2.5.1 and 80f379b
+#-# * 80f379b 2020-06-15 11:24:49 -0500 Implements Group API for the Consul driver
