@@ -1,0 +1,22 @@
+#-# [ Unreleased changes in openstack/microversion-parse (master) ]
+#-# Changes between 1.0.1 and 2c36df6
+#-# [ Unreleased changes in openstack/openstack-doc-tools (master) ]
+#-# Changes between 3.1.0 and a4323a0
+#-# * c2ecc30 2020-06-23 14:49:19 -0500 Remove demjson from requirements
+#-# * 8cca447 2020-06-21 21:48:53 +0200 Update sitemap
+#-# [ Unreleased changes in openstack/openstackdocstheme (master) ]
+#-# Changes between 2.2.4 and 0ef4eb2
+#-# * 0ef4eb2 2020-07-08 13:39:59 -0400 Add version dropdown on docs.starlingx.io
+#-# [ Unreleased changes in openstack/os-api-ref (master) ]
+#-# Changes between 2.1.0 and ca0db9d
+#-# [ Unreleased changes in openstack/pbr (master) ]
+#-# Changes between 5.4.5 and 9257b68
+#-# [ Unreleased changes in openstack/pylockfile (master) ]
+#-# Changes between 0.12.2 and f3453b8
+#-# * f3453b8 2017-09-30 11:34:10 +0800 Farewell pylockfile
+#-# * 99870bf 2016-03-17 09:52:27 -0700 Remove oslo.concurrency from replacement recommendation
+#-# * 4977769 2015-12-26 14:22:53 +0530 py32/py33 are no longer supported by Infra's CI
+#-# * 4cc347c 2015-11-26 13:02:32 +0100 Rewrite README file
+#-# [ Unreleased changes in openstack/sphinx-feature-classification (master) ]
+#-# Changes between 1.0.1 and 623f5bb
+#-# * 623f5bb 2020-06-02 13:49:12 +0200 Switch to newer openstackdocstheme and reno versions
