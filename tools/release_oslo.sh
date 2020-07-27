@@ -39,7 +39,7 @@ EOF
 #########################################
 .tox/venv/bin/list-deliverables --team oslo -r | awk -F "/" '{print "# tools/new_release.sh victoria " $2 " bugfix"}' > ${output}/master.sh
 tox -e venv --notest
-./tools/list_unreleased_changes.sh master \
+./tools/list_unreleased_changes.sh --ignore-all master \
     $(.tox/venv/bin/list-deliverables --team oslo -r) > ${output}/master.tmp
 awk 'NF' ${output}/master.tmp > ${output}/master.tmp2
 sed -i -e 's/^/#-# /' ${output}/master.tmp2
@@ -48,7 +48,7 @@ cat ${output}/master.tmp2 >> ${output}/master
 # independent
 #########################################
 .tox/venv/bin/list-deliverables --team oslo -r --series independent | awk -F "/" '{print "# tools/new_release.sh independent " $2 " bugfix"}' > ${output}/independent.sh
-./tools/list_unreleased_changes.sh master \
+./tools/list_unreleased_changes.sh --ignore-all master \
     $(.tox/venv/bin/list-deliverables --team oslo -r --series independent) > ${output}/indep.tmp
 awk 'NF' ${output}/indep.tmp > ${output}/indep.tmp2
 sed -i -e 's/^/#-# /' ${output}/indep.tmp2
@@ -57,7 +57,7 @@ cat ${output}/indep.tmp2 >> ${output}/indep
 # ussuri
 #########################################
 .tox/venv/bin/list-deliverables --team oslo -r --series ussuri | awk -F "/" '{print "# tools/new_release.sh ussuri " $2 " bugfix"}' > ${output}/ussuri.sh
-./tools/list_unreleased_changes.sh stable/ussuri \
+./tools/list_unreleased_changes.sh --ignore-all stable/ussuri \
     $(.tox/venv/bin/list-deliverables --team oslo -r --series ussuri) > ${output}/ussuri.tmp
 awk 'NF' ${output}/ussuri.tmp > ${output}/ussuri.tmp2
 sed -i -e 's/^/#-# /' ${output}/ussuri.tmp2
@@ -66,7 +66,7 @@ cat ${output}/ussuri.tmp2 >> ${output}/ussuri
 # train
 #########################################
 .tox/venv/bin/list-deliverables --team oslo -r --series train | awk -F "/" '{print "# tools/new_release.sh train " $2 " bugfix"}' > ${output}/train.sh
-./tools/list_unreleased_changes.sh stable/train \
+./tools/list_unreleased_changes.sh --ignore-all stable/train \
     $(.tox/venv/bin/list-deliverables --team oslo -r --series train) > ${output}/train.tmp
 awk 'NF' ${output}/train.tmp > ${output}/train.tmp2
 sed -i -e 's/^/#-# /' ${output}/train.tmp2
@@ -75,7 +75,7 @@ cat ${output}/train.tmp2 >> ${output}/train
 # stein
 #########################################
 .tox/venv/bin/list-deliverables --team oslo -r --series stein | awk -F "/" '{print "# tools/new_release.sh train " $2 " bugfix"}' > ${output}/stein.sh
-./tools/list_unreleased_changes.sh stable/stein \
+./tools/list_unreleased_changes.sh --ignore-all stable/stein \
     $(.tox/venv/bin/list-deliverables --team oslo -r --series stein) > ${output}/stein.tmp
 awk 'NF' ${output}/stein.tmp > ${output}/stein.tmp2
 sed -i -e 's/^/#-# /' ${output}/stein.tmp2
