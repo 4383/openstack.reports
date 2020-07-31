@@ -1,0 +1,12 @@
+#-# [1m[91m[ Unreleased changes in openstack/pylockfile (master) ][0m
+#-# Changes between 0.12.2 and f3453b8
+#-# * f3453b8 2017-09-30 11:34:10 +0800 Farewell pylockfile
+#-# * 99870bf 2016-03-17 09:52:27 -0700 Remove oslo.concurrency from replacement recommendation
+#-# * 4977769 2015-12-26 14:22:53 +0530 py32/py33 are no longer supported by Infra's CI
+#-# * 4cc347c 2015-11-26 13:02:32 +0100 Rewrite README file
+#-# [1m[91m[ Unreleased changes in openstack/sphinx-feature-classification (master) ][0m
+#-# Changes between 1.0.1 and 473e2d3
+#-# * 9c95489 2020-07-27 15:41:21 +0000 Cleanup misplaced release note
+#-# | * daafae0 2020-07-14 13:49:32 -0500 Switch to victoria test template
+#-# |/  
+#-# * 623f5bb 2020-06-02 13:49:12 +0200 Switch to newer openstackdocstheme and reno versions

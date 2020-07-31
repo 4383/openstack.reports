@@ -1,0 +1,73 @@
+#-# [1m[91m[ Unreleased changes in openstack/castellan (master) ][0m
+#-# Changes between 3.4.0 and 62a826c
+#-# * 62a826c 2020-07-24 17:31:40 +0200 Bump bandit version
+#-# [1m[91m[ Unreleased changes in openstack/futurist (master) ][0m
+#-# Changes between 2.2.0 and 61389a1
+#-# * 61389a1 2020-06-09 00:09:49 +0200 drop mock from lower-constraints
+#-# [1m[91m[ Unreleased changes in openstack/oslo.cache (master) ][0m
+#-# Changes between 2.5.0 and b693711
+#-# * b693711 2020-07-22 17:34:46 +0200 Uses commit hash instead of version tags in pre-commit
+#-# * 795b238 2020-07-22 17:34:15 +0200 Removes pre-commit hooks from Lucas-C
+#-# * e36ae6c 2020-07-22 17:22:38 +0200 Bump bandit version
+#-# * 78edaf5 2020-07-10 16:27:46 +0200 Introducing usage of pre-commit
+#-# * a5ff884 2020-05-04 18:18:10 +0200 Align contributing doc with oslo's policy
+#-# [1m[91m[ Unreleased changes in openstack/oslo.concurrency (master) ][0m
+#-# Changes between 4.2.0 and 2f78803
+#-# * 2f78803 2020-07-24 17:32:02 +0200 Bump bandit version
+#-# * 201255d 2020-07-10 08:03:31 +0000 Imported Translations from Zanata
+#-# * b058d50 2020-06-10 13:12:21 -0500 Update lower-constraints versions
+#-# * f4f6c0f 2020-05-04 18:20:24 +0200 Align contributing doc with oslo's policy
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (master) ][0m
+#-# Changes between 3.1.0 and 8589646
+#-# * 4e79c1c 2020-05-04 18:22:00 +0200 Align contributing doc with oslo's policy
+#-# * ffb62b9 2020-06-04 14:34:20 +0800 Fix pygments style
+#-# [1m[91m[ Unreleased changes in openstack/oslo.i18n (master) ][0m
+#-# Changes between 5.0.0 and bccb3aa
+#-# * dc7c456 2020-05-04 18:23:33 +0200 Align contributing doc with oslo's policy
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (master) ][0m
+#-# Changes between 1.2.0 and 8fa46cd
+#-# * 1443a6e 2020-05-04 18:24:13 +0200 Align contributing doc with oslo's policy
+#-# * 7f93f46 2020-06-01 16:39:57 +0000 Add user guide about how to add a new service
+#-# [1m[91m[ Unreleased changes in openstack/oslo.log (master) ][0m
+#-# Changes between 4.3.0 and 0a2dc70
+#-# * 0a0bf42 2020-05-04 18:24:59 +0200 Align contributing doc with oslo's policy
+#-# [1m[91m[ Unreleased changes in openstack/oslo.messaging (master) ][0m
+#-# Changes between 12.2.2 and 599c0b9d
+#-# * 6659cb8d 2020-07-25 11:47:53 +0200 Bump bandit version
+#-# * 26e8bb4c 2020-07-19 07:41:17 +0800 Catch ConnectionForced Exception
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (master) ][0m
+#-# Changes between 4.1.0 and 17ada34
+#-# * 708bd0a 2020-05-04 18:26:15 +0200 Align contributing doc with oslo's policy
+#-# * 69dd162 2020-06-04 15:25:17 +0800 Fix pygments style
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (master) ][0m
+#-# Changes between 2.2.1 and 1dc378c
+#-# * 1dc378c 2020-07-15 14:48:08 +0000 Undo the eventlet monkey patch for the privileged daemon
+#-# * c388354 2020-05-04 18:27:35 +0200 Align contributing doc with oslo's policy
+#-# [1m[91m[ Unreleased changes in openstack/oslo.reports (master) ][0m
+#-# Changes between 2.1.0 and 3ba127e
+#-# * 7dcae11 2020-05-04 18:28:54 +0200 Align contributing doc with oslo's policy
+#-# * 4b2a6ea 2020-06-04 15:41:00 +0800 Fix pygments style
+#-# [1m[91m[ Unreleased changes in openstack/oslo.rootwrap (master) ][0m
+#-# Changes between 6.1.0 and ff61e15
+#-# * d6e259c 2020-05-04 18:29:28 +0200 Align contributing doc with oslo's policy
+#-# * 10d5abd 2020-04-16 17:36:15 +0200 Add release notes links to doc index
+#-# * 9caec06 2020-06-02 20:40:20 +0200 Stop to use the __future__ module.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (master) ][0m
+#-# Changes between 4.0.0 and 74db767
+#-# * 956d25c 2020-05-04 18:30:27 +0200 Align contributing doc with oslo's policy
+#-# * c419298 2020-06-09 13:05:54 +0200 Update openstackdocstheme.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (master) ][0m
+#-# Changes between 1.1.0 and d6b6097
+#-# * d05d638 2020-05-04 18:34:11 +0200 Align contributing doc with oslo's policy
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (master) ][0m
+#-# Changes between 2.2.0 and c56c7ba
+#-# * 198dc74 2020-05-04 18:35:22 +0200 Align contributing doc with oslo's policy
+#-# [1m[91m[ Unreleased changes in openstack/oslotest (master) ][0m
+#-# Changes between 4.4.0 and aaf3a72
+#-# * 6923a12 2020-05-04 18:32:57 +0200 Align contributing doc with oslo's policy
+#-# [1m[91m[ Unreleased changes in openstack/taskflow (master) ][0m
+#-# Changes between 4.3.1 and cf327a2e
+#-# * cf327a2e 2020-07-05 20:04:04 +0800 Switch from unittest2 compat methods to Python 3.x methods
+#-# [1m[91m[ Unreleased changes in openstack/tooz (master) ][0m
+#-# Changes between 2.7.0 and 9aa22c3
+#-# * 9aa22c3 2020-07-29 15:43:06 +0000 Use safe_decode for decoding in zookeeper driver
