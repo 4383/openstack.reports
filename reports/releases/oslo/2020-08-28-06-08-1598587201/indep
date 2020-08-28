@@ -1,0 +1,42 @@
+#-# [1m[91m[ Unreleased changes in openstack/openstack-doc-tools (master) ][0m
+#-# Changes between 3.2.0 and 86d1aa8
+#-# * 24fc79f 2020-08-17 17:43:44 +0200 Use unittest.mock instead of mock
+#-# * b161ecc 2020-08-04 00:33:17 +0000 [goal] Migrate testing to ubuntu focal
+#-# [1m[91m[ Unreleased changes in openstack/pbr (master) ][0m
+#-# Changes between 5.4.5 and e52e608
+#-# * e52e608 2020-08-27 17:01:31 +0000 Remove bdist_wininst support
+#-# * 175fad9 2020-08-11 21:20:17 +0000 Add Release Notes to documentation
+#-# | * 9a219f9 2020-08-06 08:32:13 +0000 Use easy_install.ScriptWriter.get_header()
+#-# | | * 8e40b74 2020-08-06 10:41:29 -0700 Cleanup old legacy devstack-gate jobs
+#-# | | | * 3bfff26 2020-08-17 08:29:10 -0700 Increase integration test timeout
+#-# | | * 9e22926 2020-08-06 10:41:27 -0700 Begin work to modernize pbr's integration testing
+#-# * | 5fdbae5 2020-08-06 13:10:36 +0000 Re-add ChangeLog
+#-# * | 07b6ac8 2020-08-06 15:09:50 +0200 Update some url to use opendev.org
+#-#  /  
+#-# | * 2242cb6 2020-08-06 08:33:50 +0000 Support newer openstackdocstheme
+#-# |/  
+#-# | * 9224eb0 2020-08-06 08:29:51 +0000 Remove neutron-fwaas from the jobs' required project
+#-# |/  
+#-# | * 39fe349 2020-08-06 08:28:11 +0000 Update python requires packaging metadata for package
+#-# |/  
+#-# | * d5da212 2020-08-06 08:26:54 +0000 Map requires-python to python-requires
+#-# |/  
+#-# * 206b795 2020-08-05 15:01:21 -0700 Update hacking
+#-# * 73c11c6 2020-08-05 15:01:15 -0700 Add support for virtualenv 20.x
+#-# [1m[91m[ Unreleased changes in openstack/pylockfile (master) ][0m
+#-# Changes between 0.12.2 and d7fe107
+#-# * d7fe107 2020-08-05 20:00:03 -0500 Cleanup the retired repo
+#-# * f3453b8 2017-09-30 11:34:10 +0800 Farewell pylockfile
+#-# * 99870bf 2016-03-17 09:52:27 -0700 Remove oslo.concurrency from replacement recommendation
+#-# * 4977769 2015-12-26 14:22:53 +0530 py32/py33 are no longer supported by Infra's CI
+#-# * 4cc347c 2015-11-26 13:02:32 +0100 Rewrite README file
+#-# [1m[91m[ Unreleased changes in openstack/sphinx-feature-classification (master) ][0m
+#-# Changes between 1.0.1 and d3d6887
+#-# * 383d3ee 2020-07-14 14:52:09 -0500 Reduce need for openstack specific requirements
+#-# | * e128cef 2020-07-14 13:33:50 -0500 Report sphinx extension is thread safe
+#-# |/  
+#-# | * 9c95489 2020-07-27 15:41:21 +0000 Cleanup misplaced release note
+#-# |/  
+#-# | * daafae0 2020-07-14 13:49:32 -0500 Switch to victoria test template
+#-# |/  
+#-# * 623f5bb 2020-06-02 13:49:12 +0200 Switch to newer openstackdocstheme and reno versions
