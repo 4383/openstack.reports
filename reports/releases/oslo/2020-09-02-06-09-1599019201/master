@@ -1,0 +1,85 @@
+#-# [1m[91m[ Unreleased changes in openstack/futurist (master) ][0m
+#-# Changes between 2.2.0 and 1a1c6f8
+#-# * 1a1c6f8 2020-08-04 03:46:21 +0000 [goal] Migrate testing to ubuntu focal
+#-# * 61389a1 2020-06-09 00:09:49 +0200 drop mock from lower-constraints
+#-# [1m[91m[ Unreleased changes in openstack/oslo.cache (master) ][0m
+#-# Changes between 2.6.0 and df075b2
+#-# * df075b2 2020-08-25 14:01:17 +0200 Adding functional tests for memcache_pool backend
+#-# * a11cde4 2020-08-20 14:41:47 +0200 Add Memcached functional tests to gate
+#-# [1m[91m[ Unreleased changes in openstack/oslo.concurrency (master) ][0m
+#-# Changes between 4.2.0 and 2f78803
+#-# * 2f78803 2020-07-24 17:32:02 +0200 Bump bandit version
+#-# * 201255d 2020-07-10 08:03:31 +0000 Imported Translations from Zanata
+#-# * b058d50 2020-06-10 13:12:21 -0500 Update lower-constraints versions
+#-# * f4f6c0f 2020-05-04 18:20:24 +0200 Align contributing doc with oslo's policy
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (master) ][0m
+#-# Changes between 8.3.1 and fcb8894
+#-# * fcb8894 2020-07-24 17:32:21 +0200 Bump bandit version
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (master) ][0m
+#-# Changes between 3.1.0 and 57dbded
+#-# * b9708c3 2020-06-09 11:45:08 +0200 drop mock from lower-constraints
+#-# | * 37dea64 2020-07-25 11:31:15 +0200 Bump bandit version
+#-# | * 4e79c1c 2020-05-04 18:22:00 +0200 Align contributing doc with oslo's policy
+#-# * ffb62b9 2020-06-04 14:34:20 +0800 Fix pygments style
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (master) ][0m
+#-# Changes between 8.3.0 and 9201de3
+#-# * 9201de3 2020-07-24 17:33:01 +0200 Bump bandit version
+#-# [1m[91m[ Unreleased changes in openstack/oslo.i18n (master) ][0m
+#-# Changes between 5.0.0 and 73187bd
+#-# * 73187bd 2020-07-24 17:33:21 +0200 Bump bandit version
+#-# * dc7c456 2020-05-04 18:23:33 +0200 Align contributing doc with oslo's policy
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (master) ][0m
+#-# Changes between 1.2.0 and ddb62b9
+#-# * ddb62b9 2020-07-24 17:33:41 +0200 Bump bandit version
+#-# * 1443a6e 2020-05-04 18:24:13 +0200 Align contributing doc with oslo's policy
+#-# * 7f93f46 2020-06-01 16:39:57 +0000 Add user guide about how to add a new service
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (master) ][0m
+#-# Changes between 4.1.0 and ea8e881
+#-# * ea8e881 2020-07-24 17:34:51 +0200 Bump bandit version
+#-# * 708bd0a 2020-05-04 18:26:15 +0200 Align contributing doc with oslo's policy
+#-# * 69dd162 2020-06-04 15:25:17 +0800 Fix pygments style
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (master) ][0m
+#-# Changes between 2.3.0 and 512b5d9
+#-# * 68d1196 2020-07-24 17:35:28 +0200 Bump bandit version
+#-# * b015f45 2020-08-04 03:45:01 +0000 [goal] Migrate testing to ubuntu focal
+#-# [1m[91m[ Unreleased changes in openstack/oslo.reports (master) ][0m
+#-# Changes between 2.1.0 and bc631ae
+#-# * 8de1a71 2020-07-24 17:35:46 +0200 Bump bandit version
+#-# * e45d4e9 2020-08-04 03:45:57 +0000 [goal] Migrate testing to ubuntu focal
+#-# * 7dcae11 2020-05-04 18:28:54 +0200 Align contributing doc with oslo's policy
+#-# * 4b2a6ea 2020-06-04 15:41:00 +0800 Fix pygments style
+#-# [1m[91m[ Unreleased changes in openstack/oslo.rootwrap (master) ][0m
+#-# Changes between 6.1.0 and ed1659a
+#-# * 499dcad 2020-08-04 00:34:05 +0000 [goal] Migrate testing to ubuntu focal
+#-# * 0d087b0 2020-07-24 17:36:03 +0200 Bump bandit version
+#-# * d6e259c 2020-05-04 18:29:28 +0200 Align contributing doc with oslo's policy
+#-# * 10d5abd 2020-04-16 17:36:15 +0200 Add release notes links to doc index
+#-# * 9caec06 2020-06-02 20:40:20 +0200 Stop to use the __future__ module.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (master) ][0m
+#-# Changes between 4.0.0 and c7884b2
+#-# * c7884b2 2020-07-24 17:36:23 +0200 Bump bandit version
+#-# * 956d25c 2020-05-04 18:30:27 +0200 Align contributing doc with oslo's policy
+#-# * c419298 2020-06-09 13:05:54 +0200 Update openstackdocstheme.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (master) ][0m
+#-# Changes between 2.3.2 and 58466a6
+#-# * 598d5ab 2020-05-05 14:31:05 +0200 Align contributing doc with oslo's policy
+#-# * 99ed582 2020-07-24 17:36:41 +0200 Bump bandit version
+#-# * a15c31f 2020-08-04 01:24:08 +0000 [goal] Migrate testing to ubuntu focal
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (master) ][0m
+#-# Changes between 1.1.0 and d6b6097
+#-# * d05d638 2020-05-04 18:34:11 +0200 Align contributing doc with oslo's policy
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (master) ][0m
+#-# Changes between 2.2.0 and 9d67d0f
+#-# * 9d67d0f 2020-08-06 18:30:32 +0200 zuul: port the legacy multinode grenade job
+#-# * 90e0c5b 2020-07-25 13:43:49 +0200 Bump bandit version
+#-# * 198dc74 2020-05-04 18:35:22 +0200 Align contributing doc with oslo's policy
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (master) ][0m
+#-# Changes between 3.6.0 and aa5a4b1
+#-# * 7e2b42d 2020-07-24 17:37:45 +0200 Bump bandit version
+#-# * 5c08559 2020-08-04 03:45:34 +0000 [goal] Migrate testing to ubuntu focal
+#-# [1m[91m[ Unreleased changes in openstack/oslotest (master) ][0m
+#-# Changes between 4.4.0 and aaf3a72
+#-# * 6923a12 2020-05-04 18:32:57 +0200 Align contributing doc with oslo's policy
+#-# [1m[91m[ Unreleased changes in openstack/osprofiler (master) ][0m
+#-# Changes between 3.3.0 and 6ff0187
+#-# * 6ff0187 2020-07-24 17:38:06 +0200 Bump bandit version
