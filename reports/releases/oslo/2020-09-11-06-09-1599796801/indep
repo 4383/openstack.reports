@@ -1,0 +1,11 @@
+#-# [1m[91m[ Unreleased changes in openstack/openstack-doc-tools (master) ][0m
+#-# Changes between 3.2.0 and 86d1aa8
+#-# * 24fc79f 2020-08-17 17:43:44 +0200 Use unittest.mock instead of mock
+#-# * b161ecc 2020-08-04 00:33:17 +0000 [goal] Migrate testing to ubuntu focal
+#-# [1m[91m[ Unreleased changes in openstack/pylockfile (master) ][0m
+#-# Changes between 0.12.2 and d7fe107
+#-# * d7fe107 2020-08-05 20:00:03 -0500 Cleanup the retired repo
+#-# * f3453b8 2017-09-30 11:34:10 +0800 Farewell pylockfile
+#-# * 99870bf 2016-03-17 09:52:27 -0700 Remove oslo.concurrency from replacement recommendation
+#-# * 4977769 2015-12-26 14:22:53 +0530 py32/py33 are no longer supported by Infra's CI
+#-# * 4cc347c 2015-11-26 13:02:32 +0100 Rewrite README file
