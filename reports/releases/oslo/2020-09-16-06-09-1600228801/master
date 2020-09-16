@@ -1,0 +1,116 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (master) ][0m
+#-# Changes between 2.2.0 and f74bef8
+#-# * f74bef8 2020-09-11 20:54:36 +0000 Add Python3 wallaby unit tests
+#-# * 5f57b85 2020-09-11 20:54:34 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/castellan (master) ][0m
+#-# Changes between 3.6.0 and 5417735
+#-# * 5417735 2020-09-11 20:54:56 +0000 Add Python3 wallaby unit tests
+#-# * 70ee329 2020-09-11 20:54:53 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/debtcollector (master) ][0m
+#-# Changes between 2.2.0 and 3184b6a
+#-# * 3184b6a 2020-09-11 20:55:15 +0000 Add Python3 wallaby unit tests
+#-# * 8c2cebe 2020-09-11 20:55:12 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/futurist (master) ][0m
+#-# Changes between 2.3.0 and afe7105
+#-# * afe7105 2020-09-11 20:55:33 +0000 Add Python3 wallaby unit tests
+#-# * fe7bf8c 2020-09-11 20:55:31 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.cache (master) ][0m
+#-# Changes between 2.6.1 and 9a52598
+#-# * 9a52598 2020-09-11 20:55:53 +0000 Add Python3 wallaby unit tests
+#-# * 7c01c2d 2020-09-11 20:55:51 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.concurrency (master) ][0m
+#-# Changes between 4.3.0 and ff1e681
+#-# * ff1e681 2020-09-11 20:56:14 +0000 Add Python3 wallaby unit tests
+#-# * 5f73c49 2020-09-11 20:56:11 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (master) ][0m
+#-# Changes between 8.3.2 and f97f99a
+#-# * f97f99a 2020-09-11 20:56:38 +0000 Add Python3 wallaby unit tests
+#-# * 77ce4b5 2020-09-11 20:56:35 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (master) ][0m
+#-# Changes between 3.1.1 and b6a92c9
+#-# * b6a92c9 2020-09-11 20:56:58 +0000 Add Python3 wallaby unit tests
+#-# * 747e723 2020-09-11 20:56:55 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (master) ][0m
+#-# Changes between 8.4.0 and 83471a1
+#-# * 83471a1 2020-09-11 20:57:22 +0000 Add Python3 wallaby unit tests
+#-# * 6a3def8 2020-09-11 20:57:19 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.i18n (master) ][0m
+#-# Changes between 5.0.1 and 598fb7c
+#-# * 598fb7c 2020-09-11 20:57:42 +0000 Add Python3 wallaby unit tests
+#-# * bc370d0 2020-09-11 20:57:40 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (master) ][0m
+#-# Changes between 1.2.1 and 65316ed
+#-# * 65316ed 2020-09-11 20:58:01 +0000 Add Python3 wallaby unit tests
+#-# * a66a369 2020-09-11 20:57:59 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.log (master) ][0m
+#-# Changes between 4.4.0 and a900edf
+#-# * a900edf 2020-09-11 20:58:23 +0000 Add Python3 wallaby unit tests
+#-# * 31914f1 2020-09-11 20:58:20 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.messaging (master) ][0m
+#-# Changes between 12.5.0 and 4bae96d7
+#-# * 4bae96d7 2020-09-11 20:58:51 +0000 Add Python3 wallaby unit tests
+#-# * 633383ba 2020-09-11 20:58:48 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (master) ][0m
+#-# Changes between 4.1.1 and e413cb7
+#-# * e413cb7 2020-09-11 20:59:12 +0000 Add Python3 wallaby unit tests
+#-# * b588f96 2020-09-11 20:59:10 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.policy (master) ][0m
+#-# Changes between 3.5.0 and b184c7f
+#-# * b184c7f 2020-09-11 20:59:34 +0000 Add Python3 wallaby unit tests
+#-# * 09f5fda 2020-09-11 20:59:31 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (master) ][0m
+#-# Changes between 2.4.0 and bdbd973
+#-# * bdbd973 2020-09-11 20:59:54 +0000 Add Python3 wallaby unit tests
+#-# * 6808e50 2020-09-11 20:59:52 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.reports (master) ][0m
+#-# Changes between 2.2.0 and ed06708
+#-# * ed06708 2020-09-11 21:00:13 +0000 Add Python3 wallaby unit tests
+#-# * 003c1ce 2020-09-11 21:00:11 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.rootwrap (master) ][0m
+#-# Changes between 6.2.0 and b6c73f1
+#-# * 45797b8 2020-09-11 21:00:32 +0000 Add Python3 wallaby unit tests
+#-# | * ee58e4f 2020-09-03 14:19:23 +0200 ignore reno generated artifacts
+#-# * 75084cc 2020-09-11 21:00:30 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (master) ][0m
+#-# Changes between 4.0.1 and 128a747
+#-# * 128a747 2020-09-11 21:00:52 +0000 Add Python3 wallaby unit tests
+#-# * 7c2c071 2020-09-11 21:00:50 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (master) ][0m
+#-# Changes between 2.4.0 and 55b744b
+#-# * 55b744b 2020-09-11 21:01:12 +0000 Add Python3 wallaby unit tests
+#-# * b40ddc2 2020-09-11 21:01:10 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (master) ][0m
+#-# Changes between 1.1.1 and 741df12
+#-# * 741df12 2020-09-11 21:01:31 +0000 Add Python3 wallaby unit tests
+#-# * 0a09ac1 2020-09-11 21:01:29 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.utils (master) ][0m
+#-# Changes between 4.6.0 and d5c98a0
+#-# * f2723a5 2020-09-07 21:27:39 +0000 Add Python3 victoria unit tests
+#-# * 99efd43 2020-09-11 21:01:50 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (master) ][0m
+#-# Changes between 2.3.0 and 02a61d0
+#-# * 02a61d0 2020-09-11 21:02:14 +0000 Add Python3 wallaby unit tests
+#-# * ec6f504 2020-09-11 21:02:11 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (master) ][0m
+#-# Changes between 3.7.0 and a3d6253
+#-# * a3d6253 2020-09-11 21:02:35 +0000 Add Python3 wallaby unit tests
+#-# * 4893981 2020-09-11 21:02:33 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslotest (master) ][0m
+#-# Changes between 4.4.1 and 47d76c4
+#-# * 47d76c4 2020-09-11 21:02:55 +0000 Add Python3 wallaby unit tests
+#-# * ce65c03 2020-09-11 21:02:53 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/osprofiler (master) ][0m
+#-# Changes between 3.4.0 and d0d65fd
+#-# * d0d65fd 2020-09-11 21:03:15 +0000 Add Python3 wallaby unit tests
+#-# * ba16314 2020-09-11 21:03:12 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/stevedore (master) ][0m
+#-# Changes between 3.2.2 and 1f41ecc
+#-# * 1f41ecc 2020-09-11 21:03:34 +0000 Add Python3 wallaby unit tests
+#-# * 371f87e 2020-09-11 21:03:32 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/taskflow (master) ][0m
+#-# Changes between 4.5.0 and 1f903294
+#-# * 1f903294 2020-09-11 21:04:03 +0000 Add Python3 wallaby unit tests
+#-# * 1ecd7b5b 2020-09-11 21:04:00 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/tooz (master) ][0m
+#-# Changes between 2.7.1 and b7fe722
+#-# * b7fe722 2020-09-11 21:04:20 +0000 Update master for stable/victoria
