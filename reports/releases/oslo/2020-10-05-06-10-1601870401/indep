@@ -1,0 +1,18 @@
+#-# [1m[91m[ Unreleased changes in openstack/microversion-parse (master) ][0m
+#-# Changes between 1.0.1 and 89cb11c
+#-# * 89cb11c 2020-09-15 15:19:35 +0200 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/openstackdocstheme (master) ][0m
+#-# Changes between 2.2.5 and 31d4da3
+#-# * ff15666 2020-09-15 14:46:10 +0200 Adding pre-commit
+#-# * 94b3ecb 2020-09-14 09:02:34 +0200 Remove ask.o.o
+#-# [1m[91m[ Unreleased changes in openstack/os-api-ref (master) ][0m
+#-# Changes between 2.1.0 and ae88bef
+#-# * ae88bef 2020-10-03 00:48:31 +0800 Stop install unnecessary packages when run tox -edocs
+#-# * 093c9f2 2020-09-15 15:00:05 +0200 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/pylockfile (master) ][0m
+#-# Changes between 0.12.2 and d7fe107
+#-# * d7fe107 2020-08-05 20:00:03 -0500 Cleanup the retired repo
+#-# * f3453b8 2017-09-30 11:34:10 +0800 Farewell pylockfile
+#-# * 99870bf 2016-03-17 09:52:27 -0700 Remove oslo.concurrency from replacement recommendation
+#-# * 4977769 2015-12-26 14:22:53 +0530 py32/py33 are no longer supported by Infra's CI
+#-# * 4cc347c 2015-11-26 13:02:32 +0100 Rewrite README file
