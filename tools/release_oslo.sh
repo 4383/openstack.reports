@@ -28,6 +28,7 @@ fi
 git clone git@github.com:4383/openstack.reports
 cd_releses
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/master.sh
+sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/victoria.sh
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/ussuri.sh
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/train.sh
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/stein.sh
@@ -37,7 +38,7 @@ EOF
 #########################################
 # master
 #########################################
-.tox/venv/bin/list-deliverables --team oslo -r | awk -F "/" '{print "# tools/new_release.sh victoria " $2 " bugfix"}' > ${output}/master.sh
+.tox/venv/bin/list-deliverables --team oslo -r | awk -F "/" '{print "# tools/new_release.sh wallaby $2 " bugfix"}' > ${output}/master.sh
 tox -e venv --notest
 ./tools/list_unreleased_changes.sh --ignore-all master \
     $(.tox/venv/bin/list-deliverables --team oslo -r) > ${output}/master.tmp
@@ -53,6 +54,15 @@ cat ${output}/master.tmp2 >> ${output}/master
 awk 'NF' ${output}/indep.tmp > ${output}/indep.tmp2
 sed -i -e 's/^/#-# /' ${output}/indep.tmp2
 cat ${output}/indep.tmp2 >> ${output}/indep
+#########################################
+# victoria
+#########################################
+.tox/venv/bin/list-deliverables --team oslo -r --series victoria | awk -F "/" '{print "# tools/new_release.sh victoria " $2 " bugfix"}' > ${output}/victoria.sh
+./tools/list_unreleased_changes.sh --ignore-all stable/victoria \
+    $(.tox/venv/bin/list-deliverables --team oslo -r --series victoria) > ${output}/victoria.tmp
+awk 'NF' ${output}/victoria.tmp > ${output}/victoria.tmp2
+sed -i -e 's/^/#-# /' ${output}/victoria.tmp2
+cat ${output}/victoria.tmp2 >> ${output}/victoria
 #########################################
 # ussuri
 #########################################
