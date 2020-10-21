@@ -1,0 +1,87 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (stable/train) ][0m
+#-# Changes between 1.17.0 and 3e54487
+#-# * 3e54487 2019-09-20 16:19:01 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/train
+#-# * b3790da 2019-09-20 16:18:56 +0000 Update .gitreview for stable/train
+#-# [1m[91m[ Unreleased changes in openstack/debtcollector (stable/train) ][0m
+#-# Changes between 1.22.0 and f49f8d3
+#-# * f49f8d3 2019-09-20 16:20:58 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/train
+#-# * 5b9f8d3 2019-09-20 16:20:54 +0000 Update .gitreview for stable/train
+#-# [1m[91m[ Unreleased changes in openstack/futurist (stable/train) ][0m
+#-# Changes between 1.9.0 and d7facb2
+#-# * d7facb2 2019-09-20 16:21:29 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/train
+#-# * f79187d 2019-09-20 16:21:24 +0000 Update .gitreview for stable/train
+#-# [1m[91m[ Unreleased changes in openstack/mox3 (stable/train) ][0m
+#-# Changes between 0.28.0 and e260f50
+#-# * e260f50 2019-09-20 16:25:28 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/train
+#-# * 29f0ffc 2019-09-20 16:25:22 +0000 Update .gitreview for stable/train
+#-# [1m[91m[ Unreleased changes in openstack/oslo.cache (stable/train) ][0m
+#-# Changes between 1.37.0 and fdda759
+#-# * fdda759 2019-09-20 16:29:54 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/train
+#-# * b87d4fb 2019-09-20 16:29:49 +0000 Update .gitreview for stable/train
+#-# [1m[91m[ Unreleased changes in openstack/oslo.concurrency (stable/train) ][0m
+#-# Changes between 3.30.0 and a2b5fae
+#-# * a2b5fae 2019-09-20 16:30:27 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/train
+#-# * 6de3727 2019-09-20 16:30:22 +0000 Update .gitreview for stable/train
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (stable/train) ][0m
+#-# Changes between 6.11.2 and 9136137
+#-# * 9136137 2020-04-22 19:59:15 +0200 Use global upper constraints for docs targets
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (stable/train) ][0m
+#-# Changes between 5.0.2 and d0b6a78
+#-# * d0b6a78 2019-09-20 16:32:06 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/train
+#-# * e7e07fd 2019-09-20 16:32:01 +0000 Update .gitreview for stable/train
+#-# [1m[91m[ Unreleased changes in openstack/oslo.i18n (stable/train) ][0m
+#-# Changes between 3.24.0 and e1f43b9
+#-# * e1f43b9 2019-09-20 16:32:40 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/train
+#-# * fabcc24 2019-09-20 16:32:35 +0000 Update .gitreview for stable/train
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (stable/train) ][0m
+#-# Changes between 0.1.1 and d907cb8
+#-# * d907cb8 2019-09-20 16:33:10 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/train
+#-# * 903c2ea 2019-09-20 16:33:06 +0000 Update .gitreview for stable/train
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (stable/train) ][0m
+#-# Changes between 3.38.1 and 67095d3
+#-# * 67095d3 2019-09-20 16:34:55 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/train
+#-# * 97268c1 2019-09-20 16:34:50 +0000 Update .gitreview for stable/train
+#-# [1m[91m[ Unreleased changes in openstack/oslo.reports (stable/train) ][0m
+#-# Changes between 1.30.0 and 8a88d0e
+#-# * 8a88d0e 2019-09-20 16:36:34 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/train
+#-# * dc0daf3 2019-09-20 16:36:29 +0000 Update .gitreview for stable/train
+#-# [1m[91m[ Unreleased changes in openstack/oslo.rootwrap (stable/train) ][0m
+#-# Changes between 5.16.1 and 54be84d
+#-# * 54be84d 2019-09-20 16:37:06 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/train
+#-# * dbabfaa 2019-09-20 16:37:01 +0000 Update .gitreview for stable/train
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (stable/train) ][0m
+#-# Changes between 2.29.2 and 52680ce
+#-# * 52680ce 2019-09-20 16:37:38 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/train
+#-# * 2757e5d 2019-09-20 16:37:33 +0000 Update .gitreview for stable/train
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (stable/train) ][0m
+#-# Changes between 1.40.2 and c74a814
+#-# * c74a814 2019-09-20 16:38:11 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/train
+#-# * 7d8ec47 2019-09-20 16:38:06 +0000 Update .gitreview for stable/train
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (stable/train) ][0m
+#-# Changes between 0.3.2 and 7871352
+#-# * 7871352 2019-09-20 16:38:48 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/train
+#-# * 7d717ea 2019-09-20 16:38:41 +0000 Update .gitreview for stable/train
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (stable/train) ][0m
+#-# Changes between 1.36.1 and 81d3de7
+#-# * 81d3de7 2019-09-20 16:40:32 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/train
+#-# * 9736082 2019-09-20 16:40:27 +0000 Update .gitreview for stable/train
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (stable/train) ][0m
+#-# Changes between 2.34.1 and 8b49bd5
+#-# * 8b49bd5 2019-09-20 16:41:21 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/train
+#-# * 0ea25c5 2019-09-20 16:41:16 +0000 Update .gitreview for stable/train
+#-# [1m[91m[ Unreleased changes in openstack/oslotest (stable/train) ][0m
+#-# Changes between 3.8.1 and 2367d8a
+#-# * 2367d8a 2019-09-20 16:41:53 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/train
+#-# * 599484c 2019-09-20 16:41:48 +0000 Update .gitreview for stable/train
+#-# [1m[91m[ Unreleased changes in openstack/osprofiler (stable/train) ][0m
+#-# Changes between 2.8.2 and 2744494
+#-# * 2744494 2019-09-20 16:42:25 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/train
+#-# * 16269b1 2019-09-20 16:42:21 +0000 Update .gitreview for stable/train
+#-# [1m[91m[ Unreleased changes in openstack/stevedore (stable/train) ][0m
+#-# Changes between 1.31.0 and b1587cc
+#-# * b1587cc 2019-09-20 17:44:45 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/train
+#-# * a11df9f 2019-09-20 17:44:43 +0000 Update .gitreview for stable/train
+#-# [1m[91m[ Unreleased changes in openstack/taskflow (stable/train) ][0m
+#-# Changes between 3.7.1 and fbe58dd1
+#-# * fbe58dd1 2019-09-20 17:45:01 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/train
+#-# * e35baf03 2019-09-20 17:44:59 +0000 Update .gitreview for stable/train
