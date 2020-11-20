@@ -1,0 +1,177 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (master) ][0m
+#-# Changes between 2.2.0 and c6f5685
+#-# * 7d0648f 2020-09-15 17:41:13 +0200 Adding pre-commit
+#-# * f74bef8 2020-09-11 20:54:36 +0000 Add Python3 wallaby unit tests
+#-# * 5f57b85 2020-09-11 20:54:34 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/castellan (master) ][0m
+#-# Changes between 3.6.0 and aede086
+#-# * aede086 2020-10-12 10:12:37 +0000 Remove six
+#-# * b719a5b 2020-09-29 13:24:21 +0000 Adding pre-commit
+#-# * 5417735 2020-09-11 20:54:56 +0000 Add Python3 wallaby unit tests
+#-# * 70ee329 2020-09-11 20:54:53 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/debtcollector (master) ][0m
+#-# Changes between 2.2.0 and 3c909b1
+#-# * 746b73d 2020-09-22 10:39:02 +0200 ignore reno generated artifacts
+#-# | * 2c8ba37 2020-11-03 16:14:43 +0100 Use py3 as the default runtime for tox
+#-# | * be7bc9e 2020-09-22 10:37:04 +0200 Adding pre-commit
+#-# * 3184b6a 2020-09-11 20:55:15 +0000 Add Python3 wallaby unit tests
+#-# * 8c2cebe 2020-09-11 20:55:12 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/futurist (master) ][0m
+#-# Changes between 2.3.0 and 2cf4269
+#-# * 94e8e07 2020-09-22 10:48:01 +0200 ignore reno generated artifacts
+#-# | * d6c4661 2020-09-22 10:46:49 +0200 Adding pre-commit
+#-# * afe7105 2020-09-11 20:55:33 +0000 Add Python3 wallaby unit tests
+#-# * fe7bf8c 2020-09-11 20:55:31 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.cache (master) ][0m
+#-# Changes between 2.6.1 and bd1a841
+#-# * bd1a841 2020-10-04 07:41:52 +0000 Imported Translations from Zanata
+#-# * 9a52598 2020-09-11 20:55:53 +0000 Add Python3 wallaby unit tests
+#-# * 7c01c2d 2020-09-11 20:55:51 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.concurrency (master) ][0m
+#-# Changes between 4.3.0 and dec0089
+#-# * b8f713b 2020-09-03 14:25:24 +0200 Adding pre-commit
+#-# * 6533958 2020-09-30 11:28:12 +0000 Monkey patch original current_thread _active in processutils
+#-# * ff1e681 2020-09-11 20:56:14 +0000 Add Python3 wallaby unit tests
+#-# * 5f73c49 2020-09-11 20:56:11 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (master) ][0m
+#-# Changes between 8.3.2 and 68cefad
+#-# * ea51c21 2020-09-10 16:36:53 +0100 tox: Enable parallel docs builds
+#-# | * ab18255 2020-11-03 16:13:27 +0100 Use py3 as the default runtime for tox
+#-# | * 6480356 2020-10-22 12:30:39 +0200 Add a new type HostDomain.
+#-# | * 78698b5 2020-07-23 11:47:05 +0200 Convert rst to plaintext for oslo.config output
+#-# * 01f63b8 2020-09-10 16:36:46 +0100 sphinxext: Add 'merge_domaindata'
+#-# * 5e1011a 2020-09-22 12:25:01 +0200 Adding pre-commit
+#-# * f97f99a 2020-09-11 20:56:38 +0000 Add Python3 wallaby unit tests
+#-# * 77ce4b5 2020-09-11 20:56:35 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (master) ][0m
+#-# Changes between 3.1.1 and 43f9759
+#-# * 3b6da99 2020-09-08 14:01:06 +0200 Adding pre-commit
+#-# * b6a92c9 2020-09-11 20:56:58 +0000 Add Python3 wallaby unit tests
+#-# * 747e723 2020-09-11 20:56:55 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (master) ][0m
+#-# Changes between 8.4.0 and 503db60
+#-# * 642dac1 2020-10-30 10:40:24 +0000 Deprecate the 'oslo_db.sqlalchemy.migration_cli' module
+#-# * fc85587 2020-10-30 10:40:24 +0000 Deprecate 'oslo_db.sqlalchemy.migration' module
+#-# * aad193a 2020-10-11 07:43:25 +0000 Imported Translations from Zanata
+#-# * 80190b3 2020-09-22 12:32:18 +0200 Adding pre-commit
+#-# * 83471a1 2020-09-11 20:57:22 +0000 Add Python3 wallaby unit tests
+#-# * 6a3def8 2020-09-11 20:57:19 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.i18n (master) ][0m
+#-# Changes between 5.0.1 and 3cf0406
+#-# * 05356e6 2020-09-22 10:27:36 +0200 Adding pre-commit
+#-# | * 912849f 2020-09-23 09:37:53 +0000 Remove six.PY3
+#-# |/  
+#-# * 598fb7c 2020-09-11 20:57:42 +0000 Add Python3 wallaby unit tests
+#-# * bc370d0 2020-09-11 20:57:40 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (master) ][0m
+#-# Changes between 1.2.1 and a5c678c
+#-# * a5c678c 2020-11-03 16:12:44 +0100 Use py3 as the default runtime for tox
+#-# * 592a0d0 2020-10-16 01:19:54 +0000 Fix hacking min version to 3.0.1
+#-# * 9558a46 2020-09-23 21:20:57 +0800 Remove install unnecessary packages
+#-# * 00b4875 2020-09-08 13:48:34 +0200 Adding pre-commit
+#-# * 65316ed 2020-09-11 20:58:01 +0000 Add Python3 wallaby unit tests
+#-# * a66a369 2020-09-11 20:57:59 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.log (master) ][0m
+#-# Changes between 4.4.0 and a029f59
+#-# * a029f59 2020-10-11 07:43:23 +0000 Imported Translations from Zanata
+#-# * ad42c89 2020-09-08 14:21:18 +0200 Adding pre-commit
+#-# * a900edf 2020-09-11 20:58:23 +0000 Add Python3 wallaby unit tests
+#-# * 31914f1 2020-09-11 20:58:20 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (master) ][0m
+#-# Changes between 4.1.1 and 089bbd2
+#-# * d023c60 2020-09-22 11:17:45 +0200 Adding pre-commit
+#-# * e413cb7 2020-09-11 20:59:12 +0000 Add Python3 wallaby unit tests
+#-# * b588f96 2020-09-11 20:59:10 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.policy (master) ][0m
+#-# Changes between 3.5.0 and 5917863
+#-# * 96cfafb 2020-11-01 18:08:33 -0800 Fix grammar issues
+#-# | * 298c86f 2020-10-06 15:56:50 +0800 Remove all usage of six library
+#-# |/  
+#-# | * 82a792f 2020-10-16 01:19:42 +0000 Fix hacking min version to 3.0.1
+#-# |/  
+#-# | * ddb2cbe 2020-10-21 08:34:15 +0000 Remove format option examples in policy generator
+#-# |/  
+#-# * 266ee36 2020-09-22 11:45:02 +0200 Adding pre-commit
+#-# * b184c7f 2020-09-11 20:59:34 +0000 Add Python3 wallaby unit tests
+#-# * 09f5fda 2020-09-11 20:59:31 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (master) ][0m
+#-# Changes between 2.4.0 and 83870bd
+#-# * d7f6ddc 2020-09-08 14:17:12 +0200 Adding pre-commit
+#-# * bdbd973 2020-09-11 20:59:54 +0000 Add Python3 wallaby unit tests
+#-# * 6808e50 2020-09-11 20:59:52 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.reports (master) ][0m
+#-# Changes between 2.2.0 and a2122e7
+#-# * a2122e7 2020-10-14 10:24:52 +0800 Remove all six usage
+#-# * f8cd468 2020-09-22 10:42:28 +0200 Adding pre-commit
+#-# * ed06708 2020-09-11 21:00:13 +0000 Add Python3 wallaby unit tests
+#-# * 003c1ce 2020-09-11 21:00:11 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.rootwrap (master) ][0m
+#-# Changes between 6.2.0 and 0e62293
+#-# * 0e62293 2020-10-09 09:19:18 +0800 Remove six
+#-# * 81352d0 2020-09-30 16:34:20 +0800 Remove six.PY3
+#-# * b1122e8 2020-09-03 14:20:33 +0200 Adding pre-commit
+#-# * 45797b8 2020-09-11 21:00:32 +0000 Add Python3 wallaby unit tests
+#-# | * ee58e4f 2020-09-03 14:19:23 +0200 ignore reno generated artifacts
+#-# * 75084cc 2020-09-11 21:00:30 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (master) ][0m
+#-# Changes between 4.0.1 and 7e48ee7
+#-# * be517b4 2020-09-08 12:34:48 +0200 ignore reno generated artifacts
+#-# * b828910 2020-09-08 12:33:14 +0200 Adding pre-commit
+#-# * 128a747 2020-09-11 21:00:52 +0000 Add Python3 wallaby unit tests
+#-# * 7c2c071 2020-09-11 21:00:50 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (master) ][0m
+#-# Changes between 2.4.0 and 4c3bf26
+#-# * 10ce88e 2020-09-08 14:26:37 +0200 Adding pre-commit
+#-# * 55b744b 2020-09-11 21:01:12 +0000 Add Python3 wallaby unit tests
+#-# * b40ddc2 2020-09-11 21:01:10 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (master) ][0m
+#-# Changes between 1.1.1 and ff5ad7b
+#-# * 85abe44 2020-09-03 14:10:56 +0200 Adding pre-commit
+#-# * 741df12 2020-09-11 21:01:31 +0000 Add Python3 wallaby unit tests
+#-# * 0a09ac1 2020-09-11 21:01:29 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.utils (master) ][0m
+#-# Changes between 4.7.0 and 1b949f9
+#-# * 1b949f9 2020-11-03 16:11:58 +0100 Use py3 as the default runtime for tox
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (master) ][0m
+#-# Changes between 2.3.0 and 9f0f31e
+#-# * 9f0f31e 2020-10-29 13:30:07 -0400 Replace md5 with oslo version
+#-# * e8b3a90 2020-09-22 12:29:04 +0200 Adding pre-commit
+#-# * 02a61d0 2020-09-11 21:02:14 +0000 Add Python3 wallaby unit tests
+#-# * ec6f504 2020-09-11 21:02:11 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (master) ][0m
+#-# Changes between 3.7.0 and f7fceeb
+#-# * f7fceeb 2020-10-11 07:51:42 +0000 Imported Translations from Zanata
+#-# * cef0e7c 2020-09-08 12:28:20 +0200 Adding pre-commit
+#-# * a3d6253 2020-09-11 21:02:35 +0000 Add Python3 wallaby unit tests
+#-# * 4893981 2020-09-11 21:02:33 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslotest (master) ][0m
+#-# Changes between 4.4.1 and 12e73ea
+#-# * 2f4cb35 2020-09-15 17:10:31 +0200 Adding pre-commit
+#-# * 47d76c4 2020-09-11 21:02:55 +0000 Add Python3 wallaby unit tests
+#-# * ce65c03 2020-09-11 21:02:53 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/osprofiler (master) ][0m
+#-# Changes between 3.4.0 and f4c47a1
+#-# * 22d6bff 2020-09-22 11:08:09 +0200 ignore reno generated artifacts
+#-# | * 2794b98 2020-10-09 11:07:15 +0200 Adding pre-commit
+#-# |/  
+#-# * d0d65fd 2020-09-11 21:03:15 +0000 Add Python3 wallaby unit tests
+#-# * ba16314 2020-09-11 21:03:12 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/stevedore (master) ][0m
+#-# Changes between 3.2.2 and 7d7154f
+#-# * 41a4d63 2020-11-03 16:14:05 +0100 Use py3 as the default runtime for tox
+#-# * 3a46e29 2020-09-14 16:06:14 +0200 Fix cache dir flooding when running from /tmp
+#-# * de9b2fc 2020-09-15 13:40:37 +0200 Adding pre-commit
+#-# * 1f41ecc 2020-09-11 21:03:34 +0000 Add Python3 wallaby unit tests
+#-# * 371f87e 2020-09-11 21:03:32 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/taskflow (master) ][0m
+#-# Changes between 4.5.0 and 330ca88a
+#-# * 42c62010 2020-09-08 14:34:51 +0200 ignore reno generated artifacts
+#-# * 7ab39946 2020-09-08 14:33:38 +0200 Adding pre-commit
+#-# * 1f903294 2020-09-11 21:04:03 +0000 Add Python3 wallaby unit tests
+#-# * 1ecd7b5b 2020-09-11 21:04:00 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/tooz (master) ][0m
+#-# Changes between 2.7.1 and 54448e9
+#-# * 54448e9 2020-10-29 15:44:36 -0400 Replace md5 with oslo version
+#-# * c3d8c2e 2020-10-09 15:35:34 +0000 Adding pre-commit
+#-# * 3f07590 2020-09-29 18:46:25 +0200 Blacklist etcd3gw 0.2.6
+#-# * b7fe722 2020-09-11 21:04:20 +0000 Update master for stable/victoria
