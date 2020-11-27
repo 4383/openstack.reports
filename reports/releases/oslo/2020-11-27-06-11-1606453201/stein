@@ -1,0 +1,83 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (stable/stein) ][0m
+#-# Changes between stein-em and dba7395
+#-# * dba7395 2019-06-28 18:10:22 +0200 Add local bindep.txt
+#-# * 5b702b7 2019-04-19 19:42:56 +0000 OpenDev Migration Patch
+#-# * f5bfcc0 2019-03-18 14:37:50 +0000 Update UPPER_CONSTRAINTS_FILE for stable/stein
+#-# * c15db31 2019-03-18 14:37:48 +0000 Update .gitreview for stable/stein
+#-# [1m[91m[ Unreleased changes in openstack/debtcollector (stable/stein) ][0m
+#-# Changes between stein-em and 9e91e8d
+#-# * 9e91e8d 2019-04-19 19:47:52 +0000 OpenDev Migration Patch
+#-# * 9598d91 2019-03-18 14:38:48 +0000 Update UPPER_CONSTRAINTS_FILE for stable/stein
+#-# * 3ce8c63 2019-03-18 14:38:46 +0000 Update .gitreview for stable/stein
+#-# [1m[91m[ Unreleased changes in openstack/futurist (stable/stein) ][0m
+#-# Changes between stein-em and 75a98bf
+#-# * 75a98bf 2019-04-19 19:33:59 +0000 OpenDev Migration Patch
+#-# * 4103899 2019-03-18 14:39:01 +0000 Update UPPER_CONSTRAINTS_FILE for stable/stein
+#-# * e6a77f4 2019-03-18 14:38:59 +0000 Update .gitreview for stable/stein
+#-# [1m[91m[ Unreleased changes in openstack/mox3 (stable/stein) ][0m
+#-# Changes between stein-em and 2f97938
+#-# * 2f97938 2019-04-19 19:37:12 +0000 OpenDev Migration Patch
+#-# * bae4aae 2019-03-18 14:40:44 +0000 Update UPPER_CONSTRAINTS_FILE for stable/stein
+#-# * 041a34b 2019-03-18 14:40:42 +0000 Update .gitreview for stable/stein
+#-# [1m[91m[ Unreleased changes in openstack/oslo.concurrency (stable/stein) ][0m
+#-# Changes between stein-em and 22b502c
+#-# * 22b502c 2019-04-19 19:28:08 +0000 OpenDev Migration Patch
+#-# * 4b2d681 2019-03-18 14:43:53 +0000 Update UPPER_CONSTRAINTS_FILE for stable/stein
+#-# * ebfa41d 2019-03-18 14:43:51 +0000 Update .gitreview for stable/stein
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (stable/stein) ][0m
+#-# Changes between stein-em and 6790431
+#-# * 6790431 2019-07-01 14:13:17 +0200 Add local bindep.txt
+#-# * 9d812e7 2019-04-19 19:34:36 +0000 OpenDev Migration Patch
+#-# * 55e8457 2019-03-18 14:44:35 +0000 Update UPPER_CONSTRAINTS_FILE for stable/stein
+#-# * e439145 2019-03-18 14:44:32 +0000 Update .gitreview for stable/stein
+#-# [1m[91m[ Unreleased changes in openstack/oslo.i18n (stable/stein) ][0m
+#-# Changes between stein-em and 0a1b53d
+#-# * 0a1b53d 2019-04-19 19:34:34 +0000 OpenDev Migration Patch
+#-# * f0e9480 2019-03-18 14:44:48 +0000 Update UPPER_CONSTRAINTS_FILE for stable/stein
+#-# * d8a3cfa 2019-03-18 14:44:46 +0000 Update .gitreview for stable/stein
+#-# [1m[91m[ Unreleased changes in openstack/oslo.messaging (stable/stein) ][0m
+#-# Changes between stein-em and a9939f46
+#-# * a9939f46 2020-11-19 11:52:17 +0100 Add oslo.messaging-tox-py27-func-rabbit non-voting.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (stable/stein) ][0m
+#-# Changes between stein-em and f433014
+#-# * f433014 2019-04-19 19:48:40 +0000 OpenDev Migration Patch
+#-# * 2c6c005 2019-03-18 14:45:32 +0000 Update UPPER_CONSTRAINTS_FILE for stable/stein
+#-# * 4a62e27 2019-03-18 14:45:30 +0000 Update .gitreview for stable/stein
+#-# [1m[91m[ Unreleased changes in openstack/oslo.reports (stable/stein) ][0m
+#-# Changes between stein-em and 0cb7e45
+#-# * 0cb7e45 2019-04-19 19:41:50 +0000 OpenDev Migration Patch
+#-# * cd25e8e 2019-03-18 14:46:12 +0000 Update UPPER_CONSTRAINTS_FILE for stable/stein
+#-# * 5fca004 2019-03-18 14:46:09 +0000 Update .gitreview for stable/stein
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (stable/stein) ][0m
+#-# Changes between stein-em and 28415bf
+#-# * 28415bf 2019-04-19 19:32:20 +0000 OpenDev Migration Patch
+#-# * 218c2c1 2019-03-18 14:46:38 +0000 Update UPPER_CONSTRAINTS_FILE for stable/stein
+#-# * ec84bd5 2019-03-18 14:46:36 +0000 Update .gitreview for stable/stein
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (stable/stein) ][0m
+#-# Changes between stein-em and cc15d71
+#-# * cc15d71 2019-04-19 19:33:06 +0000 OpenDev Migration Patch
+#-# * 557b0a7 2019-03-18 14:47:04 +0000 Update UPPER_CONSTRAINTS_FILE for stable/stein
+#-# * 5b1d8bd 2019-03-18 14:47:02 +0000 Update .gitreview for stable/stein
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (stable/stein) ][0m
+#-# Changes between stein-em and b9d3d4e
+#-# * b9d3d4e 2019-04-19 19:45:18 +0000 OpenDev Migration Patch
+#-# * 8ddc44a 2019-03-24 20:35:32 +0000 Replace openstack.org git:// URLs with https://
+#-# * c7f104c 2019-03-18 14:47:31 +0000 Update UPPER_CONSTRAINTS_FILE for stable/stein
+#-# * b68556f 2019-03-18 14:47:29 +0000 Update .gitreview for stable/stein
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (stable/stein) ][0m
+#-# Changes between stein-em and 1d264c6
+#-# * 1d264c6 2019-04-19 19:49:02 +0000 OpenDev Migration Patch
+#-# * 1ddd85c 2019-03-18 14:47:45 +0000 Update UPPER_CONSTRAINTS_FILE for stable/stein
+#-# * e505853 2019-03-18 14:47:43 +0000 Update .gitreview for stable/stein
+#-# [1m[91m[ Unreleased changes in openstack/stevedore (stable/stein) ][0m
+#-# Changes between stein-em and caf65ed
+#-# * caf65ed 2019-06-27 18:08:32 +0200 Add local bindep.txt
+#-# * 9462fd2 2019-04-19 19:31:04 +0000 OpenDev Migration Patch
+#-# * 0cfd144 2019-03-18 14:57:24 +0000 Update UPPER_CONSTRAINTS_FILE for stable/stein
+#-# * ae9ba1e 2019-03-18 14:57:22 +0000 Update .gitreview for stable/stein
+#-# [1m[91m[ Unreleased changes in openstack/taskflow (stable/stein) ][0m
+#-# Changes between stein-em and f460c5ac
+#-# * f460c5ac 2019-07-01 11:00:30 +0200 Add local bindep.txt
+#-# * 89f0ffe6 2019-05-22 13:48:29 +0100 Update Sphinx requirement
+#-# * b6f7b68e 2019-05-21 09:52:46 +0000 Update UPPER_CONSTRAINTS_FILE for stable/stein
+#-# * 92d47ee6 2019-05-21 09:52:38 +0000 Update .gitreview for stable/stein
