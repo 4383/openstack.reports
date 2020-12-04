@@ -1,0 +1,36 @@
+#-# [1m[91m[ Unreleased changes in openstack/microversion-parse (master) ][0m
+#-# Changes between 1.0.1 and 4ea5fb3
+#-# * 4ea5fb3 2020-11-03 14:32:48 +0100 Use Python 3.8 as the default runtime for tox
+#-# * 89cb11c 2020-09-15 15:19:35 +0200 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/openstack-doc-tools (master) ][0m
+#-# Changes between 3.3.0 and 3c9dac5
+#-# * 3c9dac5 2020-11-04 10:54:10 +0100 Use TOX_CONSTRAINTS_FILE
+#-# * e33745b 2020-11-03 14:33:07 +0100 Use Python 3.8 as the default runtime for tox
+#-# * fbe3f2f 2020-09-15 15:05:13 +0200 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/openstackdocstheme (master) ][0m
+#-# Changes between 2.2.7 and a115611
+#-# * 3020abd 2020-11-04 10:54:32 +0100 Use TOX_CONSTRAINTS_FILE
+#-# [1m[91m[ Unreleased changes in openstack/os-api-ref (master) ][0m
+#-# Changes between 2.1.0 and adb4535
+#-# * adb4535 2020-11-04 10:54:49 +0100 Use TOX_CONSTRAINTS_FILE
+#-# * ec8ca09 2020-09-23 14:15:32 +0800 Remove install unnecessary packages
+#-# | * 14ac8ba 2020-10-12 13:49:52 +0800 bump py37 to py38 in tox.ini
+#-# | | * 24a88c8 2020-10-28 23:00:33 +0800 Bump py37 to py38 in tox.ini
+#-# | |/  
+#-# | * 859f766 2020-10-06 17:53:57 +0800 Fix hacking min version to 3.0.1
+#-# | * ae88bef 2020-10-03 00:48:31 +0800 Stop install unnecessary packages when run tox -edocs
+#-# |/  
+#-# * 093c9f2 2020-09-15 15:00:05 +0200 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/pbr (master) ][0m
+#-# Changes between 5.5.1 and f5e4c65
+#-# * f5e4c65 2020-10-21 16:48:08 +0000 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/pylockfile (master) ][0m
+#-# Changes between 0.12.2 and d7fe107
+#-# * d7fe107 2020-08-05 20:00:03 -0500 Cleanup the retired repo
+#-# * f3453b8 2017-09-30 11:34:10 +0800 Farewell pylockfile
+#-# * 99870bf 2016-03-17 09:52:27 -0700 Remove oslo.concurrency from replacement recommendation
+#-# * 4977769 2015-12-26 14:22:53 +0530 py32/py33 are no longer supported by Infra's CI
+#-# * 4cc347c 2015-11-26 13:02:32 +0100 Rewrite README file
+#-# [1m[91m[ Unreleased changes in openstack/sphinx-feature-classification (master) ][0m
+#-# Changes between 1.1.0 and 4dfbd61
+#-# * 4dfbd61 2020-09-15 14:52:53 +0200 Adding pre-commit
