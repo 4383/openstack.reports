@@ -1,0 +1,75 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (stable/ussuri) ][0m
+#-# Changes between 2.0.1 and 7b95ba0
+#-# * 7b95ba0 2020-04-14 10:11:24 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/ussuri
+#-# * 3c3ac66 2020-04-14 10:11:22 +0000 Update .gitreview for stable/ussuri
+#-# [1m[91m[ Unreleased changes in openstack/debtcollector (stable/ussuri) ][0m
+#-# Changes between 2.0.1 and 14ce83d
+#-# * 14ce83d 2020-04-14 10:11:59 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/ussuri
+#-# * 711bce4 2020-04-14 10:11:57 +0000 Update .gitreview for stable/ussuri
+#-# [1m[91m[ Unreleased changes in openstack/futurist (stable/ussuri) ][0m
+#-# Changes between 2.1.1 and 9663192
+#-# * 9663192 2020-04-14 10:12:17 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/ussuri
+#-# * 33959ed 2020-04-14 10:12:15 +0000 Update .gitreview for stable/ussuri
+#-# [1m[91m[ Unreleased changes in openstack/mox3 (stable/ussuri) ][0m
+#-# Changes between 1.0.0 and f2a7a07
+#-# * f2a7a07 2020-04-14 10:12:33 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/ussuri
+#-# * 26e92b7 2020-04-14 10:12:31 +0000 Update .gitreview for stable/ussuri
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (stable/ussuri) ][0m
+#-# Changes between 3.0.2 and c47719d
+#-# * c47719d 2020-04-14 10:13:44 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/ussuri
+#-# * 59ee422 2020-04-14 10:13:42 +0000 Update .gitreview for stable/ussuri
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (stable/ussuri) ][0m
+#-# Changes between 8.1.0 and b11ea78
+#-# * b11ea78 2020-04-14 10:14:04 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/ussuri
+#-# * 7d515ef 2020-04-14 10:14:02 +0000 Update .gitreview for stable/ussuri
+#-# [1m[91m[ Unreleased changes in openstack/oslo.i18n (stable/ussuri) ][0m
+#-# Changes between 4.0.1 and a26b2ae
+#-# * a26b2ae 2020-04-14 10:14:22 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/ussuri
+#-# * d8e5ef0 2020-04-14 10:14:20 +0000 Update .gitreview for stable/ussuri
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (stable/ussuri) ][0m
+#-# Changes between 1.0.2 and 824d1d8
+#-# * 824d1d8 2020-04-14 10:14:39 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/ussuri
+#-# * 53e9a93 2020-04-14 10:14:37 +0000 Update .gitreview for stable/ussuri
+#-# [1m[91m[ Unreleased changes in openstack/oslo.log (stable/ussuri) ][0m
+#-# Changes between 4.1.3 and a4609cc
+#-# * a4609cc 2020-08-06 18:19:00 +0200 zuul: port the legacy grenade job
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (stable/ussuri) ][0m
+#-# Changes between 4.0.2 and 2ca70ce
+#-# * 2ca70ce 2020-04-14 10:15:46 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/ussuri
+#-# * 5eaffbc 2020-04-14 10:15:44 +0000 Update .gitreview for stable/ussuri
+#-# [1m[91m[ Unreleased changes in openstack/oslo.reports (stable/ussuri) ][0m
+#-# Changes between 2.0.1 and 0b1f051
+#-# * 0b1f051 2020-04-14 10:16:40 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/ussuri
+#-# * 902c30e 2020-04-14 10:16:38 +0000 Update .gitreview for stable/ussuri
+#-# [1m[91m[ Unreleased changes in openstack/oslo.rootwrap (stable/ussuri) ][0m
+#-# Changes between 6.0.2 and e5a98cb
+#-# * e5a98cb 2020-04-14 10:16:58 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/ussuri
+#-# * 47bc1b6 2020-04-14 10:16:55 +0000 Update .gitreview for stable/ussuri
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (stable/ussuri) ][0m
+#-# Changes between 1.0.1 and 910cf67
+#-# * 910cf67 2020-04-14 10:17:50 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/ussuri
+#-# * c7bfcce 2020-04-14 10:17:48 +0000 Update .gitreview for stable/ussuri
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (stable/ussuri) ][0m
+#-# Changes between 2.0.2 and 5e268d3
+#-# * 5e268d3 2020-04-14 10:18:30 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/ussuri
+#-# * c4132bf 2020-04-14 10:18:28 +0000 Update .gitreview for stable/ussuri
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (stable/ussuri) ][0m
+#-# Changes between 3.3.1 and b05beea
+#-# * b05beea 2020-04-14 10:18:49 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/ussuri
+#-# * 0dda66e 2020-04-14 10:18:47 +0000 Update .gitreview for stable/ussuri
+#-# [1m[91m[ Unreleased changes in openstack/oslotest (stable/ussuri) ][0m
+#-# Changes between 4.2.0 and cf48d91
+#-# * cf48d91 2020-04-14 10:19:07 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/ussuri
+#-# * db7ee66 2020-04-14 10:19:05 +0000 Update .gitreview for stable/ussuri
+#-# [1m[91m[ Unreleased changes in openstack/osprofiler (stable/ussuri) ][0m
+#-# Changes between 3.1.0 and 89e5676
+#-# * 89e5676 2020-04-14 10:19:25 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/ussuri
+#-# * f698a2e 2020-04-14 10:19:23 +0000 Update .gitreview for stable/ussuri
+#-# [1m[91m[ Unreleased changes in openstack/stevedore (stable/ussuri) ][0m
+#-# Changes between 1.32.0 and 2925f13
+#-# * 2925f13 2020-04-14 10:19:43 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/ussuri
+#-# * 706d00e 2020-04-14 10:19:41 +0000 Update .gitreview for stable/ussuri
+#-# [1m[91m[ Unreleased changes in openstack/taskflow (stable/ussuri) ][0m
+#-# Changes between 4.1.0 and 558ace47
+#-# * 558ace47 2020-04-14 10:20:07 +0000 Update TOX/UPPER_CONSTRAINTS_FILE for stable/ussuri
+#-# * 33c554f1 2020-04-14 10:20:04 +0000 Update .gitreview for stable/ussuri
