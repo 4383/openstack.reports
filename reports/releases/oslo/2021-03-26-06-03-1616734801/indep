@@ -1,0 +1,133 @@
+#-# [1m[91m[ Unreleased changes in openstack/renderspec (master) ][0m
+#-# Changes between 2.1.0 and 6c13cc2
+#-# * d26ae18 2020-07-23 17:26:59 +0800 Correct a typo in the document
+#-# [1m[91m[ Unreleased changes in openstack/futurist (master) ][0m
+#-# Changes between 2.3.0 and 0273cb7
+#-# * 0273cb7 2021-03-23 13:13:24 +0100 Move flake8 as a pre-commit local target.
+#-# * ffec6e1 2021-03-15 10:56:10 +0000 Remove lower-constraints remnants
+#-# | * 549c2cc 2021-03-11 17:35:34 +0000 Use py3 as the default runtime for tox
+#-# | | * 52bb16c 2021-03-11 17:36:13 +0000 Use TOX_CONSTRAINTS_FILE
+#-# | |/  
+#-# * | 4373f93 2021-03-11 17:36:00 +0000 Uncap PrettyTable
+#-# |/  
+#-# * dce4862 2021-03-11 17:34:53 +0000 pre-commit: Lower flake8 version
+#-# * bd2356b 2020-12-18 15:06:22 +0100 Dropping lower constraints testing
+#-# * 94e8e07 2020-09-22 10:48:01 +0200 ignore reno generated artifacts
+#-# | * d6c4661 2020-09-22 10:46:49 +0200 Adding pre-commit
+#-# * afe7105 2020-09-11 20:55:33 +0000 Add Python3 wallaby unit tests
+#-# * fe7bf8c 2020-09-11 20:55:31 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/microversion-parse (master) ][0m
+#-# Changes between 1.0.1 and ee08574
+#-# * ee08574 2021-03-23 13:13:42 +0100 Move flake8 as a pre-commit local target.
+#-# * 4ea5fb3 2020-11-03 14:32:48 +0100 Use Python 3.8 as the default runtime for tox
+#-# * 89cb11c 2020-09-15 15:19:35 +0200 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/openstack-doc-tools (master) ][0m
+#-# Changes between 3.3.0 and 9d81e2f
+#-# * 9d81e2f 2021-03-23 13:14:08 +0100 Move flake8 as a pre-commit local target.
+#-# * 31c0b19 2020-11-04 10:07:49 +0100 Use py3 as the default runtime for tox
+#-# | * bc5023a 2020-12-18 15:04:20 +0100 Dropping lower constraints testing
+#-# | * 3c9dac5 2020-11-04 10:54:10 +0100 Use TOX_CONSTRAINTS_FILE
+#-# |/  
+#-# * e33745b 2020-11-03 14:33:07 +0100 Use Python 3.8 as the default runtime for tox
+#-# * fbe3f2f 2020-09-15 15:05:13 +0200 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/openstackdocstheme (master) ][0m
+#-# Changes between 2.2.7 and f0da3d3
+#-# * f0da3d3 2021-03-23 13:14:42 +0100 Move flake8 as a pre-commit local target.
+#-# * 3020abd 2020-11-04 10:54:32 +0100 Use TOX_CONSTRAINTS_FILE
+#-# [1m[91m[ Unreleased changes in openstack/os-api-ref (master) ][0m
+#-# Changes between 2.1.0 and c0e5760
+#-# * c0e5760 2021-03-23 13:15:01 +0100 Move flake8 as a pre-commit local target.
+#-# * 188e833 2020-11-04 10:08:08 +0100 Use py3 as the default runtime for tox
+#-# * adb4535 2020-11-04 10:54:49 +0100 Use TOX_CONSTRAINTS_FILE
+#-# * ec8ca09 2020-09-23 14:15:32 +0800 Remove install unnecessary packages
+#-# | * 14ac8ba 2020-10-12 13:49:52 +0800 bump py37 to py38 in tox.ini
+#-# | | * 24a88c8 2020-10-28 23:00:33 +0800 Bump py37 to py38 in tox.ini
+#-# | |/  
+#-# | * 859f766 2020-10-06 17:53:57 +0800 Fix hacking min version to 3.0.1
+#-# | * ae88bef 2020-10-03 00:48:31 +0800 Stop install unnecessary packages when run tox -edocs
+#-# |/  
+#-# * 093c9f2 2020-09-15 15:00:05 +0200 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/oslo.concurrency (master) ][0m
+#-# Changes between 4.4.0 and 5397838
+#-# * 5397838 2021-03-23 13:15:24 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.i18n (master) ][0m
+#-# Changes between 5.0.1 and 8609dc2
+#-# * 8609dc2 2020-11-26 14:41:12 +0800 Remove all usage of six library
+#-# * 05356e6 2020-09-22 10:27:36 +0200 Adding pre-commit
+#-# | * 912849f 2020-09-23 09:37:53 +0000 Remove six.PY3
+#-# |/  
+#-# * 598fb7c 2020-09-11 20:57:42 +0000 Add Python3 wallaby unit tests
+#-# * bc370d0 2020-09-11 20:57:40 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.log (master) ][0m
+#-# Changes between 4.4.0 and 5811cd3
+#-# * 5811cd3 2021-03-22 10:47:05 +0100 Move flake8 as a pre-commit local target.
+#-# * a3d9c99 2020-11-04 10:02:26 +0100 Use py3 as the default runtime for tox
+#-# | * 0bb0d9a 2020-11-04 10:48:39 +0100 Use TOX_CONSTRAINTS_FILE
+#-# |/  
+#-# | * bc37c62 2020-12-18 15:09:17 +0100 Dropping lower constraints testing
+#-# |/  
+#-# * a029f59 2020-10-11 07:43:23 +0000 Imported Translations from Zanata
+#-# * ad42c89 2020-09-08 14:21:18 +0200 Adding pre-commit
+#-# * a900edf 2020-09-11 20:58:23 +0000 Add Python3 wallaby unit tests
+#-# * 31914f1 2020-09-11 20:58:20 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.reports (master) ][0m
+#-# Changes between 2.2.0 and 4d2c601
+#-# * 4d2c601 2021-03-23 13:16:23 +0100 Move flake8 as a pre-commit local target.
+#-# * 57cc918 2020-11-04 10:50:14 +0100 Use TOX_CONSTRAINTS_FILE
+#-# | * 6b2ad67 2020-10-16 01:21:28 +0000 Fix hacking min version to 3.0.1
+#-# | | * f67c3ba 2020-11-04 10:04:05 +0100 Use py3 as the default runtime for tox
+#-# | |/  
+#-# |/|   
+#-# | | * a96ee02 2020-12-11 15:45:20 +0000 Replace concatenation with f-strings
+#-# | |/  
+#-# |/|   
+#-# | | * 00f80b4 2020-12-18 15:11:40 +0100 Dropping lower constraints testing
+#-# | |/  
+#-# |/|   
+#-# * | a2122e7 2020-10-14 10:24:52 +0800 Remove all six usage
+#-# |/  
+#-# * f8cd468 2020-09-22 10:42:28 +0200 Adding pre-commit
+#-# * ed06708 2020-09-11 21:00:13 +0000 Add Python3 wallaby unit tests
+#-# * 003c1ce 2020-09-11 21:00:11 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.rootwrap (master) ][0m
+#-# Changes between 6.2.0 and 273e429
+#-# * 273e429 2021-03-23 13:16:46 +0100 Move flake8 as a pre-commit local target.
+#-# * 0d1bcc5 2020-11-04 10:04:23 +0100 Use py3 as the default runtime for tox
+#-# | * 0d165ae 2020-11-04 10:50:33 +0100 Use TOX_CONSTRAINTS_FILE
+#-# |/  
+#-# | * 98e1888 2020-12-18 15:12:00 +0100 Dropping lower constraints testing
+#-# |/  
+#-# * 0e62293 2020-10-09 09:19:18 +0800 Remove six
+#-# * 81352d0 2020-09-30 16:34:20 +0800 Remove six.PY3
+#-# * b1122e8 2020-09-03 14:20:33 +0200 Adding pre-commit
+#-# * 45797b8 2020-09-11 21:00:32 +0000 Add Python3 wallaby unit tests
+#-# | * ee58e4f 2020-09-03 14:19:23 +0200 ignore reno generated artifacts
+#-# * 75084cc 2020-09-11 21:00:30 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslotest (master) ][0m
+#-# Changes between 4.4.1 and 2b05a2f
+#-# * 2b05a2f 2021-03-23 13:17:07 +0100 Move flake8 as a pre-commit local target.
+#-# * b591174 2020-11-04 10:06:12 +0100 Use py3 as the default runtime for tox
+#-# * 333b737 2020-11-04 10:52:45 +0100 Use TOX_CONSTRAINTS_FILE
+#-# * 8763180 2020-12-18 15:14:44 +0100 Dropping lower constraints testing
+#-# * 2f4cb35 2020-09-15 17:10:31 +0200 Adding pre-commit
+#-# * 47d76c4 2020-09-11 21:02:55 +0000 Add Python3 wallaby unit tests
+#-# * ce65c03 2020-09-11 21:02:53 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/pbr (master) ][0m
+#-# Changes between 5.5.1 and 8e47cad
+#-# * 8e47cad 2021-03-09 12:25:45 +0100 Dropping lower constraints testing
+#-# * f5e4c65 2020-10-21 16:48:08 +0000 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/pylockfile (master) ][0m
+#-# Changes between 0.12.2 and d7fe107
+#-# * d7fe107 2020-08-05 20:00:03 -0500 Cleanup the retired repo
+#-# * f3453b8 2017-09-30 11:34:10 +0800 Farewell pylockfile
+#-# * 99870bf 2016-03-17 09:52:27 -0700 Remove oslo.concurrency from replacement recommendation
+#-# * 4977769 2015-12-26 14:22:53 +0530 py32/py33 are no longer supported by Infra's CI
+#-# * 4cc347c 2015-11-26 13:02:32 +0100 Rewrite README file
+#-# [1m[91m[ Unreleased changes in openstack/sphinx-feature-classification (master) ][0m
+#-# Changes between 1.1.0 and f557e6a
+#-# * f557e6a 2021-03-23 13:19:33 +0100 Move flake8 as a pre-commit local target.
+#-# * 5495c1d 2020-11-04 10:55:12 +0100 Use TOX_CONSTRAINTS_FILE
+#-# * 4dfbd61 2020-09-15 14:52:53 +0200 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/taskflow (master) ][0m
+#-# Changes between 4.6.0 and 0e9f7367
+#-# * 0e9f7367 2021-03-23 13:20:14 +0100 Move flake8 as a pre-commit local target.
