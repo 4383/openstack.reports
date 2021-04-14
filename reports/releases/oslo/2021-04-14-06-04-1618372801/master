@@ -1,0 +1,67 @@
+#-# [1m[91m[ Unreleased changes in openstack/castellan (master) ][0m
+#-# Changes between 3.7.1 and f8b79a2
+#-# * bfcf4b2 2021-02-03 23:31:56 +0900 Simplify the reference to barbican parameters
+#-# * 8c48341 2021-02-03 12:11:09 +0000 Allow specifying region of barbican endpoint
+#-# * 33de80a 2021-03-18 11:11:28 +0000 Add Python3 xena unit tests
+#-# * cec4584 2021-03-18 11:11:13 +0000 Update master for stable/wallaby
+#-# * 1f5c952 2021-03-23 13:05:52 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.cache (master) ][0m
+#-# Changes between 2.7.0 and b1528f9
+#-# * b1528f9 2021-03-23 13:07:33 +0100 Move flake8 as a pre-commit local target.
+#-# * 9606e85 2021-02-05 13:24:26 +0100 Dropping lower constraints testing.
+#-# * e5d0b20 2021-02-05 14:35:18 +0100 Add bug comment and fix nits
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (master) ][0m
+#-# Changes between 8.5.0 and b382176
+#-# * 3cf6c60 2020-10-30 11:20:26 +0800 update doc url
+#-# * 2193fcc 2021-03-23 13:07:56 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (master) ][0m
+#-# Changes between 3.2.0 and 3e5968d
+#-# * a24a5a0 2021-02-19 15:06:26 +0800 Remove lower-constraints remnants
+#-# * ceca2bb 2021-03-23 13:08:17 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (master) ][0m
+#-# Changes between 8.5.0 and 9119edc
+#-# * ad720c3 2021-02-19 14:38:30 +0800 Remove lower-constraints remnants
+#-# * 7443bcd 2021-03-18 17:35:56 +0100 move flake8 as a pre-commit local target
+#-# * e6d6b90 2021-03-09 15:02:29 +0100 Fix the conflict status with hacking.
+#-# * 6c3b36a 2020-11-04 10:01:50 +0100 Use py3 as the default runtime for tox
+#-# * 2bd456b 2020-11-04 10:47:42 +0100 Use TOX_CONSTRAINTS_FILE
+#-# * a53ec14 2020-12-18 15:08:09 +0100 Dropping lower constraints testing
+#-# [1m[91m[ Unreleased changes in openstack/oslo.messaging (master) ][0m
+#-# Changes between 12.7.1 and 5aa645b3
+#-# * e52dc2ac 2021-02-05 13:08:03 +0100 Remove lower constraints.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (master) ][0m
+#-# Changes between 4.2.0 and 5c806d4
+#-# * 5c806d4 2021-03-25 11:53:12 +0100 Fix requirements issues
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (master) ][0m
+#-# Changes between 2.5.0 and 5f5db61
+#-# * 5f5db61 2021-04-07 16:21:41 +0200 Fix requirements issues.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (master) ][0m
+#-# Changes between 2.5.0 and 9006927
+#-# * 9006927 2021-03-23 13:09:41 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (master) ][0m
+#-# Changes between 1.3.0 and 75fe376
+#-# * 75fe376 2021-03-23 13:10:01 +0100 Move flake8 as a pre-commit local target.
+#-# * a962943 2020-12-18 15:13:08 +0100 Dropping lower constraints testing
+#-# * 09c42be 2020-11-04 10:05:16 +0100 Use py3 as the default runtime for tox
+#-# * 20b199e 2020-11-04 10:51:29 +0100 Use TOX_CONSTRAINTS_FILE
+#-# [1m[91m[ Unreleased changes in openstack/oslo.utils (master) ][0m
+#-# Changes between 4.8.0 and 0bbb22a
+#-# * 0bbb22a 2021-03-23 13:10:25 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (master) ][0m
+#-# Changes between 2.4.0 and 117d28e
+#-# * 117d28e 2021-02-18 14:25:23 +0100 Dropping lower constraints references
+#-# * 7ce947c 2020-11-04 10:05:34 +0100 Use py3 as the default runtime for tox
+#-# * e8062fc 2020-12-18 15:14:01 +0100 Dropping lower constraints testing
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (master) ][0m
+#-# Changes between 3.8.0 and ce8d61b
+#-# * ce8d61b 2021-03-23 13:11:18 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/stevedore (master) ][0m
+#-# Changes between 3.3.0 and 5383853
+#-# * 5383853 2021-03-23 13:11:54 +0100 Move flake8 as a pre-commit local target.
+#-# * 8b6b861 2020-11-04 10:53:22 +0100 Use TOX_CONSTRAINTS_FILE
+#-# * 90b5daa 2020-12-18 15:15:29 +0100 Dropping lower constraints testing
+#-# [1m[91m[ Unreleased changes in openstack/tooz (master) ][0m
+#-# Changes between 2.8.0 and f2005df
+#-# * f2005df 2021-03-09 16:14:24 +0000 Cap tenacity to unblock the gate
+#-# * 0187a2d 2020-11-04 10:07:09 +0100 Use py3 as the default runtime for tox
+#-# * a381d71 2021-02-08 08:43:26 +0000 Bump hacking and flake8 version to fix pep8 job
