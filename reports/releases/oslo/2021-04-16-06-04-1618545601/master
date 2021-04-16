@@ -1,0 +1,114 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (master) ][0m
+#-# Changes between 2.3.0 and 2353f50
+#-# * 2353f50 2021-03-18 11:10:57 +0000 Add Python3 xena unit tests
+#-# * 1703b2a 2021-03-18 11:10:43 +0000 Update master for stable/wallaby
+#-# [1m[91m[ Unreleased changes in openstack/castellan (master) ][0m
+#-# Changes between 3.7.1 and f8b79a2
+#-# * bfcf4b2 2021-02-03 23:31:56 +0900 Simplify the reference to barbican parameters
+#-# * 8c48341 2021-02-03 12:11:09 +0000 Allow specifying region of barbican endpoint
+#-# * 33de80a 2021-03-18 11:11:28 +0000 Add Python3 xena unit tests
+#-# * cec4584 2021-03-18 11:11:13 +0000 Update master for stable/wallaby
+#-# * 1f5c952 2021-03-23 13:05:52 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.cache (master) ][0m
+#-# Changes between 2.7.0 and ffbe574
+#-# * 68917b1 2021-03-18 11:12:13 +0000 Add Python3 xena unit tests
+#-# * 83a443f 2021-03-18 11:11:56 +0000 Update master for stable/wallaby
+#-# * b1528f9 2021-03-23 13:07:33 +0100 Move flake8 as a pre-commit local target.
+#-# * 9606e85 2021-02-05 13:24:26 +0100 Dropping lower constraints testing.
+#-# * e5d0b20 2021-02-05 14:35:18 +0100 Add bug comment and fix nits
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (master) ][0m
+#-# Changes between 8.5.0 and 8b657ae
+#-# * f320600 2021-03-18 11:14:46 +0000 Add Python3 xena unit tests
+#-# * b624ccc 2021-03-18 11:14:33 +0000 Update master for stable/wallaby
+#-# * 3cf6c60 2020-10-30 11:20:26 +0800 update doc url
+#-# * 2193fcc 2021-03-23 13:07:56 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (master) ][0m
+#-# Changes between 3.2.0 and 7243129
+#-# * 16c7382 2021-03-18 11:16:13 +0000 Add Python3 xena unit tests
+#-# * dbdca84 2021-03-18 11:15:45 +0000 Update master for stable/wallaby
+#-# * a24a5a0 2021-02-19 15:06:26 +0800 Remove lower-constraints remnants
+#-# * ceca2bb 2021-03-23 13:08:17 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (master) ][0m
+#-# Changes between 8.5.0 and c4dbedf
+#-# * 95a3ae2 2021-03-18 11:17:53 +0000 Add Python3 xena unit tests
+#-# * 6f44905 2021-03-18 11:17:32 +0000 Update master for stable/wallaby
+#-# | * ad720c3 2021-02-19 14:38:30 +0800 Remove lower-constraints remnants
+#-# | * 7443bcd 2021-03-18 17:35:56 +0100 move flake8 as a pre-commit local target
+#-# |/  
+#-# * e6d6b90 2021-03-09 15:02:29 +0100 Fix the conflict status with hacking.
+#-# * 6c3b36a 2020-11-04 10:01:50 +0100 Use py3 as the default runtime for tox
+#-# * 2bd456b 2020-11-04 10:47:42 +0100 Use TOX_CONSTRAINTS_FILE
+#-# * a53ec14 2020-12-18 15:08:09 +0100 Dropping lower constraints testing
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (master) ][0m
+#-# Changes between 1.3.0 and 52a7eaa
+#-# * 52a7eaa 2021-04-15 18:18:02 +0100 Add Python3 xena unit tests
+#-# * 9ebe3c6 2021-04-15 18:17:47 +0100 Update master for stable/wallaby
+#-# * 7f16772 2021-03-23 14:15:59 +0100 Fix requirements issues
+#-# [1m[91m[ Unreleased changes in openstack/oslo.messaging (master) ][0m
+#-# Changes between 12.7.1 and a43e6c60
+#-# * 83d0e453 2021-03-18 11:20:42 +0000 Add Python3 xena unit tests
+#-# * bddf5310 2021-03-18 11:20:30 +0000 Update master for stable/wallaby
+#-# * f43a7068 2021-04-13 12:23:56 +0200 Move flake8 as a pre-commit local target.
+#-# * e52dc2ac 2021-02-05 13:08:03 +0100 Remove lower constraints.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (master) ][0m
+#-# Changes between 4.2.0 and baf677b
+#-# * c1a30f3 2021-04-15 18:23:00 +0100 Update master for stable/wallaby
+#-# | * 3a0f7e4 2021-04-12 13:42:42 +0200 Fix requirements issues
+#-# * 5c806d4 2021-03-25 11:53:12 +0100 Fix requirements issues
+#-# [1m[91m[ Unreleased changes in openstack/oslo.policy (master) ][0m
+#-# Changes between 3.7.0 and b11d9e8
+#-# * b11d9e8 2021-04-07 16:33:45 +0200 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (master) ][0m
+#-# Changes between 2.5.0 and 22557b4
+#-# * 22557b4 2021-04-15 18:25:18 +0100 Add Python3 xena unit tests
+#-# * c4d0534 2021-04-15 18:25:08 +0100 Update master for stable/wallaby
+#-# * 5f5db61 2021-04-07 16:21:41 +0200 Fix requirements issues.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (master) ][0m
+#-# Changes between 4.1.0 and 96409d6
+#-# * 2b41ddc 2021-03-18 11:25:47 +0000 Update master for stable/wallaby
+#-# * c587b7e 2021-03-23 13:09:20 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (master) ][0m
+#-# Changes between 2.5.0 and b5c46d3
+#-# * 08f929b 2021-03-18 11:28:27 +0000 Add Python3 xena unit tests
+#-# * dbcdc22 2021-03-18 11:28:15 +0000 Update master for stable/wallaby
+#-# * 9006927 2021-03-23 13:09:41 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (master) ][0m
+#-# Changes between 1.3.0 and b55f018
+#-# * 276ecd7 2021-03-18 11:31:12 +0000 Add Python3 xena unit tests
+#-# * db3e3a9 2021-03-18 11:30:48 +0000 Update master for stable/wallaby
+#-# | * 75fe376 2021-03-23 13:10:01 +0100 Move flake8 as a pre-commit local target.
+#-# |/  
+#-# * a962943 2020-12-18 15:13:08 +0100 Dropping lower constraints testing
+#-# * 09c42be 2020-11-04 10:05:16 +0100 Use py3 as the default runtime for tox
+#-# * 20b199e 2020-11-04 10:51:29 +0100 Use TOX_CONSTRAINTS_FILE
+#-# [1m[91m[ Unreleased changes in openstack/oslo.utils (master) ][0m
+#-# Changes between 4.8.0 and 02d1cd8
+#-# * dae32a6 2021-03-18 11:31:53 +0000 Add Python3 xena unit tests
+#-# * 554d1f3 2021-03-18 11:31:49 +0000 Update master for stable/wallaby
+#-# * 0bbb22a 2021-03-23 13:10:25 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (master) ][0m
+#-# Changes between 2.4.0 and a657d97
+#-# * 4fa96d6 2021-03-18 11:32:20 +0000 Add Python3 xena unit tests
+#-# * 0a3da61 2021-03-18 11:32:17 +0000 Update master for stable/wallaby
+#-# | * a1ecfaa 2021-03-23 13:10:54 +0100 Move flake8 as a pre-commit local target.
+#-# |/  
+#-# * 117d28e 2021-02-18 14:25:23 +0100 Dropping lower constraints references
+#-# * 7ce947c 2020-11-04 10:05:34 +0100 Use py3 as the default runtime for tox
+#-# * e8062fc 2020-12-18 15:14:01 +0100 Dropping lower constraints testing
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (master) ][0m
+#-# Changes between 3.8.0 and 6d2f6dd
+#-# * 159f456 2021-03-18 11:33:03 +0000 Add Python3 xena unit tests
+#-# * 8e34d43 2021-03-18 11:32:43 +0000 Update master for stable/wallaby
+#-# * ce8d61b 2021-03-23 13:11:18 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/stevedore (master) ][0m
+#-# Changes between 3.3.0 and 3ce59ee
+#-# * 107308a 2021-03-18 11:33:41 +0000 Update master for stable/wallaby
+#-# * 5383853 2021-03-23 13:11:54 +0100 Move flake8 as a pre-commit local target.
+#-# * 8b6b861 2020-11-04 10:53:22 +0100 Use TOX_CONSTRAINTS_FILE
+#-# * 90b5daa 2020-12-18 15:15:29 +0100 Dropping lower constraints testing
+#-# [1m[91m[ Unreleased changes in openstack/tooz (master) ][0m
+#-# Changes between 2.8.0 and c6082c9
+#-# * 714e77e 2021-04-06 11:01:50 +0200 Move flake8 as a pre-commit local target.
+#-# * f2005df 2021-03-09 16:14:24 +0000 Cap tenacity to unblock the gate
+#-# * 0187a2d 2020-11-04 10:07:09 +0100 Use py3 as the default runtime for tox
+#-# * a381d71 2021-02-08 08:43:26 +0000 Bump hacking and flake8 version to fix pep8 job
