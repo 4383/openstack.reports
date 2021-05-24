@@ -1,0 +1,99 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (stable/victoria) ][0m
+#-# Changes between 2.2.0 and 88775e5
+#-# * 88775e5 2020-09-11 20:54:32 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * 765f722 2020-09-11 20:54:29 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/castellan (stable/victoria) ][0m
+#-# Changes between 3.6.0 and 433bb42
+#-# * 433bb42 2020-09-11 20:54:51 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * f9fb0a1 2020-09-11 20:54:49 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/debtcollector (stable/victoria) ][0m
+#-# Changes between 2.2.0 and ecf4340
+#-# * ecf4340 2020-09-11 20:55:10 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * f10459b 2020-09-11 20:55:08 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/futurist (stable/victoria) ][0m
+#-# Changes between 2.3.0 and 34b6340
+#-# * 34b6340 2020-09-11 20:55:29 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * 2d137b7 2020-09-11 20:55:27 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (stable/victoria) ][0m
+#-# Changes between 3.1.1 and a5f73f6
+#-# * a5f73f6 2020-09-11 20:56:53 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * e49f76d 2020-09-11 20:56:51 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (stable/victoria) ][0m
+#-# Changes between 8.4.0 and 702578a
+#-# * 702578a 2020-09-11 20:57:16 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * f0612c9 2020-09-11 20:57:13 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.i18n (stable/victoria) ][0m
+#-# Changes between 5.0.1 and 4f386b7
+#-# * 4f386b7 2020-09-11 20:57:37 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * c4d29f0 2020-09-11 20:57:35 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (stable/victoria) ][0m
+#-# Changes between 1.2.1 and 9b8c708
+#-# * 9b8c708 2020-09-11 20:57:56 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * eded84e 2020-09-11 20:57:54 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.log (stable/victoria) ][0m
+#-# Changes between 4.4.0 and 2bba920
+#-# * 2bba920 2020-09-11 20:58:18 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * 29838cb 2020-09-11 20:58:15 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (stable/victoria) ][0m
+#-# Changes between 4.1.1 and 6b43b40
+#-# * 6b43b40 2020-09-11 20:59:07 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * d0469a7 2020-09-11 20:59:05 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.policy (stable/victoria) ][0m
+#-# Changes between 3.5.0 and cb538eb
+#-# * cb538eb 2020-09-11 20:59:29 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * ff36568 2020-09-11 20:59:26 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (stable/victoria) ][0m
+#-# Changes between 2.4.0 and 7c62c75
+#-# * 7c62c75 2020-09-11 20:59:49 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * d61e2f4 2020-09-11 20:59:47 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.reports (stable/victoria) ][0m
+#-# Changes between 2.2.0 and fc5ff08
+#-# * fc5ff08 2020-09-11 21:00:08 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * 8be280d 2020-09-11 21:00:06 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.rootwrap (stable/victoria) ][0m
+#-# Changes between 6.2.0 and 615615a
+#-# * 615615a 2020-09-11 21:00:28 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * 17c6cbd 2020-09-11 21:00:25 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (stable/victoria) ][0m
+#-# Changes between 2.4.0 and 4017909
+#-# * 4017909 2020-09-11 21:01:07 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * bb2a341 2020-09-11 21:01:05 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (stable/victoria) ][0m
+#-# Changes between 1.1.1 and 29acd2f
+#-# * 29acd2f 2020-09-11 21:01:26 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * f33c055 2020-09-11 21:01:24 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.utils (stable/victoria) ][0m
+#-# Changes between 4.6.0 and 79903b1
+#-# * 79903b1 2020-09-14 17:11:04 +0000 Add Python3 victoria unit tests
+#-# * 22ac4dc 2020-09-11 21:01:47 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * 7ddc6a6 2020-09-11 21:01:45 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (stable/victoria) ][0m
+#-# Changes between 2.3.0 and 8b3deb7
+#-# * 8b3deb7 2021-03-01 13:15:33 +0100 Dropping lower constraints testing
+#-# * 456f980 2020-09-11 21:02:09 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * 60f3d85 2020-09-11 21:02:06 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (stable/victoria) ][0m
+#-# Changes between 3.7.0 and b707e98
+#-# * b707e98 2020-09-11 21:02:31 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * b6b8a99 2020-09-11 21:02:28 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslotest (stable/victoria) ][0m
+#-# Changes between 4.4.1 and f283a88
+#-# * f283a88 2020-09-11 21:02:50 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * cb8f10b 2020-09-11 21:02:48 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/osprofiler (stable/victoria) ][0m
+#-# Changes between 3.4.0 and 80c4f13
+#-# * 80c4f13 2020-09-11 21:03:10 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * fd9774a 2020-09-11 21:03:08 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/stevedore (stable/victoria) ][0m
+#-# Changes between 3.2.2 and 7bd3b30
+#-# * 7bd3b30 2020-09-11 21:03:30 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * 1f871ed 2020-09-11 21:03:27 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/taskflow (stable/victoria) ][0m
+#-# Changes between 4.5.0 and 3739d146
+#-# * 3739d146 2020-09-11 21:03:57 +0000 Update TOX_CONSTRAINTS_FILE for stable/victoria
+#-# * d1afefb8 2020-09-11 21:03:54 +0000 Update .gitreview for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/tooz (stable/victoria) ][0m
+#-# Changes between 2.7.1 and 1ddddbb
+#-# * 1ddddbb 2021-05-17 13:25:37 +0200 Retry on redis connection errors
+#-# * affcbda 2020-09-11 21:04:17 +0000 Update .gitreview for stable/victoria
+#-# * c8d77ee 2020-10-13 09:18:48 +0200 Blacklist etcd3gw 0.2.6
