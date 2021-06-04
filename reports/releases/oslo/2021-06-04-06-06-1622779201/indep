@@ -1,0 +1,179 @@
+#-# [1m[91m[ Unreleased changes in openstack/debtcollector (master) ][0m
+#-# Changes between 2.2.0 and 4c26e72
+#-# * 4c26e72 2021-05-18 11:26:49 +0800 remove unicode from code
+#-# * e9003e3 2021-05-14 18:13:21 +0800 setup.cfg: Replace dashes with underscores
+#-# * 7548762 2021-04-26 09:25:23 +0200 Remove runtime dependency on pbr
+#-# * 6878dbb 2021-02-20 09:47:22 +0800 Remove lower-constraints remnants
+#-# * faf37ce 2021-03-23 13:12:48 +0100 Move flake8 as a pre-commit local target.
+#-# * bbe0b09 2020-11-04 10:45:57 +0100 Use TOX_CONSTRAINTS_FILE
+#-# | * ef848c3 2020-12-18 15:05:57 +0100 Dropping lower constraints testing
+#-# | * 746b73d 2020-09-22 10:39:02 +0200 ignore reno generated artifacts
+#-# * | 2c8ba37 2020-11-03 16:14:43 +0100 Use py3 as the default runtime for tox
+#-#  /  
+#-# | * be7bc9e 2020-09-22 10:37:04 +0200 Adding pre-commit
+#-# * 3184b6a 2020-09-11 20:55:15 +0000 Add Python3 wallaby unit tests
+#-# * 8c2cebe 2020-09-11 20:55:12 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/etcd3gw (master) ][0m
+#-# Changes between v0.2.6 and 28daa79
+#-# * 28daa79 2021-02-09 20:27:05 +0100 Use unittest.mock instead of mock
+#-# * 4f299a6 2021-02-04 15:11:22 +0100 Drop py2 support and clean things up
+#-# * 85eab0c 2021-01-06 12:16:51 +0100 Add doc/requirements
+#-# * 199f30c 2020-10-25 14:49:27 +0000 Fix .gitreview file
+#-# * 56b6839 2020-10-25 14:39:03 +0000 [CI] Add jobs
+#-# * 7a1a2b5 2020-08-13 16:35:55 -0400 Restore previous endpoint default (v3alpha)
+#-# * de8a31f 2020-08-12 09:59:23 -0400 Raise hacking checks to recent version
+#-# * 3a4863b 2020-08-12 09:59:00 -0400 Add mock to test dependencies
+#-# [1m[91m[ Unreleased changes in openstack/futurist (master) ][0m
+#-# Changes between 2.3.0 and d70c7e5
+#-# * 4139990 2021-05-13 03:02:15 +0000 setup.cfg: Replace dashes with underscores
+#-# | * d073939 2021-05-26 16:52:12 +0000 remove unicode from code
+#-# |/  
+#-# * cad3f62 2021-04-16 12:17:19 +0100 trivial: Bump hacking to 4.x
+#-# * 0273cb7 2021-03-23 13:13:24 +0100 Move flake8 as a pre-commit local target.
+#-# * ffec6e1 2021-03-15 10:56:10 +0000 Remove lower-constraints remnants
+#-# | * 549c2cc 2021-03-11 17:35:34 +0000 Use py3 as the default runtime for tox
+#-# | | * 52bb16c 2021-03-11 17:36:13 +0000 Use TOX_CONSTRAINTS_FILE
+#-# | |/  
+#-# * | 4373f93 2021-03-11 17:36:00 +0000 Uncap PrettyTable
+#-# |/  
+#-# * dce4862 2021-03-11 17:34:53 +0000 pre-commit: Lower flake8 version
+#-# * bd2356b 2020-12-18 15:06:22 +0100 Dropping lower constraints testing
+#-# * 94e8e07 2020-09-22 10:48:01 +0200 ignore reno generated artifacts
+#-# | * d6c4661 2020-09-22 10:46:49 +0200 Adding pre-commit
+#-# * afe7105 2020-09-11 20:55:33 +0000 Add Python3 wallaby unit tests
+#-# * fe7bf8c 2020-09-11 20:55:31 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/microversion-parse (master) ][0m
+#-# Changes between 1.0.1 and de4bf21
+#-# * dc07afb 2021-01-21 15:42:04 +0100 Use py3 as the default runtime for tox
+#-# | * ee08574 2021-03-23 13:13:42 +0100 Move flake8 as a pre-commit local target.
+#-# |/  
+#-# * 4ea5fb3 2020-11-03 14:32:48 +0100 Use Python 3.8 as the default runtime for tox
+#-# * 89cb11c 2020-09-15 15:19:35 +0200 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/openstack-doc-tools (master) ][0m
+#-# Changes between 3.3.0 and 9d81e2f
+#-# * 9d81e2f 2021-03-23 13:14:08 +0100 Move flake8 as a pre-commit local target.
+#-# * 31c0b19 2020-11-04 10:07:49 +0100 Use py3 as the default runtime for tox
+#-# | * bc5023a 2020-12-18 15:04:20 +0100 Dropping lower constraints testing
+#-# | * 3c9dac5 2020-11-04 10:54:10 +0100 Use TOX_CONSTRAINTS_FILE
+#-# |/  
+#-# * e33745b 2020-11-03 14:33:07 +0100 Use Python 3.8 as the default runtime for tox
+#-# * fbe3f2f 2020-09-15 15:05:13 +0200 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/oslo.concurrency (master) ][0m
+#-# Changes between 4.4.0 and 8e08400
+#-# * 8e08400 2021-05-05 10:03:59 +0800 setup.cfg: Replace dashes with underscores
+#-# * 0139c6c 2021-04-27 02:53:57 +0000 Remove references to 'sys.version_info'
+#-# * aa1be28 2020-11-04 10:01:14 +0100 Use py3 as the default runtime for tox
+#-# * 5e6ab75 2021-02-19 14:43:13 +0800 Remove lower-constraints remnants
+#-# * 5397838 2021-03-23 13:15:24 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.i18n (master) ][0m
+#-# Changes between 5.0.1 and bd049f5
+#-# * bd049f5 2021-05-18 11:07:20 +0800 Upgrade the pre-commit-hooks version
+#-# * 720230d 2020-10-16 01:19:48 +0000 Fix hacking min version to 3.0.1
+#-# * bf972ec 2020-11-04 10:02:08 +0100 Use py3 as the default runtime for tox
+#-# * 5ee531c 2020-11-04 10:48:01 +0100 Use TOX_CONSTRAINTS_FILE
+#-# * 08a5a58 2021-03-30 11:47:05 +0200 Fix requirements issues
+#-# * 8609dc2 2020-11-26 14:41:12 +0800 Remove all usage of six library
+#-# * 05356e6 2020-09-22 10:27:36 +0200 Adding pre-commit
+#-# | * 912849f 2020-09-23 09:37:53 +0000 Remove six.PY3
+#-# |/  
+#-# * 598fb7c 2020-09-11 20:57:42 +0000 Add Python3 wallaby unit tests
+#-# * bc370d0 2020-09-11 20:57:40 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.log (master) ][0m
+#-# Changes between 4.5.0 and 41c8807
+#-# * 26d1c29 2021-04-27 01:37:10 +0000 Remove references to 'sys.version_info'
+#-# * 526192d 2021-05-06 09:25:46 +0800 Ussuri+ is python3 only
+#-# * dc9fe87 2021-04-30 06:37:36 +0000 setup.cfg: Replace dashes with underscores
+#-# [1m[91m[ Unreleased changes in openstack/oslo.reports (master) ][0m
+#-# Changes between 2.2.0 and f2799dc
+#-# * f2799dc 2021-05-17 17:57:04 +0800 Switch testing to Xena testing runtime
+#-# * 5f1602e 2021-05-14 17:35:09 +0800 setup.cfg: Replace dashes with underscores
+#-# * c083fe9 2021-02-19 14:57:06 +0800 Remove lower-constraints remnants
+#-# * 4d2c601 2021-03-23 13:16:23 +0100 Move flake8 as a pre-commit local target.
+#-# * 57cc918 2020-11-04 10:50:14 +0100 Use TOX_CONSTRAINTS_FILE
+#-# | * 6b2ad67 2020-10-16 01:21:28 +0000 Fix hacking min version to 3.0.1
+#-# | | * f67c3ba 2020-11-04 10:04:05 +0100 Use py3 as the default runtime for tox
+#-# | |/  
+#-# |/|   
+#-# | | * a96ee02 2020-12-11 15:45:20 +0000 Replace concatenation with f-strings
+#-# | |/  
+#-# |/|   
+#-# | | * 00f80b4 2020-12-18 15:11:40 +0100 Dropping lower constraints testing
+#-# | |/  
+#-# |/|   
+#-# * | a2122e7 2020-10-14 10:24:52 +0800 Remove all six usage
+#-# |/  
+#-# * f8cd468 2020-09-22 10:42:28 +0200 Adding pre-commit
+#-# * ed06708 2020-09-11 21:00:13 +0000 Add Python3 wallaby unit tests
+#-# * 003c1ce 2020-09-11 21:00:11 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.rootwrap (master) ][0m
+#-# Changes between 6.2.0 and 25fcff9
+#-# * 25fcff9 2021-05-05 10:01:58 +0800 setup.cfg: Replace dashes with underscores
+#-# * 85d0c79 2021-02-19 14:49:39 +0800 Remove lower-constraints remnants
+#-# * 273e429 2021-03-23 13:16:46 +0100 Move flake8 as a pre-commit local target.
+#-# * 0d1bcc5 2020-11-04 10:04:23 +0100 Use py3 as the default runtime for tox
+#-# | * 0d165ae 2020-11-04 10:50:33 +0100 Use TOX_CONSTRAINTS_FILE
+#-# |/  
+#-# | * 98e1888 2020-12-18 15:12:00 +0100 Dropping lower constraints testing
+#-# |/  
+#-# * 0e62293 2020-10-09 09:19:18 +0800 Remove six
+#-# * 81352d0 2020-09-30 16:34:20 +0800 Remove six.PY3
+#-# * b1122e8 2020-09-03 14:20:33 +0200 Adding pre-commit
+#-# * 45797b8 2020-09-11 21:00:32 +0000 Add Python3 wallaby unit tests
+#-# | * ee58e4f 2020-09-03 14:19:23 +0200 ignore reno generated artifacts
+#-# * 75084cc 2020-09-11 21:00:30 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/oslotest (master) ][0m
+#-# Changes between 4.4.1 and d4b1896
+#-# * d4b1896 2021-05-04 10:44:43 +0800 setup.cfg: Replace dashes with underscores
+#-# * c26aa6a 2021-04-21 15:49:12 +0000 Use TOX_CONSTRAINTS_FILE
+#-# | * 9cbf196 2021-04-01 11:43:31 +0100 Document unit of measure for OS_TEST_TIMEOUT
+#-# |/  
+#-# | * 0d208eb 2021-02-20 09:28:34 +0800 Remove lower-constraints remnants
+#-# * 2b05a2f 2021-03-23 13:17:07 +0100 Move flake8 as a pre-commit local target.
+#-# * b591174 2020-11-04 10:06:12 +0100 Use py3 as the default runtime for tox
+#-# * 333b737 2020-11-04 10:52:45 +0100 Use TOX_CONSTRAINTS_FILE
+#-# * 8763180 2020-12-18 15:14:44 +0100 Dropping lower constraints testing
+#-# * 2f4cb35 2020-09-15 17:10:31 +0200 Adding pre-commit
+#-# * 47d76c4 2020-09-11 21:02:55 +0000 Add Python3 wallaby unit tests
+#-# * ce65c03 2020-09-11 21:02:53 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/osprofiler (master) ][0m
+#-# Changes between 3.4.0 and 951efdc
+#-# * 951efdc 2021-05-17 09:14:46 +0000 Uncap PrettyTable
+#-# * d153b99 2021-03-23 13:17:30 +0100 Move flake8 as a pre-commit local target.
+#-# * bcca5bd 2020-12-18 15:15:05 +0100 Dropping lower constraints testing
+#-# * 42d5819 2020-11-04 10:06:29 +0100 Use py3 as the default runtime for tox
+#-# | * 22d6bff 2020-09-22 11:08:09 +0200 ignore reno generated artifacts
+#-# * | 2794b98 2020-10-09 11:07:15 +0200 Adding pre-commit
+#-# |/  
+#-# * d0d65fd 2020-09-11 21:03:15 +0000 Add Python3 wallaby unit tests
+#-# * ba16314 2020-09-11 21:03:12 +0000 Update master for stable/victoria
+#-# [1m[91m[ Unreleased changes in openstack/pbr (master) ][0m
+#-# Changes between 5.6.0 and f3b1c75
+#-# * f3b1c75 2021-04-23 10:05:50 +0100 Correct comment for 'D1_D2_SETUP_ARGS'
+#-# [1m[91m[ Unreleased changes in openstack/pylockfile (master) ][0m
+#-# Changes between 0.12.2 and d7fe107
+#-# * d7fe107 2020-08-05 20:00:03 -0500 Cleanup the retired repo
+#-# * f3453b8 2017-09-30 11:34:10 +0800 Farewell pylockfile
+#-# * 99870bf 2016-03-17 09:52:27 -0700 Remove oslo.concurrency from replacement recommendation
+#-# * 4977769 2015-12-26 14:22:53 +0530 py32/py33 are no longer supported by Infra's CI
+#-# * 4cc347c 2015-11-26 13:02:32 +0100 Rewrite README file
+#-# [1m[91m[ Unreleased changes in openstack/sphinx-feature-classification (master) ][0m
+#-# Changes between 1.1.0 and ad4a7c8
+#-# * cce52fc 2021-02-10 15:08:15 +0000 Migrate from testr to stestr
+#-# | * f557e6a 2021-03-23 13:19:33 +0100 Move flake8 as a pre-commit local target.
+#-# |/  
+#-# * 5495c1d 2020-11-04 10:55:12 +0100 Use TOX_CONSTRAINTS_FILE
+#-# * 4dfbd61 2020-09-15 14:52:53 +0200 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/taskflow (master) ][0m
+#-# Changes between 4.6.0 and 558b0c8d
+#-# * ebdb7a85 2021-05-03 10:16:10 +0200 Fix flowdetails meta size
+#-# * 205c1086 2021-04-27 16:36:31 +0800 setup.cfg: Replace dashes with underscores
+#-# * 14a5c0f2 2021-04-27 21:47:11 +0000 Use unittest.mock instead of mock
+#-# * 401ca095 2020-11-04 10:53:45 +0100 Use TOX_CONSTRAINTS_FILE
+#-# * 06e6b7d0 2020-11-04 10:06:50 +0100 Use py3 as the default runtime for tox
+#-# * c9f6da3e 2021-02-20 09:49:46 +0800 Remove lower-constraints remnants
+#-# * 0e9f7367 2021-03-23 13:20:14 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/tooz (master) ][0m
+#-# Changes between 2.9.0 and 292d768
+#-# * 0ba64e4 2021-04-27 15:19:59 +0800 setup.cfg: Replace dashes with underscores
+#-# * 608ea79 2021-04-16 14:23:46 +0200 Fix formatting of release list
+#-# * 0e0c11e 2021-05-14 13:50:15 +0800 setup.cfg: Replace dashes with underscores
