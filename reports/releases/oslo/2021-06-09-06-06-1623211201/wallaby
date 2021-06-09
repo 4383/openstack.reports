@@ -1,0 +1,99 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (stable/wallaby) ][0m
+#-# Changes between 2.3.0 and 4a3e539
+#-# * 4a3e539 2021-03-18 11:10:37 +0000 Update TOX_CONSTRAINTS_FILE for stable/wallaby
+#-# * c7e42f8 2021-03-18 11:10:34 +0000 Update .gitreview for stable/wallaby
+#-# [1m[91m[ Unreleased changes in openstack/castellan (stable/wallaby) ][0m
+#-# Changes between 3.7.1 and 3775cf4
+#-# * 3775cf4 2021-06-04 13:51:46 +0200 Add missing font for PDF doc generation
+#-# * 1570b66 2021-04-15 15:11:42 +0100 Update TOX_CONSTRAINTS_FILE for stable/wallaby
+#-# * e381a45 2021-04-15 15:11:34 +0100 Update .gitreview for stable/wallaby
+#-# * 1c67cd3 2021-04-15 15:11:03 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.cache (stable/wallaby) ][0m
+#-# Changes between 2.7.0 and 6039eb8
+#-# * 6039eb8 2021-04-15 15:14:58 +0100 Update TOX_CONSTRAINTS_FILE for stable/wallaby
+#-# * 4ef793e 2021-04-15 15:14:58 +0100 Update .gitreview for stable/wallaby
+#-# * 28fcdf2 2021-04-15 15:14:58 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (stable/wallaby) ][0m
+#-# Changes between 8.5.0 and de1dbee
+#-# * de1dbee 2021-06-02 16:39:54 +0000 config-generator yaml format doesn't work with i18n fields
+#-# * 67a071f 2021-05-06 12:09:51 +0200 Add the version parameter.
+#-# * 1074937 2021-04-27 11:22:13 +0200 Adding the missing HostDomain config option
+#-# * 5ac41c1 2021-04-15 15:03:27 +0100 Update TOX_CONSTRAINTS_FILE for stable/wallaby
+#-# * e3c050e 2021-04-15 15:03:20 +0100 Update .gitreview for stable/wallaby
+#-# * 39f6cec 2021-04-15 15:01:34 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (stable/wallaby) ][0m
+#-# Changes between 3.2.0 and be0e41e
+#-# * be0e41e 2021-04-15 15:17:16 +0100 Update TOX_CONSTRAINTS_FILE for stable/wallaby
+#-# * 6ba0f47 2021-04-15 15:17:16 +0100 Update .gitreview for stable/wallaby
+#-# * 2af794b 2021-04-15 15:17:16 +0100 Remove lower-constraints remnants
+#-# * 3629eff 2021-04-15 15:17:07 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (stable/wallaby) ][0m
+#-# Changes between 8.5.0 and 02c4287
+#-# * 02c4287 2021-04-16 10:21:36 +0000 Update TOX_CONSTRAINTS_FILE for stable/wallaby
+#-# * f5b3c68 2021-04-16 10:20:55 +0000 Update .gitreview for stable/wallaby
+#-# * 8d1e113 2021-03-23 16:41:01 +0100 Unblock wallaby gate
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (stable/wallaby) ][0m
+#-# Changes between 1.3.0 and 7fb9450
+#-# * 7fb9450 2021-04-15 15:25:21 +0100 Update TOX_CONSTRAINTS_FILE for stable/wallaby
+#-# * 2234552 2021-04-15 15:25:21 +0100 Update .gitreview for stable/wallaby
+#-# * 2c63f8f 2021-04-15 15:25:17 +0100 Fix requirements issues
+#-# [1m[91m[ Unreleased changes in openstack/oslo.messaging (stable/wallaby) ][0m
+#-# Changes between 12.7.1 and a2c2ec2f
+#-# * a2c2ec2f 2021-04-15 15:50:53 +0100 Update TOX_CONSTRAINTS_FILE for stable/wallaby
+#-# * e9333b55 2021-04-15 15:50:53 +0100 Update .gitreview for stable/wallaby
+#-# * 2cd68bec 2021-04-15 15:50:53 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.metrics (stable/wallaby) ][0m
+#-# Changes between 0.2.1 and ff38ac6
+#-# * ff38ac6 2021-03-18 11:21:12 +0000 Update TOX_CONSTRAINTS_FILE for stable/wallaby
+#-# * 4d4d371 2021-03-18 11:20:57 +0000 Update .gitreview for stable/wallaby
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (stable/wallaby) ][0m
+#-# Changes between 4.2.0 and b40ca5f
+#-# * b40ca5f 2021-04-15 15:38:54 +0100 Update TOX_CONSTRAINTS_FILE for stable/wallaby
+#-# * 8c854bf 2021-04-15 15:38:54 +0100 Update .gitreview for stable/wallaby
+#-# * 4f7bb6b 2021-04-15 15:38:52 +0100 Fix requirements issues
+#-# [1m[91m[ Unreleased changes in openstack/oslo.policy (stable/wallaby) ][0m
+#-# Changes between 3.7.0 and 4fe282b
+#-# * 4fe282b 2021-04-15 18:29:35 +0100 Update TOX_CONSTRAINTS_FILE for stable/wallaby
+#-# * 9784aa5 2021-04-15 18:29:35 +0100 Update .gitreview for stable/wallaby
+#-# * 90b2d24 2021-04-15 18:29:32 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (stable/wallaby) ][0m
+#-# Changes between 2.5.0 and 1634c00
+#-# * 1634c00 2021-04-15 15:53:27 +0100 Update TOX_CONSTRAINTS_FILE for stable/wallaby
+#-# * ad97812 2021-04-15 15:53:27 +0100 Update .gitreview for stable/wallaby
+#-# * 997d9e9 2021-04-15 15:53:27 +0100 Fix requirements issues.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (stable/wallaby) ][0m
+#-# Changes between 4.1.0 and bbe5d5a
+#-# * bbe5d5a 2021-04-15 15:57:06 +0100 Update TOX_CONSTRAINTS_FILE for stable/wallaby
+#-# * f9af3d2 2021-04-15 15:57:05 +0100 Update .gitreview for stable/wallaby
+#-# * a487459 2021-04-15 15:57:05 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (stable/wallaby) ][0m
+#-# Changes between 2.5.0 and 36f5e36
+#-# * 36f5e36 2021-04-15 16:08:29 +0100 Update TOX_CONSTRAINTS_FILE for stable/wallaby
+#-# * d26fc6f 2021-04-15 16:08:29 +0100 Update .gitreview for stable/wallaby
+#-# * 20e089f 2021-04-15 16:08:29 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (stable/wallaby) ][0m
+#-# Changes between 1.3.0 and 9561ecb
+#-# * 9561ecb 2021-04-16 11:07:32 +0100 Update TOX_CONSTRAINTS_FILE for stable/wallaby
+#-# * f49b073 2021-04-16 11:07:32 +0100 Update .gitreview for stable/wallaby
+#-# * 92e8272 2021-04-16 11:06:36 +0100 Dropping lower constraints testing
+#-# [1m[91m[ Unreleased changes in openstack/oslo.utils (stable/wallaby) ][0m
+#-# Changes between 4.8.0 and b685b91
+#-# * b685b91 2021-04-15 16:12:29 +0100 Update TOX_CONSTRAINTS_FILE for stable/wallaby
+#-# * ae1e856 2021-04-15 16:12:29 +0100 Update .gitreview for stable/wallaby
+#-# * 0078971 2021-04-15 16:12:27 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (stable/wallaby) ][0m
+#-# Changes between 2.4.0 and 89ff171
+#-# * 89ff171 2021-03-18 11:32:12 +0000 Update TOX_CONSTRAINTS_FILE for stable/wallaby
+#-# * 40f2b45 2021-03-18 11:32:10 +0000 Update .gitreview for stable/wallaby
+#-# * 71930ae 2021-02-18 14:25:23 +0100 Dropping lower constraints references
+#-# * 36b7a31 2020-12-18 15:14:01 +0100 Dropping lower constraints testing
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (stable/wallaby) ][0m
+#-# Changes between 3.8.0 and 27eeee2
+#-# * 27eeee2 2021-04-15 16:34:07 +0100 Update TOX_CONSTRAINTS_FILE for stable/wallaby
+#-# * b5bc6d3 2021-04-15 16:34:07 +0100 Update .gitreview for stable/wallaby
+#-# * d3a79cb 2021-04-15 16:34:04 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/stevedore (stable/wallaby) ][0m
+#-# Changes between 3.3.0 and eeec4a3
+#-# * eeec4a3 2021-04-16 10:46:50 +0100 Update TOX_CONSTRAINTS_FILE for stable/wallaby
+#-# * 6330a0c 2021-04-16 10:46:50 +0100 Update .gitreview for stable/wallaby
+#-# * 31a4686 2021-04-16 10:46:09 +0100 Dropping lower constraints testing
