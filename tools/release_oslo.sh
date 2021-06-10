@@ -31,7 +31,6 @@ sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/wallaby.sh
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/victoria.sh
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/ussuri.sh
-sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/train.sh
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/independent.sh
 EOF
 
@@ -81,15 +80,6 @@ cat ${output}/victoria.tmp2 >> ${output}/victoria
 awk 'NF' ${output}/ussuri.tmp > ${output}/ussuri.tmp2
 sed -i -e 's/^/#-# /' ${output}/ussuri.tmp2
 cat ${output}/ussuri.tmp2 >> ${output}/ussuri
-#########################################
-# train
-#########################################
-.tox/venv/bin/list-deliverables --team oslo -r --series train | awk -F "/" '{print "# tools/new_release.sh train " $2 " bugfix"}' > ${output}/train.sh
-./tools/list_unreleased_changes.sh --ignore-all stable/train \
-    $(.tox/venv/bin/list-deliverables --team oslo -r --series train) > ${output}/train.tmp
-awk 'NF' ${output}/train.tmp > ${output}/train.tmp2
-sed -i -e 's/^/#-# /' ${output}/train.tmp2
-cat ${output}/train.tmp2 >> ${output}/train
 #########################################
 # cleaning
 #########################################
