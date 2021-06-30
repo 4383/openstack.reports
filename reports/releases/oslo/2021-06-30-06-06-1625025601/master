@@ -1,0 +1,84 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (master) ][0m
+#-# Changes between 2.3.0 and 0461d8e
+#-# * 0461d8e 2021-06-07 21:08:51 +0000 Moving to OFTC
+#-# * df3f354 2021-05-12 09:18:00 +0800 setup.cfg: Replace dashes with underscores
+#-# * 80bd6a5 2021-04-16 12:07:10 +0100 Move flake8 as a pre-commit local target.
+#-# * 283b8e2 2021-02-11 12:29:11 +0000 Remove lower-constraints remnants
+#-# * 0faae13 2021-02-11 12:31:54 +0000 tox: Remove references to testr
+#-# * 2353f50 2021-03-18 11:10:57 +0000 Add Python3 xena unit tests
+#-# * 1703b2a 2021-03-18 11:10:43 +0000 Update master for stable/wallaby
+#-# [1m[91m[ Unreleased changes in openstack/castellan (master) ][0m
+#-# Changes between 3.8.0 and 17cd833
+#-# * 1620394 2021-06-21 12:48:03 +0000 barbican key manager: Add support for service user
+#-# * 2073f45 2021-06-10 09:30:57 +0800 Changed minversion in tox to 3.18.0
+#-# * 0d0c2f2 2021-06-04 13:35:35 +0200 Add missing font for PDF doc generation
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (master) ][0m
+#-# Changes between 8.7.0 and 1a7bd66
+#-# * e5fc313 2021-05-16 11:49:38 +0000 config-generator yaml format doesn't work with i18n fields
+#-# * b9468aa 2021-05-05 10:11:01 +0800 Ussuri+ is python3 only
+#-# * ab8a8dd 2021-04-29 19:59:51 +0800 setup.cfg: Replace dashes with underscores
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (master) ][0m
+#-# Changes between 3.3.0 and 641a1e0
+#-# * 0fc0a0a 2021-05-06 10:19:03 +0800 Ussuri+ is python3 only and update python to python3
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (master) ][0m
+#-# Changes between 9.1.0 and f3bdd4d
+#-# * 1dc20f6 2021-06-22 18:10:46 +0100 types: Set 'cache_ok'
+#-# * 50356dc 2021-06-23 12:50:12 +0200 Remove the useless else.
+#-# * a857b83 2021-06-23 13:04:45 +0200 Remove the idle_timeout option.
+#-# * bd3ead2 2021-06-22 11:56:09 +0200 Changed minversion in tox to 3.18.0
+#-# * 8064e18 2021-05-11 09:37:44 +0800 Replace getargspec with getfullargspec
+#-# [1m[91m[ Unreleased changes in openstack/oslo.messaging (master) ][0m
+#-# Changes between 12.8.0 and 9ab3f4f3
+#-# * 39826f06 2021-05-11 01:02:11 +0000 Remove the oslo_utils.fnmatch
+#-# * bdbb6d62 2021-06-08 22:22:37 +0800 Add Support For oslo.metrics
+#-# * c1f9fbea 2021-05-18 11:14:35 +0800 Upgrade the pre-commit-hooks version
+#-# * daca2549 2021-05-13 20:29:03 +0800 setup.cfg: Replace dashes with underscores
+#-# [1m[91m[ Unreleased changes in openstack/oslo.metrics (master) ][0m
+#-# Changes between 0.2.1 and d510ff4
+#-# * f03eb56 2021-04-20 09:47:12 +0800 Use py3 as the default runtime for tox
+#-# | * e8868ad 2021-03-18 11:21:30 +0000 Update master for stable/wallaby
+#-# * 3afeae8 2021-04-19 09:21:26 +0000 Dropping lower constraints testing
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (master) ][0m
+#-# Changes between 4.2.0 and 43ab170
+#-# * 2ec633c 2021-05-05 10:05:47 +0800 setup.cfg: Replace dashes with underscores
+#-# * 2c415ff 2021-05-18 11:15:54 +0800 Upgrade the pre-commit-hooks version
+#-# * b1ce931 2021-04-21 15:33:12 +0000 Warning about /healthcheck
+#-# * ea0d1ab 2020-11-04 10:03:06 +0100 Use py3 as the default runtime for tox
+#-# * a220331 2020-09-22 11:18:45 +0200 ignore reno generated artifacts
+#-# * c7fabf4 2021-04-15 18:23:11 +0100 Add Python3 xena unit tests
+#-# | * 2eb27aa 2021-01-03 16:18:03 +0800 remove unicode from code
+#-# * c1a30f3 2021-04-15 18:23:00 +0100 Update master for stable/wallaby
+#-# | * 3a0f7e4 2021-04-12 13:42:42 +0200 Fix requirements issues
+#-# * 5c806d4 2021-03-25 11:53:12 +0100 Fix requirements issues
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (master) ][0m
+#-# Changes between 4.1.0 and 2b94a4f
+#-# * 2b94a4f 2021-05-14 17:29:56 +0800 setup.cfg: Replace dashes with underscores
+#-# * 02a5e4d 2021-03-18 11:26:25 +0000 Add Python3 xena unit tests
+#-# | * a1f90ab 2021-02-19 15:05:19 +0800 Remove lower-constraints remnants
+#-# | * d20434c 2021-01-14 10:56:36 +0100 Use TOX_CONSTRAINTS_FILE
+#-# | * 967a36f 2021-02-01 11:05:36 +0000 Drop use of deprecated collections classes
+#-# * 2b41ddc 2021-03-18 11:25:47 +0000 Update master for stable/wallaby
+#-# * c587b7e 2021-03-23 13:09:20 +0100 Move flake8 as a pre-commit local target.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (master) ][0m
+#-# Changes between 2.4.0 and 4d5d360
+#-# * bdce5a0 2020-12-16 11:16:06 +0100 Use TOX_CONSTRAINTS_FILE
+#-# * 4fa96d6 2021-03-18 11:32:20 +0000 Add Python3 xena unit tests
+#-# * 0a3da61 2021-03-18 11:32:17 +0000 Update master for stable/wallaby
+#-# | * a1ecfaa 2021-03-23 13:10:54 +0100 Move flake8 as a pre-commit local target.
+#-# |/  
+#-# * 117d28e 2021-02-18 14:25:23 +0100 Dropping lower constraints references
+#-# * 7ce947c 2020-11-04 10:05:34 +0100 Use py3 as the default runtime for tox
+#-# * e8062fc 2020-12-18 15:14:01 +0100 Dropping lower constraints testing
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (master) ][0m
+#-# Changes between 3.9.0 and 3e3fa66
+#-# * 3e3fa66 2021-05-14 16:54:15 +0800 setup.cfg: Replace dashes with underscores
+#-# [1m[91m[ Unreleased changes in openstack/stevedore (master) ][0m
+#-# Changes between 3.3.0 and 8846a3f
+#-# * cba4821 2021-05-04 10:08:29 +0800 setup.cfg: Replace dashes with underscores
+#-# * ba1268d 2021-04-16 14:22:50 +0200 Fix formatting of release list
+#-# * 518948a 2021-03-18 11:33:52 +0000 Add Python3 xena unit tests
+#-# | * 74d6d58 2021-04-16 11:03:09 +0000 Remove lower-constraints remnants
+#-# * 107308a 2021-03-18 11:33:41 +0000 Update master for stable/wallaby
+#-# * 5383853 2021-03-23 13:11:54 +0100 Move flake8 as a pre-commit local target.
+#-# * 8b6b861 2020-11-04 10:53:22 +0100 Use TOX_CONSTRAINTS_FILE
+#-# * 90b5daa 2020-12-18 15:15:29 +0100 Dropping lower constraints testing
