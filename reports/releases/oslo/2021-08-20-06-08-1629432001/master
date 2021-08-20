@@ -1,0 +1,39 @@
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (master) ][0m
+#-# Changes between 8.7.1 and 88c831c
+#-# * 88c831c 2021-08-19 00:42:44 +0000 Fix tests for Python3.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (master) ][0m
+#-# Changes between 10.0.0 and 75661fb
+#-# * ad4729d 2021-08-16 12:24:58 +0100 requirements: Bump sqlalchemy lower constraint
+#-# | * 8e7454c 2021-08-10 16:53:47 +0100 Don't use plain string SQL statements
+#-# | * 6a013c6 2021-08-10 16:53:47 +0100 Replace use of Table.autoload parameter
+#-# | * d2f101c 2021-08-10 16:53:47 +0100 Replace use of update.whereclause parameter
+#-# |/  
+#-# * 0816efc 2021-08-10 16:53:47 +0100 Update import of declarative_base()
+#-# * 38c2eff 2021-08-10 16:53:47 +0100 Replace use of update.values parameter
+#-# * 6dc4b1c 2021-08-10 16:53:47 +0100 Replace use of insert.values parameter
+#-# * d949861 2021-08-10 16:53:45 +0100 Add missing bind argument to calls
+#-# * 872bc1d 2021-08-10 16:51:17 +0100 Don't pass strings to Connection.execute()
+#-# * 22b44ee 2021-08-09 12:43:40 -0400 Remove use of MetaData.bind argument
+#-# * 8d76072 2021-07-29 16:37:44 +0100 Remove legacy calling style of select()
+#-# * 4c1eb96 2021-07-29 16:37:02 +0100 tests: Enable SQLAlchemy 2.0 deprecation warnings
+#-# * da002a8 2021-07-29 16:37:02 +0100 utils: Deprecate sqlalchemy-migrate-related functions
+#-# * 40bce5a 2021-07-29 16:37:02 +0100 tests: Enable SADeprecationWarning warnings
+#-# * a6007a9 2021-07-29 16:37:01 +0100 tests: Use common base class
+#-# * 538e0a2 2021-07-29 16:36:38 +0100 tests: Enfeeble 'oslo_db.tests.utils.BaseTestCase'
+#-# * 73e376d 2021-07-29 16:36:38 +0100 tests: Clean up base test
+#-# * bd69e86 2021-07-28 18:10:53 +0100 Drop checks for IBM DB2
+#-# * 4f9df08 2021-06-25 16:15:13 +0100 tests: Remove 'ModelsMigrationsSync.check_foreign_keys'
+#-# * 74c6bf2 2021-06-25 16:14:21 +0100 concurrency: Deprecate 'TpoolDbapiWrapper'
+#-# * a778f2d 2021-06-25 12:59:42 +0100 sqlalchemy: Remove checks for older deps
+#-# * f048068 2021-07-16 13:01:45 +0100 tox: Simplify test running
+#-# [1m[91m[ Unreleased changes in openstack/oslo.messaging (master) ][0m
+#-# Changes between 12.8.0 and ee5eed86
+#-# * 3e589edd 2021-06-07 16:58:52 +0800 Changed minversion in tox to 3.18.0
+#-# * 39826f06 2021-05-11 01:02:11 +0000 Remove the oslo_utils.fnmatch
+#-# * bdbb6d62 2021-06-08 22:22:37 +0800 Add Support For oslo.metrics
+#-# * c1f9fbea 2021-05-18 11:14:35 +0800 Upgrade the pre-commit-hooks version
+#-# * daca2549 2021-05-13 20:29:03 +0800 setup.cfg: Replace dashes with underscores
+#-# [1m[91m[ Unreleased changes in openstack/oslo.metrics (master) ][0m
+#-# Changes between 0.3.0 and c7e8372
+#-# * cb39a35 2021-08-12 01:21:12 +0000 Changed minversion in tox to 3.18.0
+#-# * b5328ae 2021-08-11 11:41:36 +0800 setup.cfg: Replace dashes with underscores
