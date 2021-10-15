@@ -1,0 +1,103 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (master) ][0m
+#-# Changes between 2.4.0 and aaca110
+#-# * a065638 2021-09-10 14:32:52 +0000 Add Python3 yoga unit tests
+#-# * 1b1e186 2021-09-10 14:32:50 +0000 Update master for stable/xena
+#-# * 45e5452 2021-09-21 15:32:39 +0100 doc: Avoid duplicate entry warning
+#-# [1m[91m[ Unreleased changes in openstack/castellan (master) ][0m
+#-# Changes between 3.9.1 and ecf625b
+#-# * ecf625b 2021-10-07 12:12:51 +0000 Add support for Vault Namespaces
+#-# * aa3a760 2021-09-10 14:33:18 +0000 Add Python3 yoga unit tests
+#-# * d9e2af2 2021-09-10 14:33:17 +0000 Update master for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.cache (master) ][0m
+#-# Changes between 2.8.1 and e0f47b7
+#-# * 04e3860 2021-07-06 15:03:18 +0200 fix typo
+#-# * 316b0d2 2021-09-10 14:33:45 +0000 Add Python3 yoga unit tests
+#-# * aaae243 2021-09-10 14:33:43 +0000 Update master for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (master) ][0m
+#-# Changes between 8.7.1 and 92216ff
+#-# * 92216ff 2021-09-10 14:34:00 +0000 Add Python3 yoga unit tests
+#-# * 9e82ae1 2021-09-10 14:33:57 +0000 Update master for stable/xena
+#-# * 0c0b745 2021-09-02 19:58:19 +0800 setup.cfg: Replace dashes with underscores
+#-# * 807d9c5 2021-06-03 10:11:29 +0800 Replace deprecated UPPER_CONSTRAINTS_FILE variable
+#-# * 88c831c 2021-08-19 00:42:44 +0000 Fix tests for Python3.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (master) ][0m
+#-# Changes between 3.3.1 and 57a4a5f
+#-# * 8290621 2021-08-12 20:14:34 +0000 Fix context from_dict() for system_scope
+#-# * 1022a51 2021-09-10 14:34:20 +0000 Add Python3 yoga unit tests
+#-# * d2634fd 2021-09-10 14:34:19 +0000 Update master for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (master) ][0m
+#-# Changes between 11.0.0 and d774201
+#-# * d774201 2021-09-10 14:34:33 +0000 Add Python3 yoga unit tests
+#-# * 4e67858 2021-09-10 14:34:32 +0000 Update master for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (master) ][0m
+#-# Changes between 1.4.0 and a6fff3b
+#-# * a625860 2021-08-12 11:12:28 +0800 Changed minversion in tox to 3.18.0
+#-# * a7d8f41 2021-08-13 01:06:07 +0000 setup.cfg: Replace dashes with underscores
+#-# * 489feb5 2021-09-10 14:34:52 +0000 Add Python3 yoga unit tests
+#-# * e60489f 2021-09-10 14:34:50 +0000 Update master for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.messaging (master) ][0m
+#-# Changes between 12.9.1 and ca939fc0
+#-# * ca939fc0 2021-09-22 14:45:39 -0400 rabbit: move stdlib_threading bits into _utils
+#-# * 129c2233 2021-09-10 11:19:43 +0300 use message id cache for RPC listener
+#-# * bdcf915e 2021-07-13 00:15:38 +0300 limit maximum timeout in the poll loop
+#-# * 23040424 2021-09-10 14:35:08 +0000 Add Python3 yoga unit tests
+#-# * 2a052499 2021-09-10 14:35:07 +0000 Update master for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.metrics (master) ][0m
+#-# Changes between 0.3.0 and b4eb8c3
+#-# * b23fb97 2021-10-07 12:48:15 -0400 Limit metrics_socket_file permissions
+#-# | * 6ad0f5d 2021-06-24 07:18:59 +0800 Make Expose Port Configurable
+#-# * e9086be 2021-09-10 14:35:16 +0000 Update master for stable/xena
+#-# * cb39a35 2021-08-12 01:21:12 +0000 Changed minversion in tox to 3.18.0
+#-# * b5328ae 2021-08-11 11:41:36 +0800 setup.cfg: Replace dashes with underscores
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (master) ][0m
+#-# Changes between 4.4.0 and c2e6b89
+#-# * c2e6b89 2021-09-10 14:35:50 +0000 Add Python3 yoga unit tests
+#-# * f8749d2 2021-09-10 14:35:49 +0000 Update master for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.policy (master) ][0m
+#-# Changes between 3.8.2 and 4f0e206
+#-# * 4f5bec0 2021-09-10 14:36:33 +0000 Add Python3 yoga unit tests
+#-# * d26995a 2021-09-10 14:36:31 +0000 Update master for stable/xena
+#-# * 9774108 2021-08-12 20:28:52 +0000 Map system_scope in creds dictionary
+#-# * a0e407e 2021-09-09 19:11:42 +0000 Clarify enforce_new_defaults help text
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (master) ][0m
+#-# Changes between 2.6.2 and fa13840
+#-# * fa13840 2021-09-10 14:37:55 +0000 Add Python3 yoga unit tests
+#-# * df622f1 2021-09-10 14:37:54 +0000 Update master for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (master) ][0m
+#-# Changes between 4.2.0 and 6910f75
+#-# * 521d403 2021-05-05 02:54:18 +0000 setup.cfg: Replace dashes with underscores
+#-# * 67485b1 2021-09-10 14:38:22 +0000 Add Python3 yoga unit tests
+#-# * 2d11895 2021-09-10 14:38:20 +0000 Update master for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (master) ][0m
+#-# Changes between 2.6.0 and 7a62271
+#-# * eb19154 2021-10-05 08:29:50 +0000 Fix fo() backdoor command for non-class objects
+#-# * d3ee8ef 2021-09-16 10:18:35 -0700 Fix BackOffLoopingCall error so it is not misleading
+#-# * fcdeb4a 2021-09-10 14:39:01 +0000 Add Python3 yoga unit tests
+#-# * a88a695 2021-09-10 14:39:00 +0000 Update master for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (master) ][0m
+#-# Changes between 1.4.0 and 1559e03
+#-# * 1559e03 2021-09-10 14:39:28 +0000 Add Python3 yoga unit tests
+#-# * b68d383 2021-09-10 14:39:13 +0000 Update master for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.utils (master) ][0m
+#-# Changes between 4.10.0 and d8b3e04
+#-# * 2922a34 2021-09-05 00:43:48 +0900 QemuImgInfo: Fix inconsistent value format of encrypted
+#-# * e52d7b8 2021-08-12 01:19:20 +0000 Changed minversion in tox to 3.18.0
+#-# * cfb29cc 2021-09-10 14:39:41 +0000 Add Python3 yoga unit tests
+#-# * 5586872 2021-09-10 14:39:40 +0000 Update master for stable/xena
+#-# * cf45c2c 2021-08-20 16:23:04 +0000 setup.cfg: Replace dashes with underscores
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (master) ][0m
+#-# Changes between 2.5.0 and e7b6d52
+#-# * e7b6d52 2021-09-10 14:40:09 +0000 Add Python3 yoga unit tests
+#-# * c2e6c12 2021-09-10 14:40:07 +0000 Update master for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (master) ][0m
+#-# Changes between 3.9.1 and 7bc3431
+#-# * 7bc3431 2021-10-13 09:35:34 +0900 Replace suds-jurko with suds-community
+#-# * a34a95b 2021-09-10 14:40:47 +0000 Add Python3 yoga unit tests
+#-# | * e991194 2021-09-21 15:41:58 +0100 Don't use 'requests.PreparedRequest'
+#-# |/  
+#-# * a2e76d6 2021-09-10 14:40:46 +0000 Update master for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/stevedore (master) ][0m
+#-# Changes between 3.4.0 and 442f157
+#-# * 442f157 2021-09-10 14:41:12 +0000 Add Python3 yoga unit tests
+#-# * ba9469f 2021-09-10 14:41:10 +0000 Update master for stable/xena
+#-# * 11da137 2021-09-01 10:55:33 +0100 Rely on member access, the preferred access since importlib_metadata 4.8.
