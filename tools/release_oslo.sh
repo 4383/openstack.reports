@@ -28,6 +28,7 @@ fi
 git clone git@github.com:4383/openstack.reports
 cd_releses
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/master.sh
+sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/xena.sh
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/wallaby.sh
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/victoria.sh
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/ussuri.sh
@@ -53,6 +54,15 @@ cat ${output}/master.tmp2 >> ${output}/master
 awk 'NF' ${output}/indep.tmp > ${output}/indep.tmp2
 sed -i -e 's/^/#-# /' ${output}/indep.tmp2
 cat ${output}/indep.tmp2 >> ${output}/indep
+#########################################
+# xena
+#########################################
+.tox/venv/bin/list-deliverables --team oslo -r --series xena | awk -F "/" '{print "# tools/new_release.sh xena " $2 " bugfix"}' > ${output}/xena.sh
+./tools/list_unreleased_changes.sh --ignore-all stable/xena \
+    $(.tox/venv/bin/list-deliverables --team oslo -r --series xena) > ${output}/xena.tmp
+awk 'NF' ${output}/xena.tmp > ${output}/xena.tmp2
+sed -i -e 's/^/#-# /' ${output}/xena.tmp2
+cat ${output}/xena.tmp2 >> ${output}/xena
 #########################################
 # wallaby
 #########################################
