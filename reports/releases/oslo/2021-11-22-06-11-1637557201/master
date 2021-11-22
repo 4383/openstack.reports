@@ -1,0 +1,43 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (master) ][0m
+#-# Changes between 2.4.0 and aaca110
+#-# * a065638 2021-09-10 14:32:52 +0000 Add Python3 yoga unit tests
+#-# * 1b1e186 2021-09-10 14:32:50 +0000 Update master for stable/xena
+#-# * 45e5452 2021-09-21 15:32:39 +0100 doc: Avoid duplicate entry warning
+#-# [1m[91m[ Unreleased changes in openstack/castellan (master) ][0m
+#-# Changes between 3.10.0 and ebafb3c
+#-# * 1375d6c 2021-09-20 22:27:43 +0300 Fix gitignore pattern for vault related files
+#-# [1m[91m[ Unreleased changes in openstack/oslo.cache (master) ][0m
+#-# Changes between 2.8.1 and e0f47b7
+#-# * 04e3860 2021-07-06 15:03:18 +0200 fix typo
+#-# * 316b0d2 2021-09-10 14:33:45 +0000 Add Python3 yoga unit tests
+#-# * aaae243 2021-09-10 14:33:43 +0000 Update master for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (master) ][0m
+#-# Changes between 8.7.1 and 92216ff
+#-# * 92216ff 2021-09-10 14:34:00 +0000 Add Python3 yoga unit tests
+#-# * 9e82ae1 2021-09-10 14:33:57 +0000 Update master for stable/xena
+#-# * 0c0b745 2021-09-02 19:58:19 +0800 setup.cfg: Replace dashes with underscores
+#-# * 807d9c5 2021-06-03 10:11:29 +0800 Replace deprecated UPPER_CONSTRAINTS_FILE variable
+#-# * 88c831c 2021-08-19 00:42:44 +0000 Fix tests for Python3.
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (master) ][0m
+#-# Changes between 1.4.0 and a6fff3b
+#-# * a625860 2021-08-12 11:12:28 +0800 Changed minversion in tox to 3.18.0
+#-# * a7d8f41 2021-08-13 01:06:07 +0000 setup.cfg: Replace dashes with underscores
+#-# * 489feb5 2021-09-10 14:34:52 +0000 Add Python3 yoga unit tests
+#-# * e60489f 2021-09-10 14:34:50 +0000 Update master for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (master) ][0m
+#-# Changes between 2.6.2 and fa13840
+#-# * fa13840 2021-09-10 14:37:55 +0000 Add Python3 yoga unit tests
+#-# * df622f1 2021-09-10 14:37:54 +0000 Update master for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (master) ][0m
+#-# Changes between 4.2.0 and 6910f75
+#-# * 521d403 2021-05-05 02:54:18 +0000 setup.cfg: Replace dashes with underscores
+#-# * 67485b1 2021-09-10 14:38:22 +0000 Add Python3 yoga unit tests
+#-# * 2d11895 2021-09-10 14:38:20 +0000 Update master for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (master) ][0m
+#-# Changes between 1.4.0 and 1559e03
+#-# * 1559e03 2021-09-10 14:39:28 +0000 Add Python3 yoga unit tests
+#-# * b68d383 2021-09-10 14:39:13 +0000 Update master for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (master) ][0m
+#-# Changes between 2.5.0 and e7b6d52
+#-# * e7b6d52 2021-09-10 14:40:09 +0000 Add Python3 yoga unit tests
+#-# * c2e6c12 2021-09-10 14:40:07 +0000 Update master for stable/xena
