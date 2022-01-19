@@ -1,0 +1,69 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (stable/xena) ][0m
+#-# Changes between 2.4.0 and 363c487
+#-# * 58d6de1 2021-09-10 14:32:48 +0000 Update TOX_CONSTRAINTS_FILE for stable/xena
+#-# * 48e3c4b 2021-09-10 14:32:46 +0000 Update .gitreview for stable/xena
+#-# * 4bf9611 2021-10-04 17:08:32 +0000 doc: Avoid duplicate entry warning
+#-# [1m[91m[ Unreleased changes in openstack/castellan (stable/xena) ][0m
+#-# Changes between 3.9.1 and 28458a8
+#-# * 28458a8 2021-09-10 14:33:15 +0000 Update TOX_CONSTRAINTS_FILE for stable/xena
+#-# * ddf2855 2021-09-10 14:33:14 +0000 Update .gitreview for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.cache (stable/xena) ][0m
+#-# Changes between 2.8.1 and f86090d
+#-# * f86090d 2021-09-10 14:33:29 +0000 Update TOX_CONSTRAINTS_FILE for stable/xena
+#-# * 5a8e83c 2021-09-10 14:33:28 +0000 Update .gitreview for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (stable/xena) ][0m
+#-# Changes between 8.7.1 and 5ccbc71
+#-# * 5ccbc71 2021-09-10 14:33:56 +0000 Update TOX_CONSTRAINTS_FILE for stable/xena
+#-# * 3ec0317 2021-09-10 14:33:54 +0000 Update .gitreview for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (stable/xena) ][0m
+#-# Changes between 11.0.0 and f6bd9ce
+#-# * f6bd9ce 2021-09-10 14:34:31 +0000 Update TOX_CONSTRAINTS_FILE for stable/xena
+#-# * 7a84eb2 2021-09-10 14:34:30 +0000 Update .gitreview for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (stable/xena) ][0m
+#-# Changes between 1.4.0 and 3e37257
+#-# * 3e37257 2021-09-10 14:34:49 +0000 Update TOX_CONSTRAINTS_FILE for stable/xena
+#-# * 3736286 2021-09-10 14:34:47 +0000 Update .gitreview for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.messaging (stable/xena) ][0m
+#-# Changes between 12.9.1 and 4f459f94
+#-# * 4f459f94 2021-09-14 17:02:15 +0200 use message id cache for RPC listener
+#-# * d2886907 2021-09-14 07:46:15 +0000 limit maximum timeout in the poll loop
+#-# * b6573655 2021-09-10 14:35:05 +0000 Update TOX_CONSTRAINTS_FILE for stable/xena
+#-# * e7eae069 2021-09-10 14:35:04 +0000 Update .gitreview for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.metrics (stable/xena) ][0m
+#-# Changes between 0.3.0 and b904335
+#-# * b904335 2021-10-18 11:59:08 +0000 Limit metrics_socket_file permissions
+#-# * 42ed796 2021-09-10 14:35:15 +0000 Update TOX_CONSTRAINTS_FILE for stable/xena
+#-# * 36bd8ce 2021-09-10 14:35:14 +0000 Update .gitreview for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (stable/xena) ][0m
+#-# Changes between 4.4.0 and b4b7fa7
+#-# * b4b7fa7 2021-09-10 14:35:46 +0000 Update TOX_CONSTRAINTS_FILE for stable/xena
+#-# * 2c07665 2021-09-10 14:35:42 +0000 Update .gitreview for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (stable/xena) ][0m
+#-# Changes between 2.6.2 and 9d39bbf
+#-# * 9d39bbf 2021-09-10 14:37:52 +0000 Update TOX_CONSTRAINTS_FILE for stable/xena
+#-# * 5f406e4 2021-09-10 14:37:51 +0000 Update .gitreview for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (stable/xena) ][0m
+#-# Changes between 4.2.0 and 523dc38
+#-# * 523dc38 2021-09-10 14:38:18 +0000 Update TOX_CONSTRAINTS_FILE for stable/xena
+#-# * af52a82 2021-09-10 14:38:10 +0000 Update .gitreview for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (stable/xena) ][0m
+#-# Changes between 2.6.0 and 7be76c2
+#-# * 7be76c2 2021-09-10 14:38:59 +0000 Update TOX_CONSTRAINTS_FILE for stable/xena
+#-# * 48881c4 2021-09-10 14:38:58 +0000 Update .gitreview for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (stable/xena) ][0m
+#-# Changes between 1.4.0 and fd2be9a
+#-# * fd2be9a 2021-09-10 14:39:11 +0000 Update TOX_CONSTRAINTS_FILE for stable/xena
+#-# * e6f9587 2021-09-10 14:39:08 +0000 Update .gitreview for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (stable/xena) ][0m
+#-# Changes between 2.5.0 and 8084ffa
+#-# * 8084ffa 2021-09-10 14:40:04 +0000 Update TOX_CONSTRAINTS_FILE for stable/xena
+#-# * 1a0ca08 2021-09-10 14:40:03 +0000 Update .gitreview for stable/xena
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (stable/xena) ][0m
+#-# Changes between 3.9.1 and b922156
+#-# * 7ea762e 2021-09-10 14:40:45 +0000 Update TOX_CONSTRAINTS_FILE for stable/xena
+#-# * 533e9a2 2021-09-10 14:40:44 +0000 Update .gitreview for stable/xena
+#-# * 2a22679 2021-10-05 08:24:17 +0000 Don't use 'requests.PreparedRequest'
+#-# [1m[91m[ Unreleased changes in openstack/stevedore (stable/xena) ][0m
+#-# Changes between 3.4.0 and 09029b2
+#-# * 09029b2 2021-09-10 14:41:09 +0000 Update TOX_CONSTRAINTS_FILE for stable/xena
+#-# * a26ba67 2021-09-10 14:41:08 +0000 Update .gitreview for stable/xena
