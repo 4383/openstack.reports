@@ -1,0 +1,59 @@
+#-# [1m[91m[ Unreleased changes in openstack/debtcollector (master) ][0m
+#-# Changes between 2.4.0 and a6b46c5
+#-# * a6b46c5 2022-02-11 17:25:03 +0000 Remove references to Python 2 objects
+#-# * 1e08744 2021-11-12 11:38:15 +0000 requirements: Remove pbr
+#-# [1m[91m[ Unreleased changes in openstack/microversion-parse (master) ][0m
+#-# Changes between 1.0.1 and de4bf21
+#-# * dc07afb 2021-01-21 15:42:04 +0100 Use py3 as the default runtime for tox
+#-# | * ee08574 2021-03-23 13:13:42 +0100 Move flake8 as a pre-commit local target.
+#-# |/  
+#-# * 4ea5fb3 2020-11-03 14:32:48 +0100 Use Python 3.8 as the default runtime for tox
+#-# * 89cb11c 2020-09-15 15:19:35 +0200 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/openstack-doc-tools (master) ][0m
+#-# Changes between 3.3.0 and 9d81e2f
+#-# * 9d81e2f 2021-03-23 13:14:08 +0100 Move flake8 as a pre-commit local target.
+#-# * 31c0b19 2020-11-04 10:07:49 +0100 Use py3 as the default runtime for tox
+#-# | * bc5023a 2020-12-18 15:04:20 +0100 Dropping lower constraints testing
+#-# | * 3c9dac5 2020-11-04 10:54:10 +0100 Use TOX_CONSTRAINTS_FILE
+#-# |/  
+#-# * e33745b 2020-11-03 14:33:07 +0100 Use Python 3.8 as the default runtime for tox
+#-# * fbe3f2f 2020-09-15 15:05:13 +0200 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/openstackdocstheme (master) ][0m
+#-# Changes between 2.3.1 and b270f4a
+#-# * b270f4a 2022-01-13 00:51:31 +0000 Fix OpenStack project "Search" pages
+#-# * 3547151 2021-01-06 10:54:27 -0300 Updated Nav Menu
+#-# [1m[91m[ Unreleased changes in openstack/oslo.concurrency (master) ][0m
+#-# Changes between 4.5.0 and 95b9334
+#-# * 95b9334 2021-12-21 17:30:20 +0800 Update python testing classifier
+#-# [1m[91m[ Unreleased changes in openstack/oslo.log (master) ][0m
+#-# Changes between 4.6.1 and de03a59
+#-# * de03a59 2022-02-05 13:00:13 -0800 Add Yoga to versionutils
+#-# * 650ce7d 2022-02-05 12:58:43 -0800 Use project when logging the user identity
+#-# * 27d159b 2021-12-21 16:46:05 +0800 Update python testing classifier
+#-# [1m[91m[ Unreleased changes in openstack/oslo.reports (master) ][0m
+#-# Changes between 2.3.0 and 6da7341
+#-# * 6da7341 2021-06-07 16:51:48 +0800 Changed minversion in tox to 3.18.0
+#-# [1m[91m[ Unreleased changes in openstack/oslo.rootwrap (master) ][0m
+#-# Changes between 6.3.0 and 1b1b960
+#-# * 1b1b960 2022-01-13 08:45:09 -0500 CommandFilter should allow exec from full path
+#-# [1m[91m[ Unreleased changes in openstack/osprofiler (master) ][0m
+#-# Changes between 3.4.2 and a2e5a66
+#-# * 1c28012 2021-01-14 10:50:22 +0100 Use TOX_CONSTRAINTS_FILE
+#-# * adc39e8 2020-12-17 17:51:56 +0800 Remove six
+#-# [1m[91m[ Unreleased changes in openstack/pbr (master) ][0m
+#-# Changes between 5.8.1 and 97e7a60
+#-# * 09417bf 2022-01-21 10:54:56 +0100 setup.cfg: Replace dashes with underscores
+#-# [1m[91m[ Unreleased changes in openstack/pylockfile (master) ][0m
+#-# Changes between 0.12.2 and d7fe107
+#-# * d7fe107 2020-08-05 20:00:03 -0500 Cleanup the retired repo
+#-# * f3453b8 2017-09-30 11:34:10 +0800 Farewell pylockfile
+#-# * 99870bf 2016-03-17 09:52:27 -0700 Remove oslo.concurrency from replacement recommendation
+#-# * 4977769 2015-12-26 14:22:53 +0530 py32/py33 are no longer supported by Infra's CI
+#-# * 4cc347c 2015-11-26 13:02:32 +0100 Rewrite README file
+#-# [1m[91m[ Unreleased changes in openstack/sphinx-feature-classification (master) ][0m
+#-# Changes between 1.1.0 and ad4a7c8
+#-# * cce52fc 2021-02-10 15:08:15 +0000 Migrate from testr to stestr
+#-# | * f557e6a 2021-03-23 13:19:33 +0100 Move flake8 as a pre-commit local target.
+#-# |/  
+#-# * 5495c1d 2020-11-04 10:55:12 +0100 Use TOX_CONSTRAINTS_FILE
+#-# * 4dfbd61 2020-09-15 14:52:53 +0200 Adding pre-commit
