@@ -1,0 +1,56 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (master) ][0m
+#-# Changes between 2.5.0 and b86ca41
+#-# * b86ca41 2022-03-04 17:16:51 +0000 Update master for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/castellan (master) ][0m
+#-# Changes between 3.10.1 and 3e0fad7
+#-# * 3e0fad7 2022-03-04 17:17:05 +0000 Update master for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (master) ][0m
+#-# Changes between 8.8.0 and 8255914
+#-# * 8255914 2022-03-04 17:17:33 +0000 Update master for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (master) ][0m
+#-# Changes between 4.1.0 and f13e5b4
+#-# * f13e5b4 2022-03-04 17:17:46 +0000 Update master for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (master) ][0m
+#-# Changes between 11.2.0 and ec2f9f1
+#-# * ec2f9f1 2022-03-04 17:18:00 +0000 Update master for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (master) ][0m
+#-# Changes between 1.5.0 and 562ada0
+#-# * 9f7a66a 2022-03-03 00:32:47 +0000 Add documentation for config options
+#-# * ce5aa7d 2022-02-28 01:27:50 +0900 oslo-config-generator: Fix ValueError
+#-# * a6e08b0 2022-03-04 17:18:12 +0000 Update master for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.messaging (master) ][0m
+#-# Changes between 12.13.0 and f1d691b9
+#-# * f1d691b9 2022-03-04 17:18:28 +0000 Update master for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.metrics (master) ][0m
+#-# Changes between 0.4.0 and 621c336
+#-# * 621c336 2022-03-04 17:18:39 +0000 Update master for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (master) ][0m
+#-# Changes between 4.5.1 and 725aeaa
+#-# * 725aeaa 2022-03-04 17:18:52 +0000 Update master for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.policy (master) ][0m
+#-# Changes between 3.11.0 and cdec2c1
+#-# * cdec2c1 2022-03-04 17:19:05 +0000 Update master for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (master) ][0m
+#-# Changes between 2.7.0 and 4ff6561
+#-# * 4ff6561 2022-03-04 17:19:17 +0000 Update master for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (master) ][0m
+#-# Changes between 4.3.0 and 85d12b3
+#-# * 85d12b3 2022-03-04 17:19:30 +0000 Update master for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (master) ][0m
+#-# Changes between 2.8.0 and e07697f
+#-# * e07697f 2022-03-04 17:19:43 +0000 Update master for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (master) ][0m
+#-# Changes between 1.5.0 and f1fbed9
+#-# * f1fbed9 2022-03-04 17:19:54 +0000 Update master for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.utils (master) ][0m
+#-# Changes between 4.12.2 and 7855d96
+#-# * 7855d96 2022-03-04 17:20:07 +0000 Update master for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (master) ][0m
+#-# Changes between 2.6.0 and 7f2dcd0
+#-# * 7f2dcd0 2022-03-04 17:20:21 +0000 Update master for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (master) ][0m
+#-# Changes between 3.10.0 and 5a949e0
+#-# * 5a949e0 2022-03-04 17:20:34 +0000 Update master for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/stevedore (master) ][0m
+#-# Changes between 3.5.0 and 15d258c
+#-# * 15d258c 2022-03-04 17:20:47 +0000 Update master for stable/yoga
