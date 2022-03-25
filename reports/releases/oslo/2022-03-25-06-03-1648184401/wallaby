@@ -1,0 +1,6 @@
+#-# [1m[91m[ Unreleased changes in openstack/oslo.policy (stable/wallaby) ][0m
+#-# Changes between 3.7.1 and de7f51e
+#-# * 21df7f5 2021-11-04 12:04:39 +0100 Dropping lower constraints testing
+#-# [1m[91m[ Unreleased changes in openstack/oslo.utils (stable/wallaby) ][0m
+#-# Changes between 4.8.1 and a38b56a
+#-# * a38b56a 2022-03-10 20:48:07 +0000 fix strutils password regex
