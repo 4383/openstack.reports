@@ -36,7 +36,7 @@ sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path
 EOF
 
 #########################################
-# master (Xena)
+# master (Zed)
 #########################################
 .tox/venv/bin/list-deliverables --team oslo -r | awk -F "/" '{print "# tools/new_release.sh wallaby $2 " bugfix"}' > ${output}/master.sh
 tox -e venv --notest
@@ -54,6 +54,15 @@ cat ${output}/master.tmp2 >> ${output}/master
 awk 'NF' ${output}/indep.tmp > ${output}/indep.tmp2
 sed -i -e 's/^/#-# /' ${output}/indep.tmp2
 cat ${output}/indep.tmp2 >> ${output}/indep
+#########################################
+# yoga
+#########################################
+.tox/venv/bin/list-deliverables --team oslo -r --series yoga | awk -F "/" '{print "# tools/new_release.sh yoga " $2 " bugfix"}' > ${output}/yoga.sh
+./tools/list_unreleased_changes.sh --ignore-all stable/yoga \
+    $(.tox/venv/bin/list-deliverables --team oslo -r --series yoga) > ${output}/yoga.tmp
+awk 'NF' ${output}/yoga.tmp > ${output}/yoga.tmp2
+sed -i -e 's/^/#-# /' ${output}/yoga.tmp2
+cat ${output}/yoga.tmp2 >> ${output}/yoga
 #########################################
 # xena
 #########################################
@@ -81,15 +90,6 @@ cat ${output}/wallaby.tmp2 >> ${output}/wallaby
 awk 'NF' ${output}/victoria.tmp > ${output}/victoria.tmp2
 sed -i -e 's/^/#-# /' ${output}/victoria.tmp2
 cat ${output}/victoria.tmp2 >> ${output}/victoria
-#########################################
-# ussuri
-#########################################
-.tox/venv/bin/list-deliverables --team oslo -r --series ussuri | awk -F "/" '{print "# tools/new_release.sh ussuri " $2 " bugfix"}' > ${output}/ussuri.sh
-./tools/list_unreleased_changes.sh --ignore-all stable/ussuri \
-    $(.tox/venv/bin/list-deliverables --team oslo -r --series ussuri) > ${output}/ussuri.tmp
-awk 'NF' ${output}/ussuri.tmp > ${output}/ussuri.tmp2
-sed -i -e 's/^/#-# /' ${output}/ussuri.tmp2
-cat ${output}/ussuri.tmp2 >> ${output}/ussuri
 #########################################
 # cleaning
 #########################################
