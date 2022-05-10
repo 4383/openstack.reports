@@ -28,10 +28,9 @@ fi
 git clone git@github.com:4383/openstack.reports
 cd_releses
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/master.sh
+sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/yoga.sh
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/xena.sh
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/wallaby.sh
-sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/victoria.sh
-sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/ussuri.sh
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/independent.sh
 EOF
 
@@ -81,15 +80,6 @@ cat ${output}/xena.tmp2 >> ${output}/xena
 awk 'NF' ${output}/wallaby.tmp > ${output}/wallaby.tmp2
 sed -i -e 's/^/#-# /' ${output}/wallaby.tmp2
 cat ${output}/wallaby.tmp2 >> ${output}/wallaby
-#########################################
-# victoria
-#########################################
-.tox/venv/bin/list-deliverables --team oslo -r --series victoria | awk -F "/" '{print "# tools/new_release.sh victoria " $2 " bugfix"}' > ${output}/victoria.sh
-./tools/list_unreleased_changes.sh --ignore-all stable/victoria \
-    $(.tox/venv/bin/list-deliverables --team oslo -r --series victoria) > ${output}/victoria.tmp
-awk 'NF' ${output}/victoria.tmp > ${output}/victoria.tmp2
-sed -i -e 's/^/#-# /' ${output}/victoria.tmp2
-cat ${output}/victoria.tmp2 >> ${output}/victoria
 #########################################
 # cleaning
 #########################################
