@@ -1,0 +1,64 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (stable/yoga) ][0m
+#-# Changes between 2.5.0 and 05b4c94
+#-# * 05b4c94 2022-03-04 17:16:49 +0000 Update TOX_CONSTRAINTS_FILE for stable/yoga
+#-# * 4ca22e4 2022-03-04 17:16:48 +0000 Update .gitreview for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.cache (stable/yoga) ][0m
+#-# Changes between 2.10.1 and 3546ea2
+#-# * 3546ea2 2022-03-04 17:17:17 +0000 Update TOX_CONSTRAINTS_FILE for stable/yoga
+#-# * 0026268 2022-03-04 17:17:15 +0000 Update .gitreview for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (stable/yoga) ][0m
+#-# Changes between 8.8.0 and e63b672
+#-# * e63b672 2022-03-04 17:17:31 +0000 Update TOX_CONSTRAINTS_FILE for stable/yoga
+#-# * 7ee9b20 2022-03-04 17:17:30 +0000 Update .gitreview for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (stable/yoga) ][0m
+#-# Changes between 4.1.0 and bba3492
+#-# * bba3492 2022-03-04 17:17:44 +0000 Update TOX_CONSTRAINTS_FILE for stable/yoga
+#-# * 6b66c24 2022-03-04 17:17:43 +0000 Update .gitreview for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (stable/yoga) ][0m
+#-# Changes between 11.2.0 and 75d17a5
+#-# * 75d17a5 2022-03-04 17:17:58 +0000 Update TOX_CONSTRAINTS_FILE for stable/yoga
+#-# * 72dbadf 2022-03-04 17:17:57 +0000 Update .gitreview for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.messaging (stable/yoga) ][0m
+#-# Changes between 12.13.0 and 02f21fd3
+#-# * 02f21fd3 2022-03-04 17:18:26 +0000 Update TOX_CONSTRAINTS_FILE for stable/yoga
+#-# * 93994eee 2022-03-04 17:18:24 +0000 Update .gitreview for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.metrics (stable/yoga) ][0m
+#-# Changes between 0.4.0 and 466040f
+#-# * 466040f 2022-03-04 17:18:38 +0000 Update TOX_CONSTRAINTS_FILE for stable/yoga
+#-# * 8e3534c 2022-03-04 17:18:36 +0000 Update .gitreview for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (stable/yoga) ][0m
+#-# Changes between 4.5.1 and 30f7a24
+#-# * 30f7a24 2022-03-04 17:18:50 +0000 Update TOX_CONSTRAINTS_FILE for stable/yoga
+#-# * 622e421 2022-03-04 17:18:48 +0000 Update .gitreview for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.policy (stable/yoga) ][0m
+#-# Changes between 3.11.0 and 6c43c1f
+#-# * 6c43c1f 2022-03-04 17:19:03 +0000 Update TOX_CONSTRAINTS_FILE for stable/yoga
+#-# * fd73947 2022-03-04 17:19:02 +0000 Update .gitreview for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (stable/yoga) ][0m
+#-# Changes between 2.7.0 and 259cb14
+#-# * 259cb14 2022-03-04 17:19:16 +0000 Update TOX_CONSTRAINTS_FILE for stable/yoga
+#-# * fbd4471 2022-03-04 17:19:14 +0000 Update .gitreview for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (stable/yoga) ][0m
+#-# Changes between 4.3.0 and abde6e6
+#-# * abde6e6 2022-03-04 17:19:28 +0000 Update TOX_CONSTRAINTS_FILE for stable/yoga
+#-# * c792e01 2022-03-04 17:19:27 +0000 Update .gitreview for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (stable/yoga) ][0m
+#-# Changes between 2.8.0 and 4c9117a
+#-# * 4c9117a 2022-03-04 17:19:41 +0000 Update TOX_CONSTRAINTS_FILE for stable/yoga
+#-# * 6e7bad1 2022-03-04 17:19:40 +0000 Update .gitreview for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (stable/yoga) ][0m
+#-# Changes between 1.5.0 and 5222165
+#-# * 5222165 2022-03-04 17:19:53 +0000 Update TOX_CONSTRAINTS_FILE for stable/yoga
+#-# * 3403f6e 2022-03-04 17:19:51 +0000 Update .gitreview for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (stable/yoga) ][0m
+#-# Changes between 2.6.0 and c2c86a6
+#-# * c2c86a6 2022-03-04 17:20:20 +0000 Update TOX_CONSTRAINTS_FILE for stable/yoga
+#-# * 3292b2f 2022-03-04 17:20:18 +0000 Update .gitreview for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (stable/yoga) ][0m
+#-# Changes between 3.10.0 and 48a0867
+#-# * 48a0867 2022-03-04 17:20:33 +0000 Update TOX_CONSTRAINTS_FILE for stable/yoga
+#-# * ac7cc70 2022-03-04 17:20:31 +0000 Update .gitreview for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/stevedore (stable/yoga) ][0m
+#-# Changes between 3.5.0 and 324af4d
+#-# * 324af4d 2022-03-04 17:20:46 +0000 Update TOX_CONSTRAINTS_FILE for stable/yoga
+#-# * d86947b 2022-03-04 17:20:44 +0000 Update .gitreview for stable/yoga
