@@ -1,0 +1,79 @@
+#-# [1m[91m[ Unreleased changes in openstack/debtcollector (master) ][0m
+#-# Changes between 2.5.0 and e44ad1d
+#-# * e44ad1d 2022-05-05 15:57:16 +0200 Drop python3.6/3.7 support in testing runtime
+#-# * c65aabf 2022-03-28 22:56:30 +0900 Add Python 3.8 and 3.9 to supported runtimes
+#-# * f043370 2022-03-15 15:05:43 +0000 Update CI to use unversioned jobs template
+#-# [1m[91m[ Unreleased changes in openstack/etcd3gw (master) ][0m
+#-# Changes between 1.0.2 and 0ed0945
+#-# * 0ed0945 2022-05-23 11:53:30 +0200 Drop python3.6/3.7 support in testing runtime
+#-# [1m[91m[ Unreleased changes in openstack/futurist (master) ][0m
+#-# Changes between 2.4.1 and 651597d
+#-# * 651597d 2022-05-05 15:51:45 +0200 Drop python3.6/3.7 support in testing runtime
+#-# [1m[91m[ Unreleased changes in openstack/microversion-parse (master) ][0m
+#-# Changes between 1.0.1 and 6d98355
+#-# * 6d98355 2022-05-09 15:10:02 +0200 Drop python3.6/3.7 support in testing runtime
+#-# * dc07afb 2021-01-21 15:42:04 +0100 Use py3 as the default runtime for tox
+#-# | * ee08574 2021-03-23 13:13:42 +0100 Move flake8 as a pre-commit local target.
+#-# |/  
+#-# * 4ea5fb3 2020-11-03 14:32:48 +0100 Use Python 3.8 as the default runtime for tox
+#-# * 89cb11c 2020-09-15 15:19:35 +0200 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/openstack-doc-tools (master) ][0m
+#-# Changes between 3.3.1 and 8b545f3
+#-# * 8b545f3 2022-05-05 16:20:44 +0200 Drop python3.6/3.7 support in testing runtime
+#-# [1m[91m[ Unreleased changes in openstack/openstackdocstheme (master) ][0m
+#-# Changes between 2.4.0 and dd04d50
+#-# * 5f71db1 2022-04-22 11:23:25 -0400 Fix broken link for Marketplace in header
+#-# * 84049ac 2022-05-05 16:19:19 +0200 Drop python3.6/3.7 support in testing runtime
+#-# [1m[91m[ Unreleased changes in openstack/os-api-ref (master) ][0m
+#-# Changes between 2.3.0 and d3c6dd2
+#-# * d3c6dd2 2022-05-05 16:20:01 +0200 Drop python3.6/3.7 support in testing runtime
+#-# * 92dddd6 2022-03-15 15:06:53 +0000 Update CI to use unversioned jobs template
+#-# * a460735 2022-03-02 22:13:57 +0530 Add Python3 yoga unit tests
+#-# [1m[91m[ Unreleased changes in openstack/oslo.concurrency (master) ][0m
+#-# Changes between 4.5.1 and f4f81cf
+#-# * f4f81cf 2022-05-05 16:10:49 +0200 Drop python3.6/3.7 support in testing runtime
+#-# [1m[91m[ Unreleased changes in openstack/oslo.i18n (master) ][0m
+#-# Changes between 5.1.0 and 599620d
+#-# * 599620d 2022-05-05 16:08:51 +0200 Drop python3.6/3.7 support in testing runtime
+#-# * 342d388 2022-04-19 19:31:26 +0800 Remove unnecessary unicode prefixes
+#-# * 7f70059 2022-02-06 02:15:36 +0900 setup.cfg: Replace dashes by underscores
+#-# * baa89fb 2022-03-15 15:07:13 +0000 Update CI to use unversioned jobs template
+#-# [1m[91m[ Unreleased changes in openstack/oslo.reports (master) ][0m
+#-# Changes between 2.4.0 and c4c8634
+#-# * c4c8634 2022-05-05 16:10:10 +0200 Drop python3.6/3.7 support in testing runtime
+#-# [1m[91m[ Unreleased changes in openstack/oslo.rootwrap (master) ][0m
+#-# Changes between 6.3.1 and 3b789cb
+#-# * 3b789cb 2022-05-05 16:06:05 +0200 Drop python3.6/3.7 support in testing runtime
+#-# * e2206a3 2022-04-19 19:23:15 +0800 Remove unnecessary unicode prefixes
+#-# * 1aa8944 2022-03-15 15:07:42 +0000 Update CI to use unversioned jobs template
+#-# [1m[91m[ Unreleased changes in openstack/oslotest (master) ][0m
+#-# Changes between 4.5.0 and 927c867
+#-# * 927c867 2022-05-05 16:22:27 +0200 Drop python3.6/3.7 support in testing runtime
+#-# * 49948df 2022-04-19 20:01:18 +0800 Remove unnecessary unicode prefixes
+#-# * 47fe8a2 2022-03-15 15:07:47 +0000 Update CI to use unversioned jobs template
+#-# [1m[91m[ Unreleased changes in openstack/pbr (master) ][0m
+#-# Changes between 5.9.0 and 5ded0ee
+#-# * 5ded0ee 2022-05-05 12:06:18 +0200 Adding python classifiers py38 & py39
+#-# [1m[91m[ Unreleased changes in openstack/pylockfile (master) ][0m
+#-# Changes between 0.12.2 and d7fe107
+#-# * d7fe107 2020-08-05 20:00:03 -0500 Cleanup the retired repo
+#-# * f3453b8 2017-09-30 11:34:10 +0800 Farewell pylockfile
+#-# * 99870bf 2016-03-17 09:52:27 -0700 Remove oslo.concurrency from replacement recommendation
+#-# * 4977769 2015-12-26 14:22:53 +0530 py32/py33 are no longer supported by Infra's CI
+#-# * 4cc347c 2015-11-26 13:02:32 +0100 Rewrite README file
+#-# [1m[91m[ Unreleased changes in openstack/sphinx-feature-classification (master) ][0m
+#-# Changes between 1.1.0 and 4c0817f
+#-# * 4c0817f 2022-05-05 16:18:26 +0200 Drop python3.6/3.7 support in testing runtime
+#-# * 6522d7a 2021-04-20 14:04:14 +0800 Use py3 as the default runtime for tox
+#-# * 8966f7f 2022-03-15 15:09:35 +0000 Update CI to use unversioned jobs template
+#-# * cce52fc 2021-02-10 15:08:15 +0000 Migrate from testr to stestr
+#-# | * f557e6a 2021-03-23 13:19:33 +0100 Move flake8 as a pre-commit local target.
+#-# |/  
+#-# * 5495c1d 2020-11-04 10:55:12 +0100 Use TOX_CONSTRAINTS_FILE
+#-# * 4dfbd61 2020-09-15 14:52:53 +0200 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/taskflow (master) ][0m
+#-# Changes between 4.7.0 and a26e2d88
+#-# * a26e2d88 2022-05-05 15:54:19 +0200 Drop python3.6/3.7 support in testing runtime
+#-# [1m[91m[ Unreleased changes in openstack/tooz (master) ][0m
+#-# Changes between 2.11.1 and b21c20f
+#-# * b21c20f 2022-05-05 16:01:30 +0200 Drop python3.6/3.7 support in testing runtime
