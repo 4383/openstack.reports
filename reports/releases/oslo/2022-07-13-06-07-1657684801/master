@@ -1,0 +1,10 @@
+#-# [1m[91m[ Unreleased changes in openstack/oslo.metrics (master) ][0m
+#-# Changes between 0.4.0 and 5c08056
+#-# * 5c08056 2022-04-19 19:44:51 +0800 Remove unnecessary unicode prefixes
+#-# * 621c336 2022-03-04 17:18:39 +0000 Update master for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.utils (master) ][0m
+#-# Changes between 6.0.0 and 6a5d497
+#-# * 6a5d497 2022-06-21 03:50:50 +0000 Imported Translations from Zanata
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (master) ][0m
+#-# Changes between 4.0.0 and 9be0de0
+#-# * 9be0de0 2022-06-21 03:57:26 +0000 Imported Translations from Zanata
