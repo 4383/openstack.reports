@@ -1,0 +1,9 @@
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (stable/wallaby) ][0m
+#-# Changes between 8.5.1 and 308574e
+#-# * 308574e 2022-07-20 15:22:32 +0000 Don't use private API to get query criteria
+#-# [1m[91m[ Unreleased changes in openstack/oslo.policy (stable/wallaby) ][0m
+#-# Changes between 3.7.1 and de7f51e
+#-# * 21df7f5 2021-11-04 12:04:39 +0100 Dropping lower constraints testing
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (stable/wallaby) ][0m
+#-# Changes between 2.5.1 and 04d55fc
+#-# * 04d55fc 2022-04-05 12:21:52 +0100 Remove lower-constraints remnants

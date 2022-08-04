@@ -1,0 +1,37 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (master) ][0m
+#-# Changes between 3.0.0 and 0ea747e
+#-# * 0ea747e 2022-05-27 13:57:48 +0200 Fix formatting of release list
+#-# [1m[91m[ Unreleased changes in openstack/oslo.cache (master) ][0m
+#-# Changes between 3.0.0 and 7fb06bc
+#-# * d229d3e 2022-05-03 10:58:53 +0800 Support SASL protocol for memcached
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (master) ][0m
+#-# Changes between 12.0.0 and 7f3647b
+#-# * 7f3647b 2022-08-03 20:33:08 +0800 Replace abc.abstractproperty with property and abc.abstractmethod
+#-# * e7642fd 2022-02-08 14:46:42 +0000 tox: Silence output
+#-# * 4c451b7 2022-02-08 14:46:42 +0000 trivial: Don't emit warnings for our own deprecations
+#-# * 2c7c0ca 2022-02-08 14:46:42 +0000 tests: Enable SAWarning warnings
+#-# * a530cbf 2022-02-08 14:46:42 +0000 Remove the 'Session.autocommit' parameter
+#-# * 4314279 2022-02-08 14:46:26 +0000 Add missing 'connect' wrapper
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (master) ][0m
+#-# Changes between 2.0.0 and beb080d
+#-# * beb080d 2022-05-27 12:11:59 +0200 Fix formatting of release list
+#-# [1m[91m[ Unreleased changes in openstack/oslo.metrics (master) ][0m
+#-# Changes between 0.4.0 and 5c08056
+#-# * 5c08056 2022-04-19 19:44:51 +0800 Remove unnecessary unicode prefixes
+#-# * 621c336 2022-03-04 17:18:39 +0000 Update master for stable/yoga
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (master) ][0m
+#-# Changes between 3.0.0 and e62d408
+#-# * e62d408 2022-07-17 01:02:03 +0900 Remove logic for Python < 3.8
+#-# [1m[91m[ Unreleased changes in openstack/oslo.utils (master) ][0m
+#-# Changes between 6.0.0 and 760deb9
+#-# * 760deb9 2022-06-27 03:54:08 +0000 Imported Translations from Zanata
+#-# * 6a5d497 2022-06-21 03:50:50 +0000 Imported Translations from Zanata
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (master) ][0m
+#-# Changes between 3.0.0 and 2b12029
+#-# * 2b12029 2022-07-26 16:40:16 +0200 Python3.11: Do not use inspect.ArgSpec
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (master) ][0m
+#-# Changes between 4.0.0 and 7b63f09
+#-# * 456db41 2022-07-06 03:56:41 +0000 Imported Translations from Zanata
+#-# | * 968f8cc 2022-07-28 10:24:35 +0000 remove unicode literal from code
+#-# | * 8af09e9 2022-05-27 12:17:16 +0200 Fix formatting of release list
+#-# * 9be0de0 2022-06-21 03:57:26 +0000 Imported Translations from Zanata
