@@ -28,6 +28,7 @@ fi
 git clone git@github.com:4383/openstack.reports
 cd_releses
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/master.sh
+sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/zed.sh
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/yoga.sh
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/xena.sh
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/wallaby.sh
@@ -35,9 +36,9 @@ sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path
 EOF
 
 #########################################
-# master (Zed)
+# master (antelope)
 #########################################
-.tox/venv/bin/list-deliverables --team oslo -r | awk -F "/" '{print "# tools/new_release.sh wallaby $2 " bugfix"}' > ${output}/master.sh
+.tox/venv/bin/list-deliverables --team oslo -r | awk -F "/" '{print "# tools/new_release.sh zed $2 " bugfix"}' > ${output}/master.sh
 tox -e venv --notest
 ./tools/list_unreleased_changes.sh --ignore-all master \
     $(.tox/venv/bin/list-deliverables --team oslo -r) > ${output}/master.tmp
@@ -53,6 +54,16 @@ cat ${output}/master.tmp2 >> ${output}/master
 awk 'NF' ${output}/indep.tmp > ${output}/indep.tmp2
 sed -i -e 's/^/#-# /' ${output}/indep.tmp2
 cat ${output}/indep.tmp2 >> ${output}/indep
+#########################################
+# master (zed)
+#########################################
+.tox/venv/bin/list-deliverables --team oslo -r | awk -F "/" '{print "# tools/new_release.sh zed $2 " bugfix"}' > ${output}/zed.sh
+tox -e venv --notest
+./tools/list_unreleased_changes.sh --ignore-all stable/zed \
+    $(.tox/venv/bin/list-deliverables --team oslo -r) > ${output}/zed.tmp
+awk 'NF' ${output}/zed.tmp > ${output}/zed.tmp2
+sed -i -e 's/^/#-# /' ${output}/zed.tmp2
+cat ${output}/zed.tmp2 >> ${output}/zed
 #########################################
 # yoga
 #########################################
