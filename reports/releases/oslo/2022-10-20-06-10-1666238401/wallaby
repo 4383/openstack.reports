@@ -1,0 +1,12 @@
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (stable/wallaby) ][0m
+#-# Changes between 8.5.1 and 03a2344
+#-# * 03a2344 2022-09-13 15:50:42 +0000 Disable a config test if ran under the root user
+#-# [1m[91m[ Unreleased changes in openstack/oslo.policy (stable/wallaby) ][0m
+#-# Changes between 3.7.1 and de7f51e
+#-# * 21df7f5 2021-11-04 12:04:39 +0100 Dropping lower constraints testing
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (stable/wallaby) ][0m
+#-# Changes between 2.5.1 and 04d55fc
+#-# * 04d55fc 2022-04-05 12:21:52 +0100 Remove lower-constraints remnants
+#-# [1m[91m[ Unreleased changes in openstack/stevedore (stable/wallaby) ][0m
+#-# Changes between 3.3.2 and 7b48fff
+#-# * 7b48fff 2022-10-19 11:18:40 +0100 Order old importlib-metadata results by group
