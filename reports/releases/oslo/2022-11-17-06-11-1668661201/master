@@ -1,0 +1,74 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (master) ][0m
+#-# Changes between 3.0.1 and a4f7631
+#-# * a4f7631 2022-09-09 09:15:29 +0000 Add Python3 antelope unit tests
+#-# * c494635 2022-09-09 09:15:28 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/castellan (master) ][0m
+#-# Changes between 4.0.0 and 88fe06e
+#-# * 88fe06e 2022-09-09 09:15:42 +0000 Add Python3 antelope unit tests
+#-# * c6ad6b9 2022-09-09 09:15:41 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (master) ][0m
+#-# Changes between 9.0.0 and 84478d8
+#-# * 84478d8 2022-09-29 09:59:31 +0200 Make tests backward compat with cliff' older versions
+#-# * c7cb79b 2022-09-09 09:16:10 +0000 Add Python3 antelope unit tests
+#-# * 19e1be5 2022-09-09 09:16:09 +0000 Update master for stable/zed
+#-# * 7b838f5 2022-08-03 16:47:25 +0200 Disable a config test if ran under the root user
+#-# * 78098e6 2022-08-03 16:47:25 +0200 fix CLI mismatch in unit tests
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (master) ][0m
+#-# Changes between 5.0.0 and 926dd4d
+#-# * 926dd4d 2022-09-09 09:16:23 +0000 Add Python3 antelope unit tests
+#-# * 128ee6c 2022-09-09 09:16:21 +0000 Update master for stable/zed
+#-# * f7bab23 2022-08-13 09:17:33 +0800 Cleanup py27 support
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (master) ][0m
+#-# Changes between 2.0.1 and ee1d1aa
+#-# * ee1d1aa 2022-09-09 09:16:49 +0000 Add Python3 antelope unit tests
+#-# * 36731d8 2022-09-09 09:16:48 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.messaging (master) ][0m
+#-# Changes between 14.0.0 and b3c666ff
+#-# * 1fd46164 2021-12-15 13:56:12 +0100 Force creating non durable control exchange when a precondition failed
+#-# * e5e70a5d 2022-09-09 09:17:04 +0000 Update master for stable/zed
+#-# * cde68026 2022-05-23 14:39:56 +0000 update hacking pin to support flake8 3.8.3
+#-# [1m[91m[ Unreleased changes in openstack/oslo.metrics (master) ][0m
+#-# Changes between 0.5.0 and 3152795
+#-# * 3152795 2022-09-09 09:17:18 +0000 Add Python3 antelope unit tests
+#-# * 63b0e21 2022-09-09 09:17:16 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (master) ][0m
+#-# Changes between 5.0.0 and c9bd063
+#-# * c9bd063 2022-09-09 09:17:31 +0000 Add Python3 antelope unit tests
+#-# * 1901b62 2022-09-09 09:17:29 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.policy (master) ][0m
+#-# Changes between 4.0.0 and 25fe203
+#-# * 25fe203 2022-10-17 03:48:17 +0000 Imported Translations from Zanata
+#-# * 3977a9a 2022-09-09 09:17:44 +0000 Add Python3 antelope unit tests
+#-# * cd966bc 2022-09-09 09:17:43 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (master) ][0m
+#-# Changes between 3.0.1 and 1020c6f
+#-# * 1020c6f 2022-09-09 09:17:57 +0000 Add Python3 antelope unit tests
+#-# * 6537764 2022-09-09 09:17:56 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (master) ][0m
+#-# Changes between 5.0.0 and 03cce88
+#-# * 03cce88 2022-09-09 09:18:11 +0000 Add Python3 antelope unit tests
+#-# * 4584721 2022-09-09 09:18:09 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (master) ][0m
+#-# Changes between 3.0.0 and 845fc45
+#-# * 845fc45 2022-09-19 01:12:30 +0000 Fix misuse of assertTrue
+#-# * 2c32ffd 2022-09-10 04:32:42 +0000 Imported Translations from Zanata
+#-# * 6f9ed9a 2022-09-09 09:18:24 +0000 Add Python3 antelope unit tests
+#-# * 92fbee9 2022-09-09 09:18:23 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (master) ][0m
+#-# Changes between 2.0.0 and cd42c30
+#-# * cd42c30 2022-09-09 09:18:37 +0000 Add Python3 antelope unit tests
+#-# * a2dc948 2022-09-09 09:18:35 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.utils (master) ][0m
+#-# Changes between 6.0.1 and d49d594
+#-# * d49d594 2022-11-11 16:18:15 -0500 [imageutils] Fix __str__ for QemuImgInfo
+#-# * cb8076b 2022-09-10 03:10:00 +0000 Imported Translations from Zanata
+#-# * 7deb313 2022-09-09 09:18:50 +0000 Add Python3 antelope unit tests
+#-# * da17141 2022-09-09 09:18:49 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (master) ][0m
+#-# Changes between 3.0.1 and b4ea834
+#-# * b4ea834 2022-09-09 09:19:04 +0000 Add Python3 antelope unit tests
+#-# * dbed7ef 2022-09-09 09:19:03 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (master) ][0m
+#-# Changes between 4.0.1 and c9de25a
+#-# * c9de25a 2022-09-09 09:19:18 +0000 Add Python3 antelope unit tests
+#-# * 3869248 2022-09-09 09:19:16 +0000 Update master for stable/zed
