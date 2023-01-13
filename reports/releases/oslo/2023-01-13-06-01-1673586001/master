@@ -1,0 +1,86 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (master) ][0m
+#-# Changes between 3.0.1 and a4f7631
+#-# * a4f7631 2022-09-09 09:15:29 +0000 Add Python3 antelope unit tests
+#-# * c494635 2022-09-09 09:15:28 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/castellan (master) ][0m
+#-# Changes between 4.0.0 and fb6b880
+#-# * fb6b880 2023-01-12 14:01:22 +0100 Fix tox4 error
+#-# * 316db6c 2022-09-21 16:27:54 +0200 Make tests more consistent
+#-# * 88fe06e 2022-09-09 09:15:42 +0000 Add Python3 antelope unit tests
+#-# * c6ad6b9 2022-09-09 09:15:41 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.concurrency (master) ][0m
+#-# Changes between 5.0.1 and d1f07ad
+#-# * c7d214b 2022-08-13 09:48:11 +0800 Cleanup py27 support
+#-# * 22f69e7 2022-11-05 03:27:01 +0000 Imported Translations from Zanata
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (master) ][0m
+#-# Changes between 5.0.0 and 926dd4d
+#-# * 926dd4d 2022-09-09 09:16:23 +0000 Add Python3 antelope unit tests
+#-# * 128ee6c 2022-09-09 09:16:21 +0000 Update master for stable/zed
+#-# * f7bab23 2022-08-13 09:17:33 +0800 Cleanup py27 support
+#-# [1m[91m[ Unreleased changes in openstack/oslo.i18n (master) ][0m
+#-# Changes between 5.1.0 and 03605c2
+#-# * 6646d61 2022-05-27 11:59:08 +0200 Fix formatting of release list
+#-# | * ec3e85c 2022-06-21 03:44:53 +0000 Imported Translations from Zanata
+#-# |/  
+#-# * 599620d 2022-05-05 16:08:51 +0200 Drop python3.6/3.7 support in testing runtime
+#-# * 342d388 2022-04-19 19:31:26 +0800 Remove unnecessary unicode prefixes
+#-# * 7f70059 2022-02-06 02:15:36 +0900 setup.cfg: Replace dashes by underscores
+#-# * baa89fb 2022-03-15 15:07:13 +0000 Update CI to use unversioned jobs template
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (master) ][0m
+#-# Changes between 2.0.1 and ee1d1aa
+#-# * ee1d1aa 2022-09-09 09:16:49 +0000 Add Python3 antelope unit tests
+#-# * 36731d8 2022-09-09 09:16:48 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.metrics (master) ][0m
+#-# Changes between 0.5.0 and 3152795
+#-# * 3152795 2022-09-09 09:17:18 +0000 Add Python3 antelope unit tests
+#-# * 63b0e21 2022-09-09 09:17:16 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (master) ][0m
+#-# Changes between 5.0.0 and c9bd063
+#-# * c9bd063 2022-09-09 09:17:31 +0000 Add Python3 antelope unit tests
+#-# * 1901b62 2022-09-09 09:17:29 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.policy (master) ][0m
+#-# Changes between 4.0.0 and 25fe203
+#-# * 25fe203 2022-10-17 03:48:17 +0000 Imported Translations from Zanata
+#-# * 3977a9a 2022-09-09 09:17:44 +0000 Add Python3 antelope unit tests
+#-# * cd966bc 2022-09-09 09:17:43 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (master) ][0m
+#-# Changes between 3.0.1 and 1020c6f
+#-# * 1020c6f 2022-09-09 09:17:57 +0000 Add Python3 antelope unit tests
+#-# * 6537764 2022-09-09 09:17:56 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.reports (master) ][0m
+#-# Changes between 2.4.0 and a17d762
+#-# * a17d762 2022-08-18 06:43:37 +0000 remove unicode prefix from code
+#-# * e9caa7a 2022-07-28 10:22:54 +0000 remove unicode literal from code
+#-# * 36ae0b2 2022-05-27 12:13:27 +0200 Fix formatting of release list
+#-# | * 0360d7f 2022-06-21 03:49:04 +0000 Imported Translations from Zanata
+#-# |/  
+#-# * c4c8634 2022-05-05 16:10:10 +0200 Drop python3.6/3.7 support in testing runtime
+#-# [1m[91m[ Unreleased changes in openstack/oslo.rootwrap (master) ][0m
+#-# Changes between 6.3.1 and 349603a
+#-# * 349603a 2022-05-27 12:16:11 +0200 Fix formatting of release list
+#-# * 3b789cb 2022-05-05 16:06:05 +0200 Drop python3.6/3.7 support in testing runtime
+#-# * e2206a3 2022-04-19 19:23:15 +0800 Remove unnecessary unicode prefixes
+#-# * 1aa8944 2022-03-15 15:07:42 +0000 Update CI to use unversioned jobs template
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (master) ][0m
+#-# Changes between 5.0.0 and 03cce88
+#-# * 03cce88 2022-09-09 09:18:11 +0000 Add Python3 antelope unit tests
+#-# * 4584721 2022-09-09 09:18:09 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (master) ][0m
+#-# Changes between 3.0.0 and 845fc45
+#-# * 845fc45 2022-09-19 01:12:30 +0000 Fix misuse of assertTrue
+#-# * 2c32ffd 2022-09-10 04:32:42 +0000 Imported Translations from Zanata
+#-# * 6f9ed9a 2022-09-09 09:18:24 +0000 Add Python3 antelope unit tests
+#-# * 92fbee9 2022-09-09 09:18:23 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (master) ][0m
+#-# Changes between 2.0.0 and cd42c30
+#-# * cd42c30 2022-09-09 09:18:37 +0000 Add Python3 antelope unit tests
+#-# * a2dc948 2022-09-09 09:18:35 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (master) ][0m
+#-# Changes between 3.0.1 and b4ea834
+#-# * b4ea834 2022-09-09 09:19:04 +0000 Add Python3 antelope unit tests
+#-# * dbed7ef 2022-09-09 09:19:03 +0000 Update master for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (master) ][0m
+#-# Changes between 4.0.1 and e72643c
+#-# * b0c3baf 2022-08-06 21:18:04 +0800 remove unicode literal from code
+#-# * c9de25a 2022-09-09 09:19:18 +0000 Add Python3 antelope unit tests
+#-# * 3869248 2022-09-09 09:19:16 +0000 Update master for stable/zed
