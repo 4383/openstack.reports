@@ -1,0 +1,95 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (stable/zed) ][0m
+#-# Changes between 3.0.1 and 093cd0e
+#-# * 093cd0e 2022-09-09 09:15:26 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * fe3bd52 2022-09-09 09:15:24 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/castellan (stable/zed) ][0m
+#-# Changes between 4.0.0 and 14f9853
+#-# * 14f9853 2022-09-09 09:15:39 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * 7c2ee2d 2022-09-09 09:15:38 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.concurrency (stable/zed) ][0m
+#-# Changes between 5.0.1 and d1f07ad
+#-# * c7d214b 2022-08-13 09:48:11 +0800 Cleanup py27 support
+#-# * 22f69e7 2022-11-05 03:27:01 +0000 Imported Translations from Zanata
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (stable/zed) ][0m
+#-# Changes between 9.0.0 and c9aeb2b
+#-# * c9aeb2b 2022-09-09 15:43:49 +0100 fix CLI mismatch in unit tests
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (stable/zed) ][0m
+#-# Changes between 5.0.0 and 65212d2
+#-# * 65212d2 2022-09-09 09:16:20 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * 300bd50 2022-09-09 09:16:18 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (stable/zed) ][0m
+#-# Changes between 12.1.0 and 717c824
+#-# * 717c824 2022-09-09 17:42:41 +0100 types: Set 'cache_ok' (redux)
+#-# * 95c2fc6 2022-09-09 09:16:34 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * bc47794 2022-09-09 09:16:32 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.i18n (stable/zed) ][0m
+#-# Changes between 5.1.0 and 03605c2
+#-# * 6646d61 2022-05-27 11:59:08 +0200 Fix formatting of release list
+#-# | * ec3e85c 2022-06-21 03:44:53 +0000 Imported Translations from Zanata
+#-# |/  
+#-# * 599620d 2022-05-05 16:08:51 +0200 Drop python3.6/3.7 support in testing runtime
+#-# * 342d388 2022-04-19 19:31:26 +0800 Remove unnecessary unicode prefixes
+#-# * 7f70059 2022-02-06 02:15:36 +0900 setup.cfg: Replace dashes by underscores
+#-# * baa89fb 2022-03-15 15:07:13 +0000 Update CI to use unversioned jobs template
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (stable/zed) ][0m
+#-# Changes between 2.0.1 and 4eea87f
+#-# * 4eea87f 2022-09-09 09:16:46 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * 28c0dc6 2022-09-09 09:16:45 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.messaging (stable/zed) ][0m
+#-# Changes between 14.0.0 and d814af05
+#-# * d814af05 2022-09-09 09:17:02 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * bb789e9a 2022-09-09 09:17:00 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.metrics (stable/zed) ][0m
+#-# Changes between 0.5.0 and 9e8e549
+#-# * 9e8e549 2022-09-09 09:17:15 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * 14d1a40 2022-09-09 09:17:13 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (stable/zed) ][0m
+#-# Changes between 5.0.0 and d3266ae
+#-# * d3266ae 2022-09-09 09:17:28 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * 7ca7c40 2022-09-09 09:17:26 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.policy (stable/zed) ][0m
+#-# Changes between 4.0.0 and 5175435
+#-# * 5175435 2022-09-09 09:17:41 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * 7875e11 2022-09-09 09:17:39 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (stable/zed) ][0m
+#-# Changes between 3.0.1 and a537a17
+#-# * a537a17 2022-09-09 09:17:54 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * c4934e7 2022-09-09 09:17:53 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.reports (stable/zed) ][0m
+#-# Changes between 2.4.0 and a17d762
+#-# * a17d762 2022-08-18 06:43:37 +0000 remove unicode prefix from code
+#-# * e9caa7a 2022-07-28 10:22:54 +0000 remove unicode literal from code
+#-# * 36ae0b2 2022-05-27 12:13:27 +0200 Fix formatting of release list
+#-# | * 0360d7f 2022-06-21 03:49:04 +0000 Imported Translations from Zanata
+#-# |/  
+#-# * c4c8634 2022-05-05 16:10:10 +0200 Drop python3.6/3.7 support in testing runtime
+#-# [1m[91m[ Unreleased changes in openstack/oslo.rootwrap (stable/zed) ][0m
+#-# Changes between 6.3.1 and 349603a
+#-# * 349603a 2022-05-27 12:16:11 +0200 Fix formatting of release list
+#-# * 3b789cb 2022-05-05 16:06:05 +0200 Drop python3.6/3.7 support in testing runtime
+#-# * e2206a3 2022-04-19 19:23:15 +0800 Remove unnecessary unicode prefixes
+#-# * 1aa8944 2022-03-15 15:07:42 +0000 Update CI to use unversioned jobs template
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (stable/zed) ][0m
+#-# Changes between 5.0.0 and d0d643b
+#-# * d0d643b 2022-09-09 09:18:07 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * de3bf30 2022-09-09 09:18:06 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (stable/zed) ][0m
+#-# Changes between 3.0.0 and a5913df
+#-# * a5913df 2022-09-09 09:18:21 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * f9629e1 2022-09-09 09:18:20 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (stable/zed) ][0m
+#-# Changes between 2.0.0 and 52526d7
+#-# * 52526d7 2022-09-09 09:18:34 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * 6bb018e 2022-09-09 09:18:32 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.utils (stable/zed) ][0m
+#-# Changes between 6.0.1 and f04ba14
+#-# * f04ba14 2022-09-09 09:18:47 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * 1f86025 2022-09-09 09:18:45 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (stable/zed) ][0m
+#-# Changes between 3.0.1 and 73d4a1b
+#-# * 73d4a1b 2022-09-09 09:19:01 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * 12a8a23 2022-09-09 09:18:59 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (stable/zed) ][0m
+#-# Changes between 4.0.1 and e563fa2
+#-# * e563fa2 2022-09-09 09:19:15 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * 342f2d1 2022-09-09 09:19:13 +0000 Update .gitreview for stable/zed
