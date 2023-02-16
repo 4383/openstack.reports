@@ -1,0 +1,67 @@
+#-# [1m[91m[ Unreleased changes in openstack/debtcollector (master) ][0m
+#-# Changes between 2.5.0 and e44ad1d
+#-# * e44ad1d 2022-05-05 15:57:16 +0200 Drop python3.6/3.7 support in testing runtime
+#-# * c65aabf 2022-03-28 22:56:30 +0900 Add Python 3.8 and 3.9 to supported runtimes
+#-# * f043370 2022-03-15 15:05:43 +0000 Update CI to use unversioned jobs template
+#-# [1m[91m[ Unreleased changes in openstack/etcd3gw (master) ][0m
+#-# Changes between 2.1.0 and 1a2ddf8
+#-# * 1a2ddf8 2023-02-10 14:07:30 +0100 Fix the docs job
+#-# [1m[91m[ Unreleased changes in openstack/futurist (master) ][0m
+#-# Changes between 2.4.1 and 9878187
+#-# * 6c37422 2022-04-05 13:36:40 -0700 Add py39 package metadata
+#-# * 651597d 2022-05-05 15:51:45 +0200 Drop python3.6/3.7 support in testing runtime
+#-# [1m[91m[ Unreleased changes in openstack/microversion-parse (master) ][0m
+#-# Changes between 1.0.1 and d8e1232
+#-# * d8e1232 2022-07-28 08:58:56 +0800 remove unicode from code
+#-# * 6d98355 2022-05-09 15:10:02 +0200 Drop python3.6/3.7 support in testing runtime
+#-# * dc07afb 2021-01-21 15:42:04 +0100 Use py3 as the default runtime for tox
+#-# | * ee08574 2021-03-23 13:13:42 +0100 Move flake8 as a pre-commit local target.
+#-# |/  
+#-# * 4ea5fb3 2020-11-03 14:32:48 +0100 Use Python 3.8 as the default runtime for tox
+#-# * 89cb11c 2020-09-15 15:19:35 +0200 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/openstack-doc-tools (master) ][0m
+#-# Changes between 3.3.1 and 47788ab
+#-# * 47788ab 2022-07-30 15:30:49 +0800 remove unicode literal from code
+#-# * 8b545f3 2022-05-05 16:20:44 +0200 Drop python3.6/3.7 support in testing runtime
+#-# [1m[91m[ Unreleased changes in openstack/os-api-ref (master) ][0m
+#-# Changes between 2.3.0 and d3c6dd2
+#-# * d3c6dd2 2022-05-05 16:20:01 +0200 Drop python3.6/3.7 support in testing runtime
+#-# * 92dddd6 2022-03-15 15:06:53 +0000 Update CI to use unversioned jobs template
+#-# * a460735 2022-03-02 22:13:57 +0530 Add Python3 yoga unit tests
+#-# [1m[91m[ Unreleased changes in openstack/oslotest (master) ][0m
+#-# Changes between 4.5.0 and 0a5932f
+#-# * 0a5932f 2022-08-13 08:42:20 +0800 Cleanup py27 support
+#-# * 21b5f4f 2022-05-27 12:40:19 +0200 Fix formatting of release list
+#-# * 927c867 2022-05-05 16:22:27 +0200 Drop python3.6/3.7 support in testing runtime
+#-# * 49948df 2022-04-19 20:01:18 +0800 Remove unnecessary unicode prefixes
+#-# * 47fe8a2 2022-03-15 15:07:47 +0000 Update CI to use unversioned jobs template
+#-# [1m[91m[ Unreleased changes in openstack/osprofiler (master) ][0m
+#-# Changes between 3.4.3 and 7d2c871
+#-# * 7d2c871 2023-02-09 11:47:54 +0100 setup.cfg: Replace dashes with underscores
+#-# * fa83092 2023-02-06 14:13:57 +0100 tox: Add functional-py38, functional-py39 envs
+#-# | * 0b1bfad 2022-08-08 15:27:45 +0800 remove unicode prefix from code
+#-# |/  
+#-# * e29b187 2022-05-27 14:04:22 +0200 Fix formattiing of release list
+#-# [1m[91m[ Unreleased changes in openstack/pylockfile (master) ][0m
+#-# Changes between 0.12.2 and d7fe107
+#-# * d7fe107 2020-08-05 20:00:03 -0500 Cleanup the retired repo
+#-# * f3453b8 2017-09-30 11:34:10 +0800 Farewell pylockfile
+#-# * 99870bf 2016-03-17 09:52:27 -0700 Remove oslo.concurrency from replacement recommendation
+#-# * 4977769 2015-12-26 14:22:53 +0530 py32/py33 are no longer supported by Infra's CI
+#-# * 4cc347c 2015-11-26 13:02:32 +0100 Rewrite README file
+#-# [1m[91m[ Unreleased changes in openstack/sphinx-feature-classification (master) ][0m
+#-# Changes between 1.1.0 and 4c0817f
+#-# * 4c0817f 2022-05-05 16:18:26 +0200 Drop python3.6/3.7 support in testing runtime
+#-# * 6522d7a 2021-04-20 14:04:14 +0800 Use py3 as the default runtime for tox
+#-# * 8966f7f 2022-03-15 15:09:35 +0000 Update CI to use unversioned jobs template
+#-# * cce52fc 2021-02-10 15:08:15 +0000 Migrate from testr to stestr
+#-# | * f557e6a 2021-03-23 13:19:33 +0100 Move flake8 as a pre-commit local target.
+#-# |/  
+#-# * 5495c1d 2020-11-04 10:55:12 +0100 Use TOX_CONSTRAINTS_FILE
+#-# * 4dfbd61 2020-09-15 14:52:53 +0200 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/tooz (master) ][0m
+#-# Changes between 3.2.0 and 7698c58
+#-# * 7698c58 2023-01-17 15:32:49 +0000 tox: set allowlist_externals
+#-# * f11666b 2022-12-08 19:54:11 +0000 Allow to pass ssl-related args for zookeeper
+#-# * 7d50893 2022-11-30 18:16:48 +0100 Loosen protobuf version that's used for docs/renos
+#-# * 0c145b4 2022-10-28 17:28:21 +0200 Add grouping support in etcd to compatibility matrix.
