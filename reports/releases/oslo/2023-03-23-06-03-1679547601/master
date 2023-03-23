@@ -1,0 +1,94 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (master) ][0m
+#-# Changes between 3.1.0 and 9255778
+#-# * 9255778 2023-02-24 15:14:47 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/castellan (master) ][0m
+#-# Changes between 4.1.0 and cecdde7
+#-# * cecdde7 2023-02-24 15:15:14 +0000 Update master for stable/2023.1
+#-# * 365618a 2023-02-20 13:20:55 +0100 Add secret consumers documentation and release note
+#-# | * 7de4f89 2023-02-17 13:26:27 +0100 Add force parameter functional tests
+#-# |/  
+#-# * e65ac5e 2023-02-17 11:11:26 +0100 Add secret consumers functional tests
+#-# * 96027e9 2023-02-17 10:00:07 +0000 Implement force parameter
+#-# | * 370986e 2023-01-16 20:47:07 +0000 Add support for specifying Vault KV path
+#-# * bc6d87b 2023-02-16 13:45:16 +0100 Add secret consumers
+#-# [1m[91m[ Unreleased changes in openstack/oslo.cache (master) ][0m
+#-# Changes between 3.3.1 and e8da407
+#-# * edd10f7 2023-02-23 14:55:12 +0000 Allow bmemcached to be optional for memcache_pool
+#-# | * 0e9cd99 2023-02-24 15:15:42 +0000 Update master for stable/2023.1
+#-# |/  
+#-# * 9c2d978 2023-02-18 03:36:46 +0000 Imported Translations from Zanata
+#-# [1m[91m[ Unreleased changes in openstack/oslo.concurrency (master) ][0m
+#-# Changes between 5.1.1 and 8c582a4
+#-# * 8c582a4 2023-02-24 15:16:10 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (master) ][0m
+#-# Changes between 9.1.1 and 1654dcc
+#-# * 1654dcc 2023-02-24 15:16:54 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (master) ][0m
+#-# Changes between 5.1.1 and e17e485
+#-# * e17e485 2023-02-24 15:17:21 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (master) ][0m
+#-# Changes between 12.3.1 and 94d6e24
+#-# * 94d6e24 2023-03-21 13:59:26 -0400 Remove sqlalchemy-migrate
+#-# * 877bcfc 2023-03-02 16:52:32 +0000 Rollback the connection after server ping method
+#-# * 5cd7962 2023-02-24 15:17:50 +0000 Update master for stable/2023.1
+#-# * 7d619ae 2023-01-27 02:55:45 +0000 Imported Translations from Zanata
+#-# [1m[91m[ Unreleased changes in openstack/oslo.i18n (master) ][0m
+#-# Changes between 6.0.0 and 567dd05
+#-# * 567dd05 2023-02-24 15:18:17 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (master) ][0m
+#-# Changes between 2.1.0 and de69de1
+#-# * de69de1 2023-02-24 15:18:42 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.log (master) ][0m
+#-# Changes between 5.1.0 and ecfe66f
+#-# * ecfe66f 2023-02-24 15:19:10 +0000 Update master for stable/2023.1
+#-# * 2b6f580 2022-12-31 11:12:48 +0800 Cleanup py27 support
+#-# * 15c71dd 2023-01-28 03:51:07 +0000 Imported Translations from Zanata
+#-# [1m[91m[ Unreleased changes in openstack/oslo.messaging (master) ][0m
+#-# Changes between 14.2.0 and 9b1e2dc4
+#-# * 9b1e2dc4 2023-02-24 15:20:06 +0000 Update master for stable/2023.1
+#-# * 115cfb5b 2023-02-14 15:20:00 +0000 Fix typo in quorum-related variables for RabbitMQ
+#-# [1m[91m[ Unreleased changes in openstack/oslo.metrics (master) ][0m
+#-# Changes between 0.6.0 and d399b28
+#-# * d399b28 2023-02-24 15:20:30 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (master) ][0m
+#-# Changes between 5.1.1 and 05be604
+#-# * 05be604 2023-02-24 15:20:58 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.policy (master) ][0m
+#-# Changes between 4.1.1 and e7b9dd1
+#-# * e7b9dd1 2023-02-24 15:21:26 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (master) ][0m
+#-# Changes between 3.1.0 and e2a4f5c
+#-# * e2a4f5c 2023-02-24 15:21:53 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.reports (master) ][0m
+#-# Changes between 3.0.0 and 15bfc2c
+#-# * 15bfc2c 2023-02-24 15:22:18 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.rootwrap (master) ][0m
+#-# Changes between 7.0.1 and 3702177
+#-# * 3702177 2023-02-24 15:22:45 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (master) ][0m
+#-# Changes between 5.1.1 and 864aa2f
+#-# * 864aa2f 2023-02-24 15:23:11 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (master) ][0m
+#-# Changes between 3.1.1 and 4341377
+#-# * 4341377 2023-02-24 15:23:38 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (master) ][0m
+#-# Changes between 2.1.1 and a8f3880
+#-# * a8f3880 2023-02-24 15:24:03 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.utils (master) ][0m
+#-# Changes between 6.1.0 and 067a0db
+#-# * 067a0db 2023-02-24 15:24:32 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (master) ][0m
+#-# Changes between 3.1.0 and 638a788
+#-# * 638a788 2023-02-24 15:25:00 +0000 Update master for stable/2023.1
+#-# * fb5a423 2022-10-01 03:58:31 +0000 Imported Translations from Zanata
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (master) ][0m
+#-# Changes between 4.1.1 and 9451f96
+#-# * 9451f96 2023-02-24 15:25:28 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/stevedore (master) ][0m
+#-# Changes between 5.0.0 and 43a79dd
+#-# * 43a79dd 2023-02-24 15:26:05 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/taskflow (master) ][0m
+#-# Changes between 5.1.0 and dd73b125
+#-# * dd73b125 2023-02-24 15:26:38 +0000 Update master for stable/2023.1
+#-# * 56413aa3 2022-08-03 20:37:13 +0800 Replace abc.abstractproperty with property and abc.abstractmethod
+#-# * 4ff2d001 2022-09-29 08:37:05 +0000 Change StrictRedis usage to Redis
