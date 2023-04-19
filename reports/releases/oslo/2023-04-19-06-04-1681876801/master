@@ -1,0 +1,121 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (master) ][0m
+#-# Changes between 3.1.0 and 9255778
+#-# * 9255778 2023-02-24 15:14:47 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/castellan (master) ][0m
+#-# Changes between 4.1.0 and 46cb956
+#-# * 46cb956 2023-04-10 14:47:00 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-# * cecdde7 2023-02-24 15:15:14 +0000 Update master for stable/2023.1
+#-# * 365618a 2023-02-20 13:20:55 +0100 Add secret consumers documentation and release note
+#-# | * 7de4f89 2023-02-17 13:26:27 +0100 Add force parameter functional tests
+#-# |/  
+#-# * e65ac5e 2023-02-17 11:11:26 +0100 Add secret consumers functional tests
+#-# * 96027e9 2023-02-17 10:00:07 +0000 Implement force parameter
+#-# | * 370986e 2023-01-16 20:47:07 +0000 Add support for specifying Vault KV path
+#-# * bc6d87b 2023-02-16 13:45:16 +0100 Add secret consumers
+#-# [1m[91m[ Unreleased changes in openstack/oslo.cache (master) ][0m
+#-# Changes between 3.3.1 and e8da407
+#-# * edd10f7 2023-02-23 14:55:12 +0000 Allow bmemcached to be optional for memcache_pool
+#-# | * 0e9cd99 2023-02-24 15:15:42 +0000 Update master for stable/2023.1
+#-# |/  
+#-# * 9c2d978 2023-02-18 03:36:46 +0000 Imported Translations from Zanata
+#-# [1m[91m[ Unreleased changes in openstack/oslo.concurrency (master) ][0m
+#-# Changes between 5.1.1 and d41e8f3
+#-# * d41e8f3 2023-04-10 01:53:34 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 8c582a4 2023-02-24 15:16:10 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (master) ][0m
+#-# Changes between 9.1.1 and 32d5549
+#-# * 32d5549 2023-04-10 13:03:19 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 1654dcc 2023-02-24 15:16:54 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (master) ][0m
+#-# Changes between 5.1.1 and 2a3c812
+#-# * 2a3c812 2023-04-10 12:58:33 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * e17e485 2023-02-24 15:17:21 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.i18n (master) ][0m
+#-# Changes between 6.0.0 and 007bebe
+#-# * 14ac5fa 2023-04-10 01:53:20 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-# | * a90c449 2023-02-17 11:38:42 +0000 tox: Remove 'ignore_base_python_conflict'
+#-# * 567dd05 2023-02-24 15:18:17 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (master) ][0m
+#-# Changes between 2.1.0 and 886e717
+#-# * 886e717 2023-04-10 13:06:20 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * de69de1 2023-02-24 15:18:42 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.log (master) ][0m
+#-# Changes between 5.1.0 and 6abf69e
+#-# * 6abf69e 2023-04-10 01:50:19 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-# * ecfe66f 2023-02-24 15:19:10 +0000 Update master for stable/2023.1
+#-# * 2b6f580 2022-12-31 11:12:48 +0800 Cleanup py27 support
+#-# * 15c71dd 2023-01-28 03:51:07 +0000 Imported Translations from Zanata
+#-# [1m[91m[ Unreleased changes in openstack/oslo.messaging (master) ][0m
+#-# Changes between 14.2.0 and fd2381c7
+#-# * fd2381c7 2023-03-03 11:24:27 +0100 Disable greenthreads for RabbitDriver "listen" connections
+#-# * 9b1e2dc4 2023-02-24 15:20:06 +0000 Update master for stable/2023.1
+#-# * 115cfb5b 2023-02-14 15:20:00 +0000 Fix typo in quorum-related variables for RabbitMQ
+#-# [1m[91m[ Unreleased changes in openstack/oslo.metrics (master) ][0m
+#-# Changes between 0.6.0 and e01117f
+#-# * e01117f 2023-04-10 13:09:38 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * d399b28 2023-02-24 15:20:30 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (master) ][0m
+#-# Changes between 5.1.1 and 089fa36
+#-# * 089fa36 2023-04-10 12:59:22 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 05be604 2023-02-24 15:20:58 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.policy (master) ][0m
+#-# Changes between 4.1.1 and 67a3d3b
+#-# * 67a3d3b 2023-04-10 16:27:16 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-# * d80573c 2023-03-03 08:08:01 +0000 Fix deprecated rule logic if the rule was deleted in policy directory.
+#-# * e7b9dd1 2023-02-24 15:21:26 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (master) ][0m
+#-# Changes between 3.1.0 and 71385bb
+#-# * 71385bb 2023-04-10 13:05:30 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * e2a4f5c 2023-02-24 15:21:53 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.reports (master) ][0m
+#-# Changes between 3.0.0 and a1b8dc2
+#-# * a1b8dc2 2023-04-10 01:55:50 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 15bfc2c 2023-02-24 15:22:18 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.rootwrap (master) ][0m
+#-# Changes between 7.0.1 and 90ea8f3
+#-# * 90ea8f3 2023-04-10 01:56:11 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 3702177 2023-02-24 15:22:45 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (master) ][0m
+#-# Changes between 5.1.1 and adfd830
+#-# * a326ec5 2023-03-23 17:17:59 +0100 Implement zoneinfo support to drop dependency to pytz
+#-# | * 9ffd4e5 2023-04-10 01:55:38 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-# * e3307fd 2023-03-23 17:17:59 +0100 Use the new openstack-python3-jobs template
+#-# * 864aa2f 2023-02-24 15:23:11 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (master) ][0m
+#-# Changes between 3.1.1 and a932419
+#-# * a932419 2023-04-10 13:02:18 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 4341377 2023-02-24 15:23:38 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (master) ][0m
+#-# Changes between 2.1.1 and d84fbc1
+#-# * d84fbc1 2023-04-10 13:07:38 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * a8f3880 2023-02-24 15:24:03 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.utils (master) ][0m
+#-# Changes between 6.1.0 and 328b624
+#-# * 7d9fda6 2023-03-23 17:13:44 +0100 Implement zoneinfo support to drop dependency to pytz
+#-# | * 8c63440 2023-04-10 01:51:40 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 26a920e 2023-03-23 17:13:44 +0100 Use the new openstack-python3-jobs template
+#-# * 067a0db 2023-02-24 15:24:32 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (master) ][0m
+#-# Changes between 3.1.0 and 20d24cb
+#-# * 20d24cb 2023-04-10 13:01:31 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 638a788 2023-02-24 15:25:00 +0000 Update master for stable/2023.1
+#-# * fb5a423 2022-10-01 03:58:31 +0000 Imported Translations from Zanata
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (master) ][0m
+#-# Changes between 4.1.1 and d6cdf97
+#-# * d6cdf97 2023-04-10 13:09:01 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 9451f96 2023-02-24 15:25:28 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/stevedore (master) ][0m
+#-# Changes between 5.0.0 and a2a4fa3
+#-# * da129b1 2023-04-10 14:37:20 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# | * 462be04 2022-09-09 17:01:58 +0100 Catch NotADirectoryError error
+#-# * 43a79dd 2023-02-24 15:26:05 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/taskflow (master) ][0m
+#-# Changes between 5.1.0 and 5c1b7e58
+#-# * 086b3e43 2023-01-12 08:59:29 +0000 Fix parsing of zookeeper jobboard backend options
+#-# * 77bc3cb7 2023-02-27 02:18:54 -0500 Prepare taskflow for sqlalchemy2
+#-# * a2078f4e 2023-03-21 11:28:33 -0400 Fix doc building with Sphinx 6.0
+#-# | * 8535f841 2023-04-10 13:12:05 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# |/  
+#-# * dd73b125 2023-02-24 15:26:38 +0000 Update master for stable/2023.1
+#-# * 56413aa3 2022-08-03 20:37:13 +0800 Replace abc.abstractproperty with property and abc.abstractmethod
+#-# * 4ff2d001 2022-09-29 08:37:05 +0000 Change StrictRedis usage to Redis
