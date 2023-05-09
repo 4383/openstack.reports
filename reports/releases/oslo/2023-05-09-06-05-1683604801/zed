@@ -1,0 +1,112 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (stable/zed) ][0m
+#-# Changes between 3.0.1 and 093cd0e
+#-# * 093cd0e 2022-09-09 09:15:26 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * fe3bd52 2022-09-09 09:15:24 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/castellan (stable/zed) ][0m
+#-# Changes between 4.0.0 and 14f9853
+#-# * 14f9853 2022-09-09 09:15:39 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * 7c2ee2d 2022-09-09 09:15:38 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.concurrency (stable/zed) ][0m
+#-# Changes between 5.1.1 and 28fd71f
+#-# * 28fd71f 2023-05-04 20:19:39 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * d41e8f3 2023-04-10 01:53:34 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 8c582a4 2023-02-24 15:16:10 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (stable/zed) ][0m
+#-# Changes between 9.0.0 and 715859d
+#-# * dd5a0be 2022-09-09 09:16:07 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * d8ea965 2022-09-09 09:16:05 +0000 Update .gitreview for stable/zed
+#-# * c9aeb2b 2022-09-09 15:43:49 +0100 fix CLI mismatch in unit tests
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (stable/zed) ][0m
+#-# Changes between 5.0.0 and 65212d2
+#-# * 65212d2 2022-09-09 09:16:20 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * 300bd50 2022-09-09 09:16:18 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (stable/zed) ][0m
+#-# Changes between 12.1.0 and 717c824
+#-# * 717c824 2022-09-09 17:42:41 +0100 types: Set 'cache_ok' (redux)
+#-# * 95c2fc6 2022-09-09 09:16:34 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * bc47794 2022-09-09 09:16:32 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.i18n (stable/zed) ][0m
+#-# Changes between 6.0.0 and a74cbd9
+#-# * a74cbd9 2023-05-06 03:45:03 +0000 Imported Translations from Zanata
+#-# * 47d6d34 2023-05-04 20:19:45 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * 14ac5fa 2023-04-10 01:53:20 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-# | * a90c449 2023-02-17 11:38:42 +0000 tox: Remove 'ignore_base_python_conflict'
+#-# * 567dd05 2023-02-24 15:18:17 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (stable/zed) ][0m
+#-# Changes between 2.0.1 and 4eea87f
+#-# * 4eea87f 2022-09-09 09:16:46 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * 28c0dc6 2022-09-09 09:16:45 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.log (stable/zed) ][0m
+#-# Changes between 5.1.0 and a0c3ca8
+#-# * a0c3ca8 2023-05-04 20:19:08 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * 6abf69e 2023-04-10 01:50:19 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-# * ecfe66f 2023-02-24 15:19:10 +0000 Update master for stable/2023.1
+#-# * 2b6f580 2022-12-31 11:12:48 +0800 Cleanup py27 support
+#-# * 15c71dd 2023-01-28 03:51:07 +0000 Imported Translations from Zanata
+#-# [1m[91m[ Unreleased changes in openstack/oslo.messaging (stable/zed) ][0m
+#-# Changes between 14.0.0 and d814af05
+#-# * d814af05 2022-09-09 09:17:02 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * bb789e9a 2022-09-09 09:17:00 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.metrics (stable/zed) ][0m
+#-# Changes between 0.5.0 and 2e58dad
+#-# * 2e58dad 2023-01-13 13:44:27 +0000 Fix logging labales --> labels
+#-# * 9e8e549 2022-09-09 09:17:15 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * 14d1a40 2022-09-09 09:17:13 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (stable/zed) ][0m
+#-# Changes between 5.0.0 and d3266ae
+#-# * d3266ae 2022-09-09 09:17:28 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * 7ca7c40 2022-09-09 09:17:26 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.policy (stable/zed) ][0m
+#-# Changes between 4.0.0 and 5175435
+#-# * 5175435 2022-09-09 09:17:41 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * 7875e11 2022-09-09 09:17:39 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (stable/zed) ][0m
+#-# Changes between 3.0.1 and a537a17
+#-# * a537a17 2022-09-09 09:17:54 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * c4934e7 2022-09-09 09:17:53 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.reports (stable/zed) ][0m
+#-# Changes between 3.0.0 and 61ce374
+#-# * 61ce374 2023-05-04 20:20:07 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * a1b8dc2 2023-04-10 01:55:50 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 15bfc2c 2023-02-24 15:22:18 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.rootwrap (stable/zed) ][0m
+#-# Changes between 7.0.1 and f02bdb9
+#-# * f02bdb9 2023-05-04 20:18:24 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * 90ea8f3 2023-04-10 01:56:11 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 3702177 2023-02-24 15:22:45 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (stable/zed) ][0m
+#-# Changes between 5.0.0 and d0d643b
+#-# * d0d643b 2022-09-09 09:18:07 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * de3bf30 2022-09-09 09:18:06 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (stable/zed) ][0m
+#-# Changes between 3.0.0 and a5913df
+#-# * a5913df 2022-09-09 09:18:21 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * f9629e1 2022-09-09 09:18:20 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (stable/zed) ][0m
+#-# Changes between 2.0.0 and 52526d7
+#-# * 52526d7 2022-09-09 09:18:34 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * 6bb018e 2022-09-09 09:18:32 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.utils (stable/zed) ][0m
+#-# Changes between 6.0.1 and 716c2e2
+#-# * 716c2e2 2023-01-30 09:49:33 +0000 [imageutils] Fix __str__ for QemuImgInfo
+#-# * f04ba14 2022-09-09 09:18:47 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * 1f86025 2022-09-09 09:18:45 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (stable/zed) ][0m
+#-# Changes between 3.0.1 and 73d4a1b
+#-# * 73d4a1b 2022-09-09 09:19:01 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * 12a8a23 2022-09-09 09:18:59 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (stable/zed) ][0m
+#-# Changes between 4.0.1 and e563fa2
+#-# * e563fa2 2022-09-09 09:19:15 +0000 Update TOX_CONSTRAINTS_FILE for stable/zed
+#-# * 342f2d1 2022-09-09 09:19:13 +0000 Update .gitreview for stable/zed
+#-# [1m[91m[ Unreleased changes in openstack/taskflow (stable/zed) ][0m
+#-# Changes between 5.1.0 and 8fc904f5
+#-# * 352cdb36 2023-05-04 20:20:24 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# | * 086b3e43 2023-01-12 08:59:29 +0000 Fix parsing of zookeeper jobboard backend options
+#-# | * 77bc3cb7 2023-02-27 02:18:54 -0500 Prepare taskflow for sqlalchemy2
+#-# | * a2078f4e 2023-03-21 11:28:33 -0400 Fix doc building with Sphinx 6.0
+#-# * | 8535f841 2023-04-10 13:12:05 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# |/  
+#-# * dd73b125 2023-02-24 15:26:38 +0000 Update master for stable/2023.1
+#-# * 56413aa3 2022-08-03 20:37:13 +0800 Replace abc.abstractproperty with property and abc.abstractmethod
+#-# * 4ff2d001 2022-09-29 08:37:05 +0000 Change StrictRedis usage to Redis
