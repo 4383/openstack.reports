@@ -28,15 +28,15 @@ fi
 git clone git@github.com:4383/openstack.reports
 cd_releses
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/master.sh
+sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/antelope.sh
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/zed.sh
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/yoga.sh
-sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/xena.sh
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/wallaby.sh
 sh ~/dev/redhat/upstream/openstack/oslo/releases/openstack.reports/${report_path}/independent.sh
 EOF
 
 #########################################
-# master (antelope)
+# master (bobcat)
 #########################################
 .tox/venv/bin/list-deliverables --team oslo -r | awk -F "/" '{print "# tools/new_release.sh zed $2 " bugfix"}' > ${output}/master.sh
 tox -e venv --notest
@@ -55,7 +55,16 @@ awk 'NF' ${output}/indep.tmp > ${output}/indep.tmp2
 sed -i -e 's/^/#-# /' ${output}/indep.tmp2
 cat ${output}/indep.tmp2 >> ${output}/indep
 #########################################
-# master (zed)
+# antelope
+#########################################
+.tox/venv/bin/list-deliverables --team oslo -r --series antelope | awk -F "/" '{print "# tools/new_release.sh antelope " $2 " bugfix"}' > ${output}/antelope.sh
+./tools/list_unreleased_changes.sh --ignore-all stable/2023.1 \
+    $(.tox/venv/bin/list-deliverables --team oslo -r --series antelope) > ${output}/antelope.tmp
+awk 'NF' ${output}/antelope.tmp > ${output}/antelope.tmp2
+sed -i -e 's/^/#-# /' ${output}/antelope.tmp2
+cat ${output}/antelope.tmp2 >> ${output}/antelope
+#########################################
+# zed
 #########################################
 .tox/venv/bin/list-deliverables --team oslo -r | awk -F "/" '{print "# tools/new_release.sh zed $2 " bugfix"}' > ${output}/zed.sh
 tox -e venv --notest
@@ -73,24 +82,6 @@ cat ${output}/zed.tmp2 >> ${output}/zed
 awk 'NF' ${output}/yoga.tmp > ${output}/yoga.tmp2
 sed -i -e 's/^/#-# /' ${output}/yoga.tmp2
 cat ${output}/yoga.tmp2 >> ${output}/yoga
-#########################################
-# xena
-#########################################
-.tox/venv/bin/list-deliverables --team oslo -r --series xena | awk -F "/" '{print "# tools/new_release.sh xena " $2 " bugfix"}' > ${output}/xena.sh
-./tools/list_unreleased_changes.sh --ignore-all stable/xena \
-    $(.tox/venv/bin/list-deliverables --team oslo -r --series xena) > ${output}/xena.tmp
-awk 'NF' ${output}/xena.tmp > ${output}/xena.tmp2
-sed -i -e 's/^/#-# /' ${output}/xena.tmp2
-cat ${output}/xena.tmp2 >> ${output}/xena
-#########################################
-# wallaby
-#########################################
-.tox/venv/bin/list-deliverables --team oslo -r --series wallaby | awk -F "/" '{print "# tools/new_release.sh wallaby " $2 " bugfix"}' > ${output}/wallaby.sh
-./tools/list_unreleased_changes.sh --ignore-all stable/wallaby \
-    $(.tox/venv/bin/list-deliverables --team oslo -r --series wallaby) > ${output}/wallaby.tmp
-awk 'NF' ${output}/wallaby.tmp > ${output}/wallaby.tmp2
-sed -i -e 's/^/#-# /' ${output}/wallaby.tmp2
-cat ${output}/wallaby.tmp2 >> ${output}/wallaby
 #########################################
 # cleaning
 #########################################
