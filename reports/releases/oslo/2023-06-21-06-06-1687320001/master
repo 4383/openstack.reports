@@ -1,0 +1,119 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (master) ][0m
+#-# Changes between 3.1.0 and 9255778
+#-# * 9255778 2023-02-24 15:14:47 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.cache (master) ][0m
+#-# Changes between 3.4.0 and 7a596b7
+#-# * 7a596b7 2023-05-09 03:09:14 +0000 Imported Translations from Zanata
+#-# [1m[91m[ Unreleased changes in openstack/oslo.concurrency (master) ][0m
+#-# Changes between 5.1.1 and 9c7ecb4
+#-# * 9c7ecb4 2023-05-09 04:24:56 +0000 Imported Translations from Zanata
+#-# * 28fd71f 2023-05-04 20:19:39 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * d41e8f3 2023-04-10 01:53:34 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 8c582a4 2023-02-24 15:16:10 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (master) ][0m
+#-# Changes between 9.1.1 and 44725fa
+#-# * 44725fa 2023-05-05 18:51:22 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * 32d5549 2023-04-10 13:03:19 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 1654dcc 2023-02-24 15:16:54 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (master) ][0m
+#-# Changes between 5.1.1 and 5168ccd
+#-# * 5168ccd 2023-05-05 18:53:22 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * 2a3c812 2023-04-10 12:58:33 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * e17e485 2023-02-24 15:17:21 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (master) ][0m
+#-# Changes between 13.0.0 and 9ef739e
+#-# * 5456520 2023-05-09 04:28:20 +0000 Imported Translations from Zanata
+#-# * c69e5e5 2023-06-14 16:08:47 -0700 Handle server default quoting
+#-# * c6e57cf 2023-05-05 18:55:51 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# [1m[91m[ Unreleased changes in openstack/oslo.i18n (master) ][0m
+#-# Changes between 6.0.0 and e356fe9
+#-# * e356fe9 2023-05-09 02:36:19 +0000 Imported Translations from Zanata
+#-# * a74cbd9 2023-05-06 03:45:03 +0000 Imported Translations from Zanata
+#-# * 47d6d34 2023-05-04 20:19:45 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * 14ac5fa 2023-04-10 01:53:20 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-# | * a90c449 2023-02-17 11:38:42 +0000 tox: Remove 'ignore_base_python_conflict'
+#-# * 567dd05 2023-02-24 15:18:17 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (master) ][0m
+#-# Changes between 2.1.0 and fc64349
+#-# * fc64349 2023-05-05 18:53:49 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * 886e717 2023-04-10 13:06:20 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * de69de1 2023-02-24 15:18:42 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.log (master) ][0m
+#-# Changes between 5.1.0 and eaf6089
+#-# * eaf6089 2023-05-09 03:43:09 +0000 Imported Translations from Zanata
+#-# * a0c3ca8 2023-05-04 20:19:08 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * 6abf69e 2023-04-10 01:50:19 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-# * ecfe66f 2023-02-24 15:19:10 +0000 Update master for stable/2023.1
+#-# * 2b6f580 2022-12-31 11:12:48 +0800 Cleanup py27 support
+#-# * 15c71dd 2023-01-28 03:51:07 +0000 Imported Translations from Zanata
+#-# [1m[91m[ Unreleased changes in openstack/oslo.metrics (master) ][0m
+#-# Changes between 0.6.0 and 40c1def
+#-# * 40c1def 2023-05-05 18:54:44 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * e01117f 2023-04-10 13:09:38 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * d399b28 2023-02-24 15:20:30 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (master) ][0m
+#-# Changes between 5.1.1 and ad9c204
+#-# * ad9c204 2023-06-16 17:26:33 +1000 fix spelling
+#-# * 2eb512c 2023-05-05 18:57:05 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * 089fa36 2023-04-10 12:59:22 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 05be604 2023-02-24 15:20:58 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (master) ][0m
+#-# Changes between 3.1.0 and 9c02680
+#-# * 9c02680 2023-05-05 18:57:21 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * 71385bb 2023-04-10 13:05:30 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * e2a4f5c 2023-02-24 15:21:53 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.reports (master) ][0m
+#-# Changes between 3.0.0 and 61ce374
+#-# * 61ce374 2023-05-04 20:20:07 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * a1b8dc2 2023-04-10 01:55:50 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 15bfc2c 2023-02-24 15:22:18 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.rootwrap (master) ][0m
+#-# Changes between 7.0.1 and f02bdb9
+#-# * f02bdb9 2023-05-04 20:18:24 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * 90ea8f3 2023-04-10 01:56:11 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 3702177 2023-02-24 15:22:45 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (master) ][0m
+#-# Changes between 5.1.1 and d4c988a
+#-# * b111b03 2023-05-04 20:19:50 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# | * a326ec5 2023-03-23 17:17:59 +0100 Implement zoneinfo support to drop dependency to pytz
+#-# * | 9ffd4e5 2023-04-10 01:55:38 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-#  /  
+#-# * e3307fd 2023-03-23 17:17:59 +0100 Use the new openstack-python3-jobs template
+#-# * 864aa2f 2023-02-24 15:23:11 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (master) ][0m
+#-# Changes between 3.1.1 and b4c4869
+#-# * b4c4869 2023-05-05 18:51:54 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * a932419 2023-04-10 13:02:18 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 4341377 2023-02-24 15:23:38 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (master) ][0m
+#-# Changes between 2.1.1 and cbee52e
+#-# * cbee52e 2023-05-05 18:58:11 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * d84fbc1 2023-04-10 13:07:38 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * a8f3880 2023-02-24 15:24:03 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.utils (master) ][0m
+#-# Changes between 6.1.0 and 7c2b949
+#-# * 650b31f 2023-05-24 13:58:29 +0000 Add netutils.get_my_ipv6()
+#-# * c08e46d 2023-05-31 13:28:24 -0400 strutils: update string_to_bytes
+#-# * 4cc5693 2023-04-07 11:34:06 -0400 Update units for current SI prefixes
+#-# * 2c8668c 2023-05-15 17:29:46 +0900 Fix compatibility with Python 3.8
+#-# * 541ba30 2023-05-04 20:18:53 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# | * 7d9fda6 2023-03-23 17:13:44 +0100 Implement zoneinfo support to drop dependency to pytz
+#-# * | 8c63440 2023-04-10 01:51:40 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-#  /  
+#-# * 26a920e 2023-03-23 17:13:44 +0100 Use the new openstack-python3-jobs template
+#-# * 067a0db 2023-02-24 15:24:32 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (master) ][0m
+#-# Changes between 3.1.0 and 120e23d
+#-# * 120e23d 2023-05-05 18:57:40 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * 20d24cb 2023-04-10 13:01:31 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 638a788 2023-02-24 15:25:00 +0000 Update master for stable/2023.1
+#-# * fb5a423 2022-10-01 03:58:31 +0000 Imported Translations from Zanata
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (master) ][0m
+#-# Changes between 4.1.1 and abd720b
+#-# * abd720b 2023-05-09 02:33:00 +0000 Imported Translations from Zanata
+#-# * f442d81 2023-05-05 18:53:04 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * d6cdf97 2023-04-10 13:09:01 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 9451f96 2023-02-24 15:25:28 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/taskflow (master) ][0m
+#-# Changes between 5.2.0 and b18848b3
+#-# * aa2980f9 2023-04-10 11:00:20 +0900 Upgrade development status
