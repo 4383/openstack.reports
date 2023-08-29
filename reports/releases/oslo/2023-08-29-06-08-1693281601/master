@@ -1,0 +1,27 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (master) ][0m
+#-# Changes between 3.1.0 and 9255778
+#-# * 9255778 2023-02-24 15:14:47 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (master) ][0m
+#-# Changes between 13.1.0 and 5363ca1
+#-# * 5363ca1 2023-07-20 11:16:22 +0100 Remove MySQL NDB Cluster Support
+#-# * c42eb7e 2023-07-19 16:44:39 +0100 trivial: Reflow docstrings
+#-# * 8dcd473 2023-07-14 15:41:37 +0100 exc_filters: Do not reraise
+#-# * 64389d3 2023-07-17 10:43:05 +0100 tests: Use column_property
+#-# [1m[91m[ Unreleased changes in openstack/oslo.log (master) ][0m
+#-# Changes between 5.3.0 and 0b47867
+#-# * 390a1d1 2023-08-09 16:03:23 +0200 Catch RuntimeError when loading log config file
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (master) ][0m
+#-# Changes between 5.1.1 and 4ba32ed
+#-# * 207541f 2023-08-21 09:41:36 +0900 Use upper-constraint in doc generation
+#-# | * 4153ffe 2023-06-28 04:09:45 +0000 Imported Translations from Zanata
+#-# | * 170e35a 2023-04-10 02:01:34 +0000 Bump bandit and make oslo.middleware compatible with latest rules
+#-# | | * ad9c204 2023-06-16 17:26:33 +1000 fix spelling
+#-# | |/  
+#-# |/|   
+#-# * | 2eb512c 2023-05-05 18:57:05 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * | 089fa36 2023-04-10 12:59:22 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# |/  
+#-# * 05be604 2023-02-24 15:20:58 +0000 Update master for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/taskflow (master) ][0m
+#-# Changes between 5.3.0 and 3b40c045
+#-# * 3b40c045 2023-08-16 15:57:37 +0200 Update redis dep to >=3.0.0
