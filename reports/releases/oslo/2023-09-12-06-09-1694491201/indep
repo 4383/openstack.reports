@@ -1,0 +1,100 @@
+#-# [1m[91m[ Unreleased changes in openstack/debtcollector (master) ][0m
+#-# Changes between 2.5.0 and cadc09d
+#-# * cadc09d 2023-05-04 20:19:19 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * 88033b5 2023-04-10 13:10:53 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * e44ad1d 2022-05-05 15:57:16 +0200 Drop python3.6/3.7 support in testing runtime
+#-# * c65aabf 2022-03-28 22:56:30 +0900 Add Python 3.8 and 3.9 to supported runtimes
+#-# * f043370 2022-03-15 15:05:43 +0000 Update CI to use unversioned jobs template
+#-# [1m[91m[ Unreleased changes in openstack/etcd3gw (master) ][0m
+#-# Changes between 2.1.0 and f4751f1
+#-# * f4751f1 2023-05-04 20:21:14 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * 9745e76 2023-04-10 13:16:04 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 714d366 2023-01-30 20:35:38 -0500 Allow override of api path via ETCD3GW_API_PATH envvar
+#-# * 1a2ddf8 2023-02-10 14:07:30 +0100 Fix the docs job
+#-# [1m[91m[ Unreleased changes in openstack/futurist (master) ][0m
+#-# Changes between 2.4.1 and ede42b6
+#-# * ede42b6 2023-05-04 20:11:44 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * dac990e 2023-04-10 17:21:14 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 1d53984 2023-04-10 17:21:14 +0900 tox: Replace whitelist_externals
+#-# * 6c37422 2022-04-05 13:36:40 -0700 Add py39 package metadata
+#-# * 651597d 2022-05-05 15:51:45 +0200 Drop python3.6/3.7 support in testing runtime
+#-# [1m[91m[ Unreleased changes in openstack/microversion-parse (master) ][0m
+#-# Changes between 1.0.1 and 8b75af5
+#-# * 3d3edb7 2023-08-07 15:38:15 +0800 setup.cfg: Replace dashes with underscores
+#-# | * 943a2f4 2023-09-07 19:48:13 +0900 Fix warnings in doc build
+#-# |/  
+#-# * edddb6b 2023-05-04 20:21:09 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * 18f5be7 2023-04-10 13:17:40 +0900 Moves supported python runtimes from version 3.8 to 3.10
+#-# * d8e1232 2022-07-28 08:58:56 +0800 remove unicode from code
+#-# * 6d98355 2022-05-09 15:10:02 +0200 Drop python3.6/3.7 support in testing runtime
+#-# * dc07afb 2021-01-21 15:42:04 +0100 Use py3 as the default runtime for tox
+#-# | * ee08574 2021-03-23 13:13:42 +0100 Move flake8 as a pre-commit local target.
+#-# |/  
+#-# * 4ea5fb3 2020-11-03 14:32:48 +0100 Use Python 3.8 as the default runtime for tox
+#-# * 89cb11c 2020-09-15 15:19:35 +0200 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/openstack-doc-tools (master) ][0m
+#-# Changes between 3.3.1 and 6db7dbe
+#-# * 6db7dbe 2022-11-07 10:55:54 +0100 Remove python-dev from bindep
+#-# * 47788ab 2022-07-30 15:30:49 +0800 remove unicode literal from code
+#-# * 8b545f3 2022-05-05 16:20:44 +0200 Drop python3.6/3.7 support in testing runtime
+#-# [1m[91m[ Unreleased changes in openstack/openstackdocstheme (master) ][0m
+#-# Changes between 3.2.0 and ff0be45
+#-# * ff0be45 2023-08-17 11:34:30 +0100 zuul: Add tips job
+#-# [1m[91m[ Unreleased changes in openstack/oslo.concurrency (master) ][0m
+#-# Changes between 5.2.0 and 774f604
+#-# * 774f604 2023-09-07 09:36:02 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslo.i18n (master) ][0m
+#-# Changes between 6.1.0 and 3dd3fa7
+#-# * 3dd3fa7 2023-09-07 09:36:42 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslo.log (master) ][0m
+#-# Changes between 5.3.0 and b5b8c30
+#-# * f3693db 2023-09-08 08:25:38 +0900 Deprecate Windows support
+#-# * ca1ef3b 2023-09-07 09:37:02 +0000 Update master for stable/2023.2
+#-# * 390a1d1 2023-08-09 16:03:23 +0200 Catch RuntimeError when loading log config file
+#-# [1m[91m[ Unreleased changes in openstack/oslo.reports (master) ][0m
+#-# Changes between 3.1.0 and fa6bc36
+#-# * fa6bc36 2023-09-07 09:38:01 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslo.rootwrap (master) ][0m
+#-# Changes between 7.1.0 and dedaf62
+#-# * dedaf62 2023-09-07 09:38:10 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslotest (master) ][0m
+#-# Changes between 4.5.0 and 6a1bc5b
+#-# * 6a1bc5b 2023-05-04 20:21:04 +0000 Revert "Moves supported python runtimes from version 3.8 to 3.10"
+#-# * 1f04434 2023-04-10 01:54:58 +0000 Moves supported python runtimes from version 3.8 to 3.10
+#-# * 0a5932f 2022-08-13 08:42:20 +0800 Cleanup py27 support
+#-# * 21b5f4f 2022-05-27 12:40:19 +0200 Fix formatting of release list
+#-# * 927c867 2022-05-05 16:22:27 +0200 Drop python3.6/3.7 support in testing runtime
+#-# * 49948df 2022-04-19 20:01:18 +0800 Remove unnecessary unicode prefixes
+#-# * 47fe8a2 2022-03-15 15:07:47 +0000 Update CI to use unversioned jobs template
+#-# [1m[91m[ Unreleased changes in openstack/pbr (master) ][0m
+#-# Changes between 5.11.1 and d03d617
+#-# * d03d617 2023-06-02 11:46:31 -0700 Replace imp with importlib.machinery
+#-# * 0e335e6 2023-06-01 08:24:37 -0700 Add release note for build_sphinx removal
+#-# | * ee04b62 2023-05-31 13:25:23 -0700 Use _ instead of - in setup.cfg directives
+#-# |/  
+#-# * 47c5afe 2023-05-31 13:25:13 -0700 Remove sphinx doc building integration
+#-# [1m[91m[ Unreleased changes in openstack/pylockfile (master) ][0m
+#-# Changes between 0.12.2 and d7fe107
+#-# * d7fe107 2020-08-05 20:00:03 -0500 Cleanup the retired repo
+#-# * f3453b8 2017-09-30 11:34:10 +0800 Farewell pylockfile
+#-# * 99870bf 2016-03-17 09:52:27 -0700 Remove oslo.concurrency from replacement recommendation
+#-# * 4977769 2015-12-26 14:22:53 +0530 py32/py33 are no longer supported by Infra's CI
+#-# * 4cc347c 2015-11-26 13:02:32 +0100 Rewrite README file
+#-# [1m[91m[ Unreleased changes in openstack/sphinx-feature-classification (master) ][0m
+#-# Changes between 1.1.0 and f8909fc
+#-# * f8909fc 2022-12-16 22:53:54 -0500 Remove six usage
+#-# * 4c0817f 2022-05-05 16:18:26 +0200 Drop python3.6/3.7 support in testing runtime
+#-# * 6522d7a 2021-04-20 14:04:14 +0800 Use py3 as the default runtime for tox
+#-# * 8966f7f 2022-03-15 15:09:35 +0000 Update CI to use unversioned jobs template
+#-# * cce52fc 2021-02-10 15:08:15 +0000 Migrate from testr to stestr
+#-# | * f557e6a 2021-03-23 13:19:33 +0100 Move flake8 as a pre-commit local target.
+#-# |/  
+#-# * 5495c1d 2020-11-04 10:55:12 +0100 Use TOX_CONSTRAINTS_FILE
+#-# * 4dfbd61 2020-09-15 14:52:53 +0200 Adding pre-commit
+#-# [1m[91m[ Unreleased changes in openstack/taskflow (master) ][0m
+#-# Changes between 5.4.0 and b329ec7e
+#-# * b329ec7e 2023-09-07 09:39:30 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/tooz (master) ][0m
+#-# Changes between 4.2.0 and 0feead5
+#-# * 0feead5 2023-09-04 07:40:44 +0000 Replace en-dash with ASCII minus in a docstring
+#-# * 378566d 2023-01-18 09:55:44 +0000 Change StrictRedis usage to Redis
