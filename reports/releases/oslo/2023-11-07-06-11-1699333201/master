@@ -1,0 +1,102 @@
+#-# [1m[91m[ Unreleased changes in openstack/castellan (master) ][0m
+#-# Changes between 4.2.0 and 7b19136
+#-# * 7b19136 2023-09-07 09:35:42 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslo.cache (master) ][0m
+#-# Changes between 3.5.0 and cb109b0
+#-# * cb109b0 2023-09-07 09:35:52 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslo.concurrency (master) ][0m
+#-# Changes between 5.2.0 and 774f604
+#-# * 774f604 2023-09-07 09:36:02 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (master) ][0m
+#-# Changes between 9.2.0 and bfc32d5
+#-# * bfc32d5 2023-09-07 09:36:12 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (master) ][0m
+#-# Changes between 5.2.0 and 8d25cad
+#-# * e70a618 2023-05-17 16:27:49 +0200 Bump bandit
+#-# * 059f9ba 2023-09-08 12:11:44 -0700 Add method for getting redacted copy of context
+#-# * 1e95f85 2023-09-07 09:36:22 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslo.db (master) ][0m
+#-# Changes between 14.0.0 and 48ff2a0
+#-# * 6c780a4 2023-07-20 12:37:23 +0100 Add link to bug
+#-# * 5854e6b 2023-09-08 12:18:46 +0100 bindep: Use new mysql-* package names
+#-# * 1ae3468 2023-09-07 09:36:33 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslo.i18n (master) ][0m
+#-# Changes between 6.1.0 and 4bcda78
+#-# * 05f9961 2023-05-17 17:31:58 +0200 Bump bandit
+#-# * 77a994a 2023-03-08 20:06:26 -0600 The locale.getdefaultlocale is deprecated
+#-# * 3dd3fa7 2023-09-07 09:36:42 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (master) ][0m
+#-# Changes between 2.2.0 and f28b01e
+#-# * f28b01e 2023-09-07 09:36:52 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslo.log (master) ][0m
+#-# Changes between 5.3.0 and b5b8c30
+#-# * f3693db 2023-09-08 08:25:38 +0900 Deprecate Windows support
+#-# * ca1ef3b 2023-09-07 09:37:02 +0000 Update master for stable/2023.2
+#-# * 390a1d1 2023-08-09 16:03:23 +0200 Catch RuntimeError when loading log config file
+#-# [1m[91m[ Unreleased changes in openstack/oslo.messaging (master) ][0m
+#-# Changes between 14.4.0 and f455edd6
+#-# * ee13e536 2023-05-17 11:06:34 +0200 Bump bandit and make oslo.messaging compatible with latest rules
+#-# * d16cddd8 2023-10-13 17:31:11 +0900 Move integration jobs to Ubuntu 22.04 (Jammy)
+#-# | * 36fb5bce 2023-08-08 15:23:59 +0200 Set default heartbeat_rate to 3
+#-# * 8759cd7d 2023-09-30 04:10:18 +0000 Imported Translations from Zanata
+#-# * a3715386 2023-09-28 11:04:30 +0000 test py311 job
+#-# * c1b606f7 2023-09-25 17:51:32 +0000 Add is_admin to safe fields list for notifications
+#-# | * 7da68f26 2023-08-15 15:03:12 +0000 Add Python3 antelope unit tests
+#-# * 7705b4f3 2023-09-07 09:37:14 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslo.metrics (master) ][0m
+#-# Changes between 0.7.0 and c22c077
+#-# * c22c077 2023-09-07 09:37:23 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (master) ][0m
+#-# Changes between 5.2.0 and 5ee9168
+#-# * 5ee9168 2023-09-21 05:31:45 +0000 Imported Translations from Zanata
+#-# * e122c1e 2023-09-07 09:37:32 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslo.policy (master) ][0m
+#-# Changes between 4.2.1 and a1e7625
+#-# * 3d415ac 2023-09-07 09:37:43 +0000 Update master for stable/2023.2
+#-# * 989f559 2023-10-04 19:01:50 +0900 Fix doc build error
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (master) ][0m
+#-# Changes between 3.2.0 and 121b2fb
+#-# * ee4c01a 2023-05-17 11:39:54 +0200 Bump bandit
+#-# * f79b916 2023-09-07 09:37:52 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslo.reports (master) ][0m
+#-# Changes between 3.1.0 and b37b67f
+#-# * f35998a 2023-05-17 15:28:17 +0200 Bump bandit
+#-# * fa6bc36 2023-09-07 09:38:01 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslo.rootwrap (master) ][0m
+#-# Changes between 7.1.0 and 43ab5ad
+#-# * 43ab5ad 2023-10-16 09:29:07 +0200 Add coreutils as valid value to fix KillFilter test
+#-# * dedaf62 2023-09-07 09:38:10 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (master) ][0m
+#-# Changes between 5.2.0 and 61a6df2
+#-# * f8b733c 2023-05-19 15:52:15 +0200 Bump bandit
+#-# * 27a8fd6 2023-09-07 09:38:20 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (master) ][0m
+#-# Changes between 3.2.0 and ff83185
+#-# * ff83185 2023-09-07 09:38:29 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (master) ][0m
+#-# Changes between 2.2.0 and ac2b44f
+#-# * ac2b44f 2023-09-07 09:38:38 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslo.utils (master) ][0m
+#-# Changes between 6.2.1 and d58ba07
+#-# * d6b9e84 2023-10-07 11:12:53 +0900 Fix missing PyYAML dependency
+#-# | * cecf061 2023-10-04 17:46:57 +0000 Mask chapsecret
+#-# |/  
+#-# * a122f5c 2023-09-08 04:01:37 +0000 Imported Translations from Zanata
+#-# * 7ef1004 2023-09-07 09:38:49 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (master) ][0m
+#-# Changes between 3.2.0 and bda85d0
+#-# * ab48a36 2023-09-07 09:38:59 +0000 Update master for stable/2023.2
+#-# * 6b7248e 2023-03-06 21:36:51 +0100 Avoid TypeError when building for Sphinx 6.1.1 and above
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (master) ][0m
+#-# Changes between 4.2.0 and 60da85c
+#-# * 60da85c 2023-09-21 04:02:12 +0000 Imported Translations from Zanata
+#-# * 19b4d3c 2023-09-15 05:15:54 +0000 Add PBM WSDL for vSphere 8.0
+#-# * da01521 2023-09-07 09:39:09 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/stevedore (master) ][0m
+#-# Changes between 5.1.0 and 111fc2e
+#-# * 111fc2e 2023-09-07 09:39:19 +0000 Update master for stable/2023.2
+#-# [1m[91m[ Unreleased changes in openstack/taskflow (master) ][0m
+#-# Changes between 5.4.0 and 78d8f7f7
+#-# * 78d8f7f7 2023-10-17 16:04:41 +0000 Fix python shebang
+#-# * db27bef4 2023-09-08 12:56:37 +0100 bindep: Use new mysql-* package names
+#-# * b329ec7e 2023-09-07 09:39:30 +0000 Update master for stable/2023.2
