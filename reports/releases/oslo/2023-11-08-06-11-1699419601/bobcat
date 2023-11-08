@@ -1,0 +1,93 @@
+#-# [1m[91m[ Unreleased changes in openstack/automaton (stable/2023.1) ][0m
+#-# Changes between 3.1.0 and e0bec4e
+#-# * e0bec4e 2023-02-24 15:14:44 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * d338f3d 2023-02-24 15:14:40 +0000 Update .gitreview for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/castellan (stable/2023.1) ][0m
+#-# Changes between 4.1.0 and f245120
+#-# * f245120 2023-02-24 15:15:11 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * 3f1e711 2023-02-24 15:15:08 +0000 Update .gitreview for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.cache (stable/2023.1) ][0m
+#-# Changes between 3.3.1 and dedc001
+#-# * dedc001 2023-02-24 15:15:39 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * 35d6792 2023-02-24 15:15:35 +0000 Update .gitreview for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.concurrency (stable/2023.1) ][0m
+#-# Changes between 5.1.1 and a08230b
+#-# * a08230b 2023-02-24 15:16:06 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * 5c87835 2023-02-24 15:16:03 +0000 Update .gitreview for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.config (stable/2023.1) ][0m
+#-# Changes between 9.1.1 and 76b3cab
+#-# * 76b3cab 2023-02-24 15:16:46 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * fb28acd 2023-02-24 15:16:41 +0000 Update .gitreview for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.context (stable/2023.1) ][0m
+#-# Changes between 5.1.1 and 0b6fea6
+#-# * 0b6fea6 2023-02-24 15:17:17 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * 09ed450 2023-02-24 15:17:14 +0000 Update .gitreview for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.i18n (stable/2023.1) ][0m
+#-# Changes between 6.0.0 and 2d00fa1
+#-# * 2d00fa1 2023-02-24 15:18:13 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * 890bf30 2023-02-24 15:18:10 +0000 Update .gitreview for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.limit (stable/2023.1) ][0m
+#-# Changes between 2.1.0 and d0a78df
+#-# * d0a78df 2023-02-24 15:18:39 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * 6fd104c 2023-02-24 15:18:36 +0000 Update .gitreview for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.messaging (stable/2023.1) ][0m
+#-# Changes between 14.2.2 and 45a01414
+#-# * 45a01414 2023-09-30 16:25:41 +0000 Add is_admin to safe fields list for notifications
+#-# * 3645839d 2023-04-13 10:57:29 +0000 Disable greenthreads for RabbitDriver "listen" connections
+#-# [1m[91m[ Unreleased changes in openstack/oslo.metrics (stable/2023.1) ][0m
+#-# Changes between 0.6.0 and 9606699
+#-# * 9606699 2023-02-24 15:20:27 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * 0f26438 2023-02-24 15:20:24 +0000 Update .gitreview for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.middleware (stable/2023.1) ][0m
+#-# Changes between 5.1.1 and b3c4ca7
+#-# * b3c4ca7 2023-02-24 15:20:55 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * cb67092 2023-02-24 15:20:51 +0000 Update .gitreview for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.policy (stable/2023.1) ][0m
+#-# Changes between 4.1.1 and 9680b6b
+#-# * 9680b6b 2023-02-24 15:21:23 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * ab1a9fa 2023-02-24 15:21:19 +0000 Update .gitreview for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.privsep (stable/2023.1) ][0m
+#-# Changes between 3.1.0 and d9798fb
+#-# * d9798fb 2023-02-24 15:21:49 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * 4220291 2023-02-24 15:21:46 +0000 Update .gitreview for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.reports (stable/2023.1) ][0m
+#-# Changes between 3.0.0 and 4dd9a21
+#-# * 4dd9a21 2023-02-24 15:22:15 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * f47cc1d 2023-02-24 15:22:12 +0000 Update .gitreview for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.rootwrap (stable/2023.1) ][0m
+#-# Changes between 7.0.1 and b187d6b
+#-# * b187d6b 2023-10-26 14:51:22 +0000 Add coreutils as valid value to fix KillFilter test
+#-# * 8dc0d41 2023-02-24 15:22:41 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * b5b1791 2023-02-24 15:22:38 +0000 Update .gitreview for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.serialization (stable/2023.1) ][0m
+#-# Changes between 5.1.1 and 6dfc5e2
+#-# * 6dfc5e2 2023-02-24 15:23:08 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * 6d96a2d 2023-02-24 15:23:04 +0000 Update .gitreview for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.service (stable/2023.1) ][0m
+#-# Changes between 3.1.1 and 743bcea
+#-# * 743bcea 2023-02-24 15:23:35 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * f2b06f2 2023-02-24 15:23:32 +0000 Update .gitreview for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.upgradecheck (stable/2023.1) ][0m
+#-# Changes between 2.1.1 and 5b6aa31
+#-# * 5b6aa31 2023-02-24 15:24:00 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * 7d8ea18 2023-02-24 15:23:57 +0000 Update .gitreview for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.utils (stable/2023.1) ][0m
+#-# Changes between 6.1.0 and 3dd0f49
+#-# * 3dd0f49 2023-02-24 15:24:28 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * 1cde479 2023-02-24 15:24:25 +0000 Update .gitreview for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.versionedobjects (stable/2023.1) ][0m
+#-# Changes between 3.1.0 and bdd1d27
+#-# * bdd1d27 2023-02-24 15:24:57 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * ae9ed75 2023-02-24 15:24:53 +0000 Update .gitreview for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/oslo.vmware (stable/2023.1) ][0m
+#-# Changes between 4.1.1 and 332acc6
+#-# * 332acc6 2023-02-24 15:25:24 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * 2c6365c 2023-02-24 15:25:21 +0000 Update .gitreview for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/stevedore (stable/2023.1) ][0m
+#-# Changes between 5.0.0 and 6c179d1
+#-# * 6c179d1 2023-02-24 15:25:59 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * 95db4af 2023-02-24 15:25:51 +0000 Update .gitreview for stable/2023.1
+#-# [1m[91m[ Unreleased changes in openstack/taskflow (stable/2023.1) ][0m
+#-# Changes between 5.1.0 and d6ec6ddc
+#-# * d6ec6ddc 2023-02-24 15:26:34 +0000 Update TOX_CONSTRAINTS_FILE for stable/2023.1
+#-# * 5b56fb3c 2023-02-24 15:26:31 +0000 Update .gitreview for stable/2023.1
